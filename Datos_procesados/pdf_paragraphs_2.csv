@@ -1,0 +1,870 @@
+Paragraph
+"Science of the Total Environment 902 (2023) 166122
+Available online 9 August 2023
+0048-9697/© 2023 Elsevier B.V. All rights reserved."
+"Russian-Ukrainian war impacts on the environment. Evidence from the 
+field on soil properties and remote sensing 
+Maksym Solokha a, Paulo Pereira b,*, Lyudmyla Symochko c,d,e, Nadiya Vynokurova a, 
+Olena Demyanyuk e, Kateryna Sementsova a, Miguel Inacio b, Damia Barcelo f 
+a National Scientific Center, Institute for Soil Science and Agrochemistry Research named after O.N. Sokolovsky, Kharkіv, Ukraine 
+b Environmental Management Laboratory, Mykolas Romeris University, Vilnius, Lithuania 
+c Uzhhorod National University, Uzhhorod, Ukraine 
+d University of Coimbra, Coimbra, Portugal 
+e Institute of Agroecology and Environmental Management NAAS, Kyiv, Ukraine 
+f Department of Environmental Chemistry, Institute of Environmental Assessment and Water Research (IDAEA), Spanish Council for Scientific Research (CSIC), C/Jordi 
+Girona, 18–26, 08034 Barcelona, Spain   
+H I G H L I G H T S  
+G R A P H I C A L  A B S T R A C T  
+• The impacts of the Russian-Ukrainian 
+war on soil and vegetation were 
+assessed."
+"• Bombing increased the amount of fine 
+sediments and metals in the soil."
+"• At a large-scale, vegetation increased in 
+the southeast of Ukraine and decreased 
+in the east."
+"• At a small-scale bombing decreased 
+vegetation cover."
+"• A restoration is urgently needed after 
+the end of the war."
+"A R T I C L E  I N F O   
+Editor: Dami`
+a Barcel´
+o  
+Keywords: 
+War 
+Environment 
+Soil 
+Heavy metals 
+Remote sensing 
+A B S T R A C T   
+The Russian-Ukrainian war is having a dramatic impact on the environment. The effects are still unknown."
+"However, it is expected that the effects will be substantial. Since the conflict is ongoing, it is challenging to have 
+ground-accurate data that could show an idea of the extension of the impact. Remote sensing can support a 
+preliminary analysis in areas without safety to conduct fieldwork. This work aims to assess the impacts of the 
+Russian-Ukrainian war on the environment using field and remote sensing sources. This is the first work that 
+published fieldwork data from this conflict. Different soil properties were studied (e.g., texture and heavy metals) 
+in different places (Novy Korotych and Mala Rohan). Remote sensing (e.g., Normalised Difference Vegetation 
+Index) at different spatial scales (Eastern Ukraine and case study in the Kharkiv region) were assessed between 
+2021 and 2022. The results showed that the finer sediments increased in bombed areas compared with not 
+bombed ones. Also, there was an increase in the content of heavy metals (e.g., Manganese, Iron, Cobalt, Copper, 
+Cadmium, Chromium, Lead and Nickel) in soils in the shelled areas, compared to the non-shelled. This was 
+* Corresponding author."
+E-mail address: pereiraub@gmail.com (P. Pereira).
+"Contents lists available at ScienceDirect 
+Science of the Total Environment 
+journal homepage: www.elsevier.com/locate/scitotenv 
+https://doi.org/10.1016/j.scitotenv.2023.166122 
+Received 6 June 2023; Received in revised form 5 August 2023; Accepted 5 August 2023   
+"
+"Science of the Total Environment 902 (2023) 166122
+2
+mainly observed in the Novy Korotych site. Remote sensing analysis revealed that between 2021 and 2022 at a 
+large scale (Eastern and southeastern Ukraine), vegetation greenness decreased in the areas where the combats 
+are more intense (Luhansk and Donetsk) and increased in the southern area (Zaporizhia and Kherson), likely due 
+to agriculture abandonment. On a small scale (case study in Kharkiv region), the vegetation greenness was 
+affected due to the bombing. Although our results are preliminary, it is important to highlight that shelling is 
+increasing soil pollution and contributing to vegetation greenness reduction where the fighting is intense. The 
+actual impacts of the war still need to be understood entirely."
+"1. Introduction 
+The Russian-Ukrainian war dramatically impacts society and the 
+economy, including life losses, mental health, collective memory, 
+infrastructure disruption (e.g., housing, health, schools), refugees, and 
+economic breakdown (e.g., hand labour mobilisation to war; food se­
+curity). These effects can last for many generations, compromising the 
+future aspirations of the countries involved and, ultimately, the global 
+stability and the relation among nations (Pereira et al., 2022a, 2022b; 
+United Nations, 2022a). Although the impacts on society and the 
+economy are dramatic, the effects of war on the environment cannot be 
+overlooked. The effects are paradoxical. From one side, war-affected 
+areas can be depopulated due to the risk of life loss, reducing the 
+human pressure (e.g., agriculture and industrial activities) on the envi­
+ronment and vegetation and biodiversity recuperation. Examples of this 
+dynamic were observed in Afghanistan (Zhang et al., 2023), Korean 
+Demilitarized Zone (Lawrence et al., 2015) and Cyprus dead zone 
+(Constantinou et al., 2020). On another side, the effects of bombing 
+contribute to landscape morphology change (e.g., bombturbation, 
+trenches and tunnels construction, heavy machinery circulation) (Cer­
+tini et al., 2013), pedogenesis (Hupy and Schaetzl, 2006), soil air and 
+water pollution (e.g., traffic circulation, shelling) (Pereira et al., 2020), 
+vegetation degradation (e.g., trenches construction, heavy machinery 
+circulation, wildfires, (e.g., Omar et al., 2005), and biodiversity and 
+habitat loss (e.g., clear cuts, pollution, wild animals hunting) in terres­
+trial and aquatic ecosystems (e.g., Hanson, 2018). These impacts can last 
+long, depending on the wartime and conflict intensity. Overall, the 
+adverse effects are always high than the benefits (Hanson, 2018). For 
+instance, shelling, mines and trench construction destroy or remix soil 
+horizons (Pereira et al., 2020). Heavy machinery circulation and 
+bombing destroy soil cover and increase compaction, erosion and 
+pollution (e.g., Abdo, 2018). Previous works observed that in areas 
+affected by war, soil texture changes, there is an increase of trace 
+metals/radioactive elements/oil products/energetic materials/nitro­
+aromatic explosives/organophosphorus nerve agents and a reduction of 
+macro and microbiological activity, water infiltration, organic matter 
+and key nutrients (e.g., carbon and nitrogen) (e.g., Al-Awadhi and 
+Misak, 2005; Broomandi et al., 2020; Freije, 2015). Vegetation loss is 
+affected directly by the shelling, grenades or mines, and wildfires pro­
+duced by these explosions. Clear cuts imposed by warfare activities and 
+heavy machinery passage reduce vegetation cover (e.g., Robinson and 
+Sutherland, 2002; Nackoney et al., 2014; Katayama et al., 2015). All 
+these impacts conduce to a dramatic reduction of habitats and the 
+biodiversity of the affected areas. In addition, in war zones, wildlife 
+hunting increases (e.g., Gaynor et al., 2016)."
+"Remote sensing techniques (Witmar, 2015) are crucial to assessing 
+environmental conditions in large-scale areas and when accessibility is 
+limited, as in the case of war. They are essential to understand the 
+spatiotemporal impacts of the conflict and when the intensity (e.g., 
+selling is more intense) or where there is a vegetation recuperation due 
+to land abandonment (e.g., Zhang et al., 2023). Remote sensing-based 
+studies have been applied to assess the impact of armed conflicts in 
+Afghanistan (Beck, 2003; Zhang et al., 2023), Syria (Lubin and Saleem, 
+2019), Kuwait (Ajmi and Din, 2009), Iraque (Jahjah et al., 2007), Sierra 
+Leone (Gbanie et al., 2018), Bosnia (Witmer, 2008), South Sudan 
+(Mackenhauer Olsen et al., 2021), Liberia (Enaruvbe et al., 2019), 
+Mynamar (Shwesin Aung, 2021), Colombia (Camargo et al., 2020), 
+second world war (Poland) (Waga and Fajer, 2021) at different scales, e."
+"g., local (Lubin and Saleem, 2019) and National (Zhang et al., 2023). In 
+Ukraine, only one work was developed, but it was very local and did not 
+assess the impacts at a large scale, especially in the areas where the 
+intensity of the combats is the highest. Also, no spectral indices were 
+conducted, and the impacts were not quantified. The work was con­
+ducted immediately after the war (Shevchuck et al., 2022)."
+The ongoing war in Ukraine is a dramatic event for global security.
+"Their impacts are global, and several reports highlight their impacts on 
+food security (FAO, 2022), poverty (UNICEF, 2022), inflation (Guenette 
+et al., 2022), energy prices (United Nations, 2022b), global trade 
+(UNCTAD, 2022), human rights (United Nations Human Rights, 2022), 
+inequality, education (United Nations, 2022b) unemployment (Inter­
+national Labour Organization, 2022), health, gender equality (United 
+Nations, 2022c), cultural heritage (European Parliament, 2023) political 
+relations,1 population displacement (UNICEF, 2023), population 
+vulnerability to natural disasters (Pereira et al., 2022a), global agendas 
+(e.g., sustainable development goals) (Pereira et al., 2022b), global 
+governance2 and the environment (Pereira et al., 2022a). The environ­
+ment is one of the most affected. The war negatively affects the envi­
+ronment, including air quality and greenhouse gas emissions, 
+biodiversity, soil and landscape morphology, and water availability and 
+quality. This ultimately will reduce the capacities of the ecosystems to 
+supply ecosystem services in quantity and quality (Pereira et al., 2022a)."
+"Although the Russian-Ukrainian war is an ongoing conflict, and we do 
+not have the dimension of the full impacts of this conflict, it is important 
+to understand the effects on the environment, which to some extent, are 
+not completely assessed (Pereira et al., 2022a). The difficulty of going to 
+the field and in war-affected areas increases the challenge of obtaining 
+field-based data and better understanding the impacts of shelling on the 
+environment. For instance, most of the works during ongoing conflicts 
+were conducted using remote sensing techniques, such as in Syria (e.g., 
+Abdo, 2018; Daiyoub et al., 2023), Mynamar (Shwesin Aung, 2021) and 
+South Sudan (Olsen et al., 2021). However, more information about 
+field evidence in ongoing conflicts must be available. Although this is a 
+challenging step, it is important to know it. From field surveys, obtaining 
+more accurate and reliable data and the true content of a determined 
+parameter (e.g., soil texture, pollutant concentration) is possible. Using 
+remote sensing techniques, we can only estimate indicators based on 
+surface reflectance information from individual bands' reflectance and/ 
+or the different band combinations (e.g., spectral indexes). Therefore, 
+although more local, field surveys provide more accurate data than 
+remote sensing techniques. This work presents field-based data on this 
+conflict for the first time. To better understand the effects of the war on 
+the environment, remote sensing analyses were conducted at different 
+scales. This pilot study aims to assess the impacts of shelling on a few soil 
+properties (e.g., texture and heavy metals) and vegetation cover (Nor­
+malised Difference Vegetation Index -NDVI) in the first year after the 
+war."
+"1 https://www.oecd.org/newsroom/statement-from-oecd-secretary-general- 
+on-initial-measures-taken-in-response-to-russia-s-large-scale-aggression-agains 
+t-ukraine.htm  
+2 https://reliefweb.int/report/world/ukraine-war-and-un-reform 
+M. Solokha et al."
+""
+"Science of the Total Environment 902 (2023) 166122
+3
+2. Materials and methods 
+2.1. Study area, experimental design and laboratory analysis 
+Soils were sampled in two different areas near Kharkiv, and remote 
+sensing analyses were conducted in eastern and southeast parts of 
+Ukraine (Kharkiv, Luhansk, Donetsk, Zaporizhia and Kherson) and 
+Dolyna Slovyansky District (hereafter case study) (Fig. 1). The average 
+annual temperature (1981–2010) of the study areas varies from 8 ◦C 
+(Kharkiv, Luhansk and Donetsk) to 9 ◦C (Zaporizhia) and 10 ◦C (Kher­
+son). The average annual precipitation (1981–2010) oscillates between 
+140 and 150 mm (Kharkiv), to 130–120 mm (Luhansk and Donetsk) and 
+110–120 mm (Zaporizhia and Kherson) (Balabukh and Malytska, 2017)."
+"Soil sampling areas (Novy Korotych and Mala Rohan) were located in 
+cropland areas (Fig. 1). According to WRB (2014), the soils were clas­
+sified as chernozems. In Novy Korotych and Mala Rohan, samples were 
+collected (April 14–15, 2022) in a control area (50 m from the crater) 
+with the same land use. In both study sites, bomb craters were identified 
+visually. Inside the crater (Novy Korotych), samples were collected at 
+different positions, bottom of the crater, wall of the crater and top of the 
+crater. In each position, 3 subsamples were collected and mixed to form 
+a composite sample. The mixed sample was packed and labelled for 
+laboratory analysis. In Mala Rohan, only one sample was taken inside 
+the bottom of the crater. Here the field procedures for sampling were the 
+same as in Novy Korotych. Samples were transported to the laboratory 
+and dried in an oven at a temperature of 35 ◦C for 24 h. Subsequently, 
+samples were sieved (2 mm mesh) and separated into two fractions, one 
+for texture other for chemical analysis. The size of soil particles was 
+determined using the laser diffraction method on a Mastersizer 3000E 
+particle analyser from Malvern Instruments with a HydroEV liquid 
+dispersion module. Carbonates were removed using hydrochloric acid 
+with a molar concentration of 0.2 and 0.05 mol/dm3, and disaggrega­
+tion was done using a sodium hydroxide solution with a molar con­
+centration of 1 mol/dm3. Based on these parameters, the Mastersizer 
+3000E will measure the particle size distribution of the soil sample by 
+passing a laser beam through the sample dispersed in water and 
+measuring the diffraction pattern of the scattered light. The Mit theory 
+was used to calculate the particle size distribution from the diffraction 
+Fig. 1. Study areas."
+M. Solokha et al.
+""
+"Science of the Total Environment 902 (2023) 166122
+4
+pattern, considering the particles' refractive index and absorption coef­
+ficient. The determination of mobile forms of Manganese (Mn), Zinc 
+(Zn), Iron (Fe), Cobalt (Co), Copper (Cu), Cadmium (Cd), Chromium 
+(Cr), Lead (Pb) and Nickel (Ni) in soil samples was determined in a 
+buffered ammonium-acetate extract with a pH of 4.8 to ensure accuracy 
+and reliability of measurement results by atomic absorption spectro­
+photometry on the device SATURN - 4."
+"2.2. Data, spatial and statistical analysis 
+Landsat 8 imagery (https://earthexplorer.usgs.gov/) with a resolu­
+tion of 30 m (Eastern and southeast Ukraine) and PlanetScope imagery 
+with 3 m resolution (case study) (Planet Team, 2023) were used for 
+remote sensing analysis. Normalised Difference Vegetation Index 
+(NDVI) was used to assess vegetation cover (Jiang et al., 2021), and it 
+was calculated in the Google Earth Engine platform (https://eart 
+hengine.google.com/). This index was used to assess the impact of the 
+war on vegetation greenness. NDVI was calculated using the Near 
+Infrared (NIR) and Red (R) bands based on the formula: 
+(NIR −Red)
+(NIR + Red)
+The process in Google Earth Engine encompassed (1) filtering the 
+dates to cover the month of June 2021 and 2022 for the eastern and 
+southeast parts of Ukraine Images from 25 to 06-2021/29-06-2022 were 
+used for the case study; (2) selecting a single harmonised surface 
+reflection image; (3) export the image as a raster; (4) import into ArcGIS 
+Pro (ESRI, 2022) for spatial analysis and mapping."
+"2.3. Statistical analysis 
+For statistical analysis, a fishnet (1 km resolution for eastern Ukraine 
+and 10 m resolution for the case study) was conducted using the ArcGIS 
+Pro fishnet tool. Data was collected from the rasters data set (2021 and 
+2022) using the ArcGIS Pro extract multivalues to point tool. Significant 
+differences between NDVI values between 2021 and 2022 (eastern 
+Ukraine and case study) were conducted with a non-parametric Wil­
+coxon rank test, and significant differences were considered at a p <
+0.05. Statistical analysis was carried out using JASP (https://jasp-stats."
+org/).
+"3. Results and discussion 
+3.1. Soil texture and heavy metals 
+The results showed that in Novy Korotych and Mala Rohan, the % of 
+2–0.5 mm particles was lower in the bombed area than in the control."
+"The same was observed in Mala Rohan (Table 1). The explosion imposed 
+by shelling may have increased the % of soil fine sediments due to 
+particle slaking. Bomb explosions detach and redistribute large amounts 
+of soil. It is well known that bombs substantially affect soil physical 
+degradation (Poesen, 2018), as can be observed in Fig. S1. Table 2 shows 
+the metal content in Novy Korotych and Mala Rohan. In Novy Korotych, 
+except for Zn, all the other metals were higher in the bombed areas than 
+in control. Concerning Mala Rohan, Cd, Co, Cr, Cu, Fe, Ni, and Pb were 
+higher in the shelled area compared to the control. In Fig. S1 (taking as 
+an example Lysychansk), region), it is visible in some areas, a high 
+density of craters created by bombs. Therefore, it is likely that the im­
+pacts of shelling in these areas on soil physical and chemical degradation 
+are high. Bomb explosions increase dramatically the presence of metals 
+in soil, as highlighted in different works (e.g., Certini et al., 2013; 
+Broomandi et al., 2020; Pereira et al., 2020) due to the substances 
+released. Previous reports highlighted high contamination in soils 
+affected by war activities in different areas of the world. For instance, 
+Hussain and Gondal (2008), found that in soils exposed to military ac­
+tivities in the Gulf War (1991)- Saudi Arabia -, the levels of Cr and Fe 
+increased substantially. Similar results were identified by Sadiq et al."
+"(1992) in Kuwait, where Cd, Co, Cr, Cu and Ni levels were very high in 
+soils affected by military activities (e.g., oil fires) and in areas affected 
+by military activities during WWI (Pas-de-Calais, France), Williams and 
+Rintoul-Hynes (2022) observed that some areas were enriched with Cu 
+and Pb. Meerschman et al. (2011) also identified Ypres war zone 
+(Belgium) (WWI), that several areas had a high concentration of Cu and 
+Pb due to warfare activities. Thestorf and Makki (2022) found that in 
+Berlin (Germany), soils and war debris from WWII were enriched in Cd, 
+Cu, Ni, Pb and Fe."
+"3.2. Remote sensing analysis 
+Table 3 shows the NDVI results for the Ukraine eastern and south­
+eastern and case study for 2021 and 2022. The results showed that in the 
+first area, the NDVI values were significantly higher in 2022 than in 
+2021, while in the case study area, the opposite was observed. Figs. 2 
+and 3 show the NDVI spatial distribution in both areas. In Ukraine's 
+eastern and southeastern areas, analysing images with 30 m resolution, 
+we did not identify a clear spatial pattern in the Kharkiv region. In the 
+southern area (Zaporizhia and Kherson), in 2022, several areas were 
+greener than in 2021. In Kherson, there were examples of land aban­
+donment (Fig. S3). This may be attributed to migration and the aban­
+donment of agricultural activities in the country's southeastern part 
+(Zaporizhia and Kherson). Another hypothesis is that this could be due 
+to crop rotation, which can occur in some instances. This possibility is 
+not excluded. However, there were shreds of evidence of land aban­
+donment in the cases we spotted, for example, in point 7 of Fig. S3. In 
+Fig. S4, it is visible from the land use history that the area was inten­
+sively used for agriculture from 2014 until 2021. In 2022 after the war 
+started, it was observed that there was no soil tillage to plant crops."
+"There is evidence of spontaneous vegetation growth when soil should be 
+prepared for crop plantation, thus, evidence of agriculture abandonment 
+(e.g., Baeten et al., 2010; Khorchani et al., 2020; Fig. S3). The war 
+provoked a massive population movement in Ukraine. It is estimated 
+that 7 million people went abroad and 5.3 million are displaced inter­
+nally.3 A recent report showed that several households reduced or 
+ceased4 agricultural practices. Previous works observed that in war- 
+affected areas, land abandonment increased vegetation development 
+(e.g., Zhang et al., 2023). This was observed in other areas affected by 
+wars, such as in Vietnam (Lacombe et al., 2010), Chechen wars (Yin 
+et al., 2019), Bosnia (Witmer, 2008), Croatia (Mikulic et al., 2014), Syria 
+(Hazaymeh et al., 2022), Nicaragua (Stevens et al., 2011) and Poland 
+(WWII) (Latocha et al., 2016). In Luhansk and Donetsk, a decrease was 
+identified. For instance, the comparison between satellite images from 
+2021 and 2022 showed that greening areas decreased (Fig. 2). This was 
+attributed to vegetation degradation caused by wildfires due to shelling 
+(Fig. S3). At a large-scale analysis (Ukraine's eastern and southeastern), 
+Table 1 
+Soil granulometry in bombed and non-bombed areas in Novy Korotych and Mala 
+Rohan."
+"2–0.5 mm 
+0.05–0.002 mm 
+<0.002 mm 
+Novy Korotych 
+Control  
+12.48  
+43.03  
+44.49 
+Bottom  
+8.11  
+43.06  
+48.58 
+Wall  
+8.31  
+43.31  
+48.38 
+Top  
+7.63  
+43.52  
+48.85 
+Mala Rohan 
+Control  
+14.65  
+43.66  
+41.69 
+Bottom  
+9.84  
+44.78  
+45.38  
+3 https://joint-research-centre.ec.europa.eu/jrc-news/war-exacerbates- 
+ukraines-population-decline-new-report-shows-2023-03-08_en  
+4 https://www.fao.org/newsroom/detail/ukraine-new-un-survey-shows-rura 
+l-households-are-increasingly-affected-by-the-war/en 
+M. Solokha et al."
+""
+"Science of the Total Environment 902 (2023) 166122
+5
+we observed that greening decreased in some areas while others 
+increased. For instance, war has been more intense in Luhansk and 
+Donetsk, and the shelling is highly dense, as shown in Fig. S2. This 
+contributes to explaining the vegetation greenness decrease in these 
+areas. In the case study, we found a similar situation. Shelling and 
+bombing substantially degraded forested and agricultural areas (Fig. 3)."
+"Previous works observed that vegetation and biodiversity are severely 
+affected in places where war activities are intense (e.g., Lawrence et al., 
+2015; Kanyamibwa, 1998; Hanson, 2018; Pereira et al., 2022a,Pereira 
+et al., 2022b). This was easier to identify in the case study due to the fine 
+resolution of the images obtained (3 m) (Fig. 4). It was possible to 
+identify the bomb's impacts on vegetation. The negative impacts of 
+armed conflicts on vegetation were also identified in other places such as 
+the Democratic Republic of the Congo (Nackoney et al., 2014), Vietnam 
+(Lacombe et al., 2010), Cambodia (Kiernan, 2010), the Czech Republic 
+(WWII) (Dolejˇ
+s et al., 2020), Syria (Almohamad, 2020) and Iraq (Aliyas, 
+2016)."
+"3.3. Limitations and uncertainties 
+The soil data described in this work will likely be the first from this 
+war. We acknowledge that it might not represent the area, and the 
+number of samples is minimal, giving an incomplete picture of the im­
+pacts of bombturbation on soil texture and metals. Detailed studies are 
+needed. However, the results showed that the impacts are similar to 
+those observed in other war zones. This is an ongoing conflict, and it is 
+highly challenging and risky to go to the field. It is unpredictable the 
+areas that will be bombed. Therefore, it is extremely risky to go to the 
+field. However, it is crucial to have access to the areas where the com­
+bats are more intense and sample soils, vegetation and water to have a 
+concrete picture of the impacts of the war on the environment. Also, the 
+effects after the war finish can be high than what we observe now, 
+making our results limited and uncertain to some extent. There are 
+several limitations regarding the large-scale assessment, mainly because 
+the resolution is coarse and lacks detail. For instance, it is difficult to 
+identify the impacts of bombs on vegetation and soils. In our work, at a 
+large scale, we identified vegetation greenness in the southern part of 
+Ukraine. Nevertheless, a detailed analysis at a finer resolution showed 
+that bombs substantially impacted the vegetation and soils."
+"Table 2 
+Soil trace elements content in bombed and non-bombed areas in Novy Korotych and Mala Rohan."
+"Cd 
+Co 
+Cr 
+Cu 
+Fe 
+Mn 
+Ni 
+Pb 
+Zn 
+Novy Korotych 
+Control  
+0.02  
+0.57  
+0.66  
+0.5  
+3.56  
+11.79  
+0.17  
+0.18  
+1.14 
+Bottom  
+0.1  
+0.1  
+2.26  
+1.23  
+5.13  
+26.15  
+0.53  
+0.6  
+0.86 
+Wall  
+0.2  
+0.8  
+0.87  
+1.44  
+5.53  
+26.18  
+0.24  
+3.89  
+0.99 
+Top  
+0.08  
+0.12  
+1.07  
+1.36  
+5.57  
+20.65  
+0.69  
+1.28  
+0.91 
+Mala Rohan 
+Control  
+0.01  
+0.46  
+0.67  
+0.39  
+1.91  
+20.27  
+0.26  
+0.12  
+0.96 
+Bottom  
+0.13  
+0.67  
+1.22  
+0.71  
+2.57  
+18.24  
+0.34  
+0.79  
+0.67  
+Table 3 
+NDVI results statistics. Different letters represent significant differences at a p < 0.05."
+"Year 
+Mean 
+Median 
+Minimum 
+Maximum 
+Standard Deviation 
+Coeficient of variation 
+Eastern and southeastern Ukraine  
+2021  
+0.543  
+0.583 b  
+−1  
+0.919  
+0.235  
+0.43  
+2022  
+0.563  
+0.596 a  
+−0.99  
+0.937  
+0.222  
+0.39 
+Case study  
+2021  
+0.795  
+0.848 a  
+0.279  
+0.147  
+0.121  
+0.15  
+2022  
+0.689  
+0.758 b  
+0.922  
+0.931  
+0.184  
+0.27  
+A
+B
+Fig. 2. Bomturbation in A) Novy Korotych and B) Mala Rohan."
+M. Solokha et al.
+""
+"Science of the Total Environment 902 (2023) 166122
+6
+Fig. 3. Normalised Difference Vegetation Index in June 2021 and 2022."
+M. Solokha et al.
+""
+"Science of the Total Environment 902 (2023) 166122
+7
+Fig. 4. Normalised Difference Vegetation Index in 25-06-2021 and 20-06-2022."
+M. Solokha et al.
+""
+"Science of the Total Environment 902 (2023) 166122
+8
+3.4. Implications for management 
+The impacts of this war on the environment are largely uncertain."
+"However, they are expected to be substantial (Pereira et al., 2022a), and 
+it is expected to be a “toxic legacy”5 of this event. According to the 
+OECD6 “The war has caused widespread and severe damage to the envi­
+ronment and inflicted both immediate and longer-term consequences on the 
+human health, ecosystems and the Ukrainian economy and beyond.”. It is 
+challenging to estimate these impacts. Nevertheless, it is key to assess 
+them once the war ends. Another impact that needs to be considered is 
+the long-term impact of war on the environment. Several works high­
+lighted that wars have long-term impacts on soil, water, air and biodi­
+versity (e.g., Bardgett, 2016; Schillinger et al., 2020; Rawtani et al., 
+2022). For instance, increasing heavy metals in the bombed areas 
+observed in this work can contribute to soil, water and biodiversity 
+degradation. This can increase land degradation and be reflected ulti­
+mately in society (e.g., human health) and the economy (land produc­
+tivity). Land degradation provoked by war can have numerous negative 
+implications on regulation (e.g., air and water purification, noise regu­
+lation, climate regulation, flood regulation, carbon sequestration, 
+pollination), provisioning (e.g., food production, medicinal plants, 
+biomass) and cultural (e.g., recreation, landscape aesthetics, cultural 
+heritage, social cohesion) (Pereira et al., 2022). Several concerns have 
+been raised about the impacts of this war on global food security (Eu­
+ropean Parliament, 2022; FAO, 2022; Lin et al., 2023). This can be 
+accentuated if the ecosystems are damaged. This needs to be considered 
+as well. Another important aspect is the negative impacts on cultural 
+heritage that are ongoing due to shelling. The impacts of war on climate 
+change (e.g., greenhouse emissions) and how climate change events (e."
+"g., floods or droughts) will affect an area environmentally, socially and 
+economically damaged must also be understood. Understanding that 
+these effects can occur and preventing them will be key to improving 
+post-war management. Several works highlighted that the impacts of 
+climate change could be severe (e.g. Kireitseva et al., 2023). Neverthe­
+less, it is also true that the war triggered a transition to the use of cleaner 
+energy (e.g., Nerlinger and Utz, 2022). Another important aspect is that 
+this conflict hampered important global goals such as the Sustainable 
+Development Goals. COVID−19 affected the capacity of several coun­
+tries (e.g., mainly from the global south) to meet the proposed targets?."
+"The war accentuated these difficulties. Some reports7 highlighted that 
+achieving the Sustainable Development Goals in 2030 is extremely 
+challenging (Pereira et al., 2022b; UNDP, 2022). Overall, there is a need 
+for large-scale environmental restoration in Ukraine after the war. It is 
+unpredictable the damage extension. The necessity of the establishment 
+of a well-coordinated plan of environmental restoration has been high­
+lighted by different institutions such as World Wildlife Foundation,8 
+United Nations,9 Organization for Economic Cooperation and Develop­
+ment.10 Although preliminary, the results obtained in this work support 
+the idea that there is a need for a major restoration strategy in Ukraine 
+after the war."
+"4. Conclusions 
+Under the current conditions, it is challenging to collect data in the 
+field and have a comprehensive idea about the impacts of the Russian- 
+Ukrainian war on the environment. Remote sensing techniques can be 
+a solution to understanding the effects. This is the first work that pub­
+lishes data about the impacts of the war on soil properties. The impacts 
+of the bombing on the soils of the studied area are evident. For instance, 
+the % of fine sediments and most heavy metals increased. Remote 
+sensing analysis at a larger scale revealed that between 2021 and 2022, 
+greening areas decreased in the areas where the combats are more 
+intense (Luhansk and Donetsk), while in other areas located in south­
+eastern Ukraine (Zaporizhia and Kherson), increased due to agriculture 
+practices abandonment. Population migration affected vegetation dy­
+namics. At small scales analysis, it was observed that the vegetation was 
+damaged due to the shelling. Further works need to be conducted on the 
+field to understand the impacts of the war on soil, water and biodiver­
+sity. Studies focused on remote sensing analysis must be assessed at 
+different scales and with a large temporal spectrum."
+"CRediT authorship contribution statement 
+Maksym Solokha: Data collection, Conceptualization, Writing orig­
+inal draft."
+"Paulo Pereira: Conceptualization, Writing original draft, Еditing."
+Lyudmyla Symochko: Writing-review and editing.
+"Nadiya Vynokurova: Data collection, Writing original draft."
+Olena Demyanyuk: Writing-review and editing.
+"Kateryna Sementsova: Data collection, Writing original draft."
+Miguel Inacio: Writing-review and editing.
+Damia Barcelo: Writing-review and editing.
+"Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper."
+"Data availability 
+Data will be made available on request."
+"Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi."
+org/10.1016/j.scitotenv.2023.166122.
+"References 
+Abdo, H.G., 2018. Impacts of war in Syria on vegetation dynamics and erosion risks in 
+Safita area, Tartous, Syria. Regional and Environmental Change 559, 1707–1719."
+https://doi.org/10.1007/s10113-018-1280-3.
+"Ajmi, D.A., Din, S.U., 2009. Remote sensing: Fundamentals, types and monitoring 
+applications of environmental consequences of War. In: Kassim, T.A., Barcel´
+o, D."
+"(Eds.), Environmental Consequences of War and Aftermath. The Handbook of 
+Environmental Chemistry, vol. 3U. Springer, Berlin, Heidelberg. https://doi.org/ 
+10.1007/978-3-540-87963-3_3."
+"Al-Awadhi, J.M., Omar. S.A, Misak, R.F. (2005) Land degradation indicators in Kuwait."
+"Land Degrad. Dev., 16, 50–65. doi:https://doi.org/10.1002/ldr.666."
+"Aliyas, I.M., 2016. Impact of military actions on sustainable development in Iraq. Int. J."
+"Appl. Sci. 4, 351–357. https://doi.org/10.21013/jas.v4.n2.p16."
+"Almohamad, H., 2020. Impact of land cover change due to armed conflicts on soil 
+Erosion in the basin of the northern Al-Kabeer River in Syria using the RUSLE model."
+"Water 12, 3323. https://doi.org/10.3390/w1212332."
+"Baeten, L., Velghe, D., Vanhellemont, M., De Frenne, D., Hermy, M., Verheyen, K., 2010."
+"Early trajectories of spontaneous vegetation recovery after intensive agricultural 
+land use. Restor. Ecol. 18, 379–386. https://doi.org/10.1111/j.1526- 
+100X.2009.00627.x."
+"Balabukh, V., Malytska, L., 2017. Impact of climate change on natural fire danger in 
+Ukraine. Quarterly Journal of the Hungarian Meteorological Service 121, 453–477."
+"5 https://www.unep.org/news-and-stories/story/toxic-legacy-ukraine-war  
+6 https://www.oecd.org/ukraine-hub/policy-responses/environmental-i 
+mpacts-of-the-war-in-ukraine-and-prospects-for-a-green-reconstruction- 
+9e86d691/  
+7 https://press.un.org/en/2022/dsgsm1715.doc.htm  
+8 https://wwfcee.org/our-offices/ukraine/assessing-the-environmental-i 
+mpacts-of-the-war-in-ukraine  
+9 https://reliefweb.int/report/ukraine/ten-step-plan-address-environmental 
+-impact-war-ukraine  
+10 https://www.oecd.org/ukraine-hub/policy-responses/environmental-i 
+mpacts-of-the-war-in-ukraine-and-prospects-for-a-green-reconstruction- 
+9e86d691/ 
+M. Solokha et al."
+""
+"Science of the Total Environment 902 (2023) 166122
+9
+Bardgett, R., 2016. Soil and War. In: Bardgett, R. (Ed.), Earth Matters: How Soil Underlies 
+Civilisation. Oxford Academic, pp. 105–134. https://doi.org/10.1093/oso/ 
+9780199668564.003.0010."
+"Beck, R.A., 2003. Remote sensing and GIS as counterterrorism tools in the Afghanistan 
+War: a case study of the Zhawar Kili region. Prof. Geogr. 55, 170–179. https://doi."
+org/10.1111/0033-0124.5502005.
+"Broomandi, P., Guney, M., Kim, J.R., Karaca, F., 2020. Soil contamination in areas 
+impacted by military activities: a critical review. Sustainability 12, 9002. https:// 
+doi.org/10.3390/su12219002."
+"Camargo, G., Sampayo, A.M., Galindo, A.P., Escobedo, F., Carriazo, F., Feged- 
+Rivadeneira, A., 2020. Exploring the dynamics of migration, armed conflict, 
+urbanisation, and anthropogenic change in Colombia. PlosOne 15, e0242266."
+https://doi.org/10.1371/journal.pone.0242266.
+"Certini, G., Scalenghe, R., Woods, W.I., 2013. The impact of warfare on the soil 
+environment. Earth Sci. Rev. 127, 1–15. https://doi.org/10.1016/j."
+earscirev.2013.08.009.
+"Constantinou, C.M., Hadjimichael, M., Eftychiou, E., 2020. Ambivalent greenings, 
+collateral conservation: negotiating ecology in a United Nations buffer zone. Polit."
+"Geogr. 77, 102096 https://doi.org/10.1016/j.polgeo.2019.102096."
+"Daiyoub, A., Gelabert, P., Saura-Mas, S., Vega-Garcia, C., 2023. War and deforestation: 
+using remote sensing and machine learning to identify the War-induced 
+deforestation in Syria 2010–2019. Land 12, 1509. https://doi.org/10.3390/ 
+land12081509."
+"Dolejˇ
+s, M., Pacina, J., Veselý, M., Br´
+ett, D., 2020. Aerial bombing crater identification: 
+exploitation of precise digital terrain models. ISPRS Int. J. Geo Inf. 9, 713. https:// 
+doi.org/10.3390/ijgi9120713."
+"Enaruvbe, G.O., Keculah, K.M., Atedhor, G.O., Osewole, A.O., 2019. Armed conflict and 
+mining induced land-use transition in northern Nimba County, Liberia. Global 
+Ecology and Conservation 17, e00597. https://doi.org/10.1016/j.gecco.2019."
+e00597.
+"ESRI (2022). ArcGIS Pro (Version 3.04). Esri Inc. https://www.esri.com/en-us/arcgis/ 
+products/arcgis-pro/overview."
+"European Parliament, 2022. Russia’s war on Ukraine: impact on global food security and 
+EU response. In: Briefing. EPRS|European Parliamentary Research Service."
+"European Parliament, 2023. Protecting cultural heritage from armed conflicts in Ukraine 
+and beyond. Policy Department for Structural and Cohesion Policies 103."
+"FAO, 2022. Ukraine. Note on the impacts of the war on food security in Ukraine. In: Food 
+and Agriculture Organization of the United Nations. Rome."
+"Freije, A.M., 2015. Heavy metal, trace element and petroleum hydrocarbon pollution in 
+the Arabian gulf: review. Journal of the Association of Arab Universities for Basic 
+and Applied Sciences 17, 90–100. https://doi.org/10.1016/j.jaubas.2014.02.001."
+"Gaynor, K.M., Fiorella, K.J., Gregory, G.H., Kurz, D.J., Seto, K.L., Withey, L.S., 
+Brashares, J.S., 2016. War and wildlife: linking armed conflict to conservation."
+"Front. Ecol. Environ. 14, 533–542. https://doi.org/10.1002/fee.1433."
+"Gbanie, S.P., Griffin, A.L., Thorton, A., 2018. Impacts on the urban environment: land 
+cover change trajectories and landscape fragmentation in post-War Western area, 
+Sierra Leone. Remote Sensing 10. https://doi.org/10.3390/rs10010129."
+"Guenette, J.D., Kenworthy, P., Wheeler, C., 2022. Implications of the War in Ukraine for 
+the global economy. In: World Bank Group, EFI Policy Note, 3, p. 31."
+"Hanson, T., 2018. Biodiversity conservation and armed conflict: a warfare ecology 
+perspective. Ann. N. Y. Acad. Sci. 1429, 50–65. https://doi.org/10.1111/ 
+nyas.13689."
+"Hazaymeh, K., Sahwan, W., Al Shogoor, S., Schütt, B., 2022. A remote sensing-based 
+analysis of the impact of Syrian crisis on agricultural land abandonment in Yarmouk 
+River basin. Sensors 22, 3931. https://doi.org/10.3390/s22103931."
+"Hupy, J.P., Schaetzl, R.J., 2006. Introducing “bombturbation”, a singular type of soil 
+disturbing and mixing. Soil Sci. 171, 823–836. https://doi.org/10.1097/01."
+ss.0000228053.08087.19.
+"Hussain, T., Gondal, M.A., 2008. Monitoring and assessment of toxic metals in gulf War 
+oil spill contaminated soil using laser-induced breakdown spectroscopy. Environ."
+"Monit. Assess. 136, 391–399. https://doi.org/10.1007/s10661-007-9694-2."
+"International Labour Organization, 2022. The Impact of the Ukraine Crisis on the World 
+of Work: Initial Assessments. Switzerland, International Labour Organization, 
+Regional Office for Europe and Central Asia, Geneve, p. 11."
+"Jahjah, M., Ulivieri, C., Invernizzi, A., Parapetti, P.R., 2007. Archaeological remote 
+sensing application pre-post war situation of Babylon archaeological site—Iraq. Acta 
+Astronautica 61, 121–130. https://doi.org/10.1016/j.actaastro.2007.01.034."
+"Jiang, S., Chen, X., Smettem, K., Wang, T., 2021. Climate and land use influences on 
+changing spatiotemporal patterns of mountain vegetation cover in Southwest China."
+"Ecol. Indic. 121, 107193."
+"Kanyamibwa, S., 1998. Impact of war on conservation: Rwandan environment and 
+wildlife in agony. Biodivers. Conserv. 7, 1399–1406. https://doi.org/10.1023/A: 
+1008880113990."
+"Katayama, N., Baba, Y.G., Kusumoto, Y., Tanaka, K., 2015. A review of post-war changes 
+in rice farming and biodiversity in Japan. Agric. Syst. 132, 73–84. https://doi.org/ 
+10.1016/j.agsy.2014.09.001."
+"Khorchani, M., Nadal-Romero, E., Tague, C., Lasanta, T., Zabalza, J., Lana-Renault, N., 
+Domínguez-Castro, F., Choate, J., 2020. Effects of active and passive land use 
+management after cropland abandonment on water and vegetation dynamics in the 
+central Spanish Pyrenees. Sci. Total Environ. 717, 137160 https://doi.org/10.1016/ 
+j.scitotenv.2020.137160."
+"Kiernan, K., 2010. Environmental degradation in karst areas of Cambodia: a legacy of 
+war? Land Degrad. Dev. 21, 503–519. https://doi.org/10.1002/ldr.988."
+"Kireitseva, H., Demchyk, L., Paliy, O., Kahukina, A., 2023. Toxic impacts of the war on 
+Ukraine. Int. J. Environ. Stud. 80, 267–276. https://doi.org/10.1080/ 
+00207233.2023.2170582."
+"Lacombe, G., Pierret, A., Hoanh, C.T., Sengtaheuanghoung, O., Noble, A.D., 2010."
+"Conflict, migration and land-cover changes in Indochina: a hydrological assessment."
+"Ecohydrology 3, 361–382. https://doi.org/10.1002/eco.166."
+"Latocha, A., Szymanowski, M., Jeziorska, J., Stec, M., Roszczewska, M., 2016. Effects of 
+land abandonment and climate change on soil erosion—an example from 
+depopulated agricultural lands in the Sudetes Mts, SW Poland. Catena 145, 128–141."
+https://doi.org/10.1016/j.catena.2016.05.027.
+"Lawrence, M.J., Stemberger, H.L.J., Zolderdo, A.J., Struthers, D.P., Cooke, S.J., 2015."
+"The effects of modern war and military activities on biodiversity and the 
+environment. Environ. Rev. 23 https://doi.org/10.1139/er-2015-0039."
+"Lin, F., Li, X., Jia, N., Feng, F., Huang, H., Huang, J., Fan, S., Ciais, P., Song, X.-P., 2023."
+"The impact of Russia-Ukraine conflict on global food security. Global Food Security 
+36, 100661. https://doi.org/10.1016/j.gfs.2022.100661."
+"Lubin, A., Saleem, A., 2019. Remote sensing-based mapping of the destruction to Aleppo 
+during the Syrian civil War between 2011 and 2017. Appl. Geogr. 108, 30–38."
+https://doi.org/10.1016/j.apgeog.2019.05.004.
+"Meerschman, E., Cockx, L., Monirul Islam, M., Meeuws, F., Van Meirvenne, M., 2011."
+"Geostatistical assessment of the impact of World War I on the spatial occurrence of 
+soil heavy metals. Ambio 417-424. https://doi.org/10.1007/s13280-010-0104-6."
+"Mikulic, K., Radovic, A., Kati, S., Jelaska, S., Tepic, N., 2014. Effects of land 
+abandonment on bird communities of smallholder farming landscapes in post-war 
+Croatia: implications for conservation policies. Community Ecology 15, 169–179."
+https://doi.org/10.1556/comec.15.2014.2.5.
+"Nackoney, J., Molinario, G., Potapov, P., Turubanova, S., Hansen, M.C., Furuichi, T., 
+2014. Impacts of civil conflict on primary forest habitat in northern Democratic 
+Republic of the Congo, 1990–2010. Biol. Conserv. 170, 321–328. https://doi.org/ 
+10.1016/j.biocon.2013.12.033."
+"Nerlinger, M., Utz, S., 2022. The impact of the Russia-Ukraine conflict on energy firms: a 
+capital market perspective. Financ. Res. Lett. 50, 103243 https://doi.org/10.1016/j."
+frl.2022.103243.
+"Olsen, V.M., Fensholt, R., Olofsson, P., Bonifacio, R., Butsic, V., Druce, D., Ray, D., 
+Prishchepov, A.V., 2021. The impact of conflict-driven cropland abandonment on 
+food insecurity in South Sudan revealed using satellite remote sensing. Nature Food 
+2, 990–996. https://doi.org/10.1038/s43016-021-00417-3."
+"Omar, S., Bhat, N.R., Shahid, S.A., Assem, A., 2005. Land and vegetation degradation in 
+war-affected areas in the Sabah Al-Ahmad nature Reserve of Kuwait: a case study of 
+Umm. Ar. Rimam. Journal of Arid Environments 62, 475–490. https://doi.org/ 
+10.1016/j.jaridenv.2005.01.009."
+"Pereira, P., Barcelo, D., Panagos, P., 2020. Soil and water threats in a changing 
+environment. Environ. Res. 186, 109501 https://doi.org/10.1016/j."
+envres.2020.109501.
+"Pereira, P., Basic, F., Bogunovic, I., Barcelo, D., 2022a. Russian-Ukrainian war impacts 
+the total environment. Sci. Total Environ. 837, 155865 https://doi.org/10.1016/j."
+scitotenv.2022.155865.
+"Pereira, P., Zhao, W., Symochko, L., Inacio, M., Bogunovic, I., Barcelo, D., 2022b. The 
+Russian-Ukrainian armed conflict will push back the sustainable development goals."
+"Geography and Sustainability 3, 277–287. https://doi.org/10.1016/j."
+geosus.2022.09.003.
+"Planet Team, 2023. Planet Application Program Interface. In Space for Life on Earth, San 
+Francisco, CA. https://api.planet.com."
+"Poesen, J., 2018. Soil erosion in the Anthropocene: research needs. Earth Surface Process 
+and Landforms 43, 64–84. https://doi.org/10.1002/esp.4250."
+"Rawtani, D., Gupta, G., Khatri, N., Mustansar Hussain, C., 2022. Environmental damages 
+due to war in Ukraine: a perspective. Sci. Total Environ. 850, 157932 https://doi."
+org/10.1016/j.scitotenv.2022.157932.
+"Robinson, R.A., Sutherland, W.J., 2002. Post-war changes in arable farming and 
+biodiversity in Great Britain. J. Appl. Ecol. 39, 157–176. https://doi.org/10.1046/ 
+j.1365-2664.2002.00695.x."
+"Sadiq, M., AlThagafi, K.M., Mian, A.A., 1992. Preliminary evaluation of metal 
+contamination of soils from the Gulf War activities. Bull. Environ. Contam. Toxicol."
+"49, 633–639. https://doi.org/10.1007/BF00200774."
+"Schillinger, J., ¨
+Ozerol, G., Güven-Griemert, S., Heldeweg, M., 2020. Water in war: 
+understanding the impacts of armed conflict on water resources and their 
+management. WIRE’s water 7, e1480. https://doi.org/10.1002/wat2.1480."
+"Shevchuck, S.A., Vyshnevskyi, V.I., Biolous Olena, P., 2022. The use of remote sensing 
+data for investigation of environmental consequences of Russia-Ukraine war. Journal 
+of Landscape Ecology 15, 36–53. https://doi.org/10.2478/jlecol-2022-0017."
+"Shwesin Aung, T., 2021. Satellite analysis of the environmental impacts of armed-conflict 
+in Rakhine, Myanmar. Science of the Total Environment 781, 146758. https://doi."
+org/10.1016/j.scitotenv.2021.146758.
+"Stevens, K., Campbell, L., Urquhart, G., Kramer, D., Qi, J., 2011. Examining complexities 
+of forest cover change during armed conflict on Nicaragua’s Atlantic Coast."
+"Biodivers. Conserv. 20, 2597–2613. https://doi.org/10.1007/s10531-011-0093-1."
+"Thestorf, K., Makki, M., 2022. Soils and landforms of war — pedological investigations 
+75 years after World War II. Geomorphology 407, 108189. https://doi.org/10.1016/ 
+j.geomorph.2022.108189."
+"UNCTAD, 2022. The impact on trade and development of the war in Ukraine. UNCTAD 
+rapid assessment. In: United Nations Conference on Trade and Development, p. 8."
+"New York, The USA."
+"UNDP, 2022. The Impact of the War in Ukraine on Sustainable Development in Africa."
+"Rapid Assessment by the Regional Bureau for Africa, UNDP, p. 16."
+"UNICEF, 2022. The Impact of the War in Ukraine and Subsequent Economic Downturn 
+on Child Poverty in Eastern Europe and Central Asia. Italy, UNICEF, Regional Brief, 
+Florence, p. 8."
+"UNICEF, 2023. Ukraine and refugee response. Humanitarian action for. Children. 8."
+M. Solokha et al.
+""
+"Science of the Total Environment 902 (2023) 166122
+10
+United Nations, 2022a. Global Impact of the War in Ukraine: Billions of People Face the 
+Greatest Cost-of-Living Crisis in a Generation. The USA, United Nations, New York, 
+p. 25."
+"United Nations, 2022b. Global Impact of War in Ukraine: Energy Crises. UN Global Crises 
+Response Group on Food, Energy and Finance. Brief no 3. The USA, New York, p. 29."
+"United Nations, 2022c. Global Gendered Impacts of the Ukrainian Crises on Access to 
+Food and Nutrition. The USA, United Nations, New York, p. 20."
+"United Nations Human Rights, 2022. Situation of Human Rights in Ukraine in the 
+Context of the Armed Attack by the Russian Federation. 24 of February, 15 of May."
+"United Nations Human Rights, New York, The USA, p. 48."
+"Waga, J.M., Fajer, M., 2021. The heritage of the second World War: bombing in the 
+forests and wetlands of the Ko´
+zle Basin. Antiquity 95, 417–434. https://doi.org/ 
+10.15184/aqy.2020.154."
+"Williams, O.H., Rintoul-Hynes, N.L.J., 2022. Legacy of war: Pedogenesis divergence and 
+heavy metal contamination on the WWI front line a century after battle. Eur. J. Soil 
+Sci. 73, e13297 https://doi.org/10.1111/ejss.13297."
+"Witmar, F.D.W., 2015. Remote sensing of violent conflict: eyes from above. Int. J."
+"Remote Sens. 36, 2326–2352. https://doi.org/10.1080/01431161.2015.1035412."
+"Witmer, F.D.W., 2008. Detecting war-induced abandoned agricultural land in northeast 
+Bosnia using multispectral, multitemporal Landsat TM imagery. Int. J. Remote Sens."
+"29, 3805–3831. https://doi.org/10.1080/01431160801891879."
+"WRB, 2014. World Reference Base for Soil Resources 2014 International Soil 
+Classification System for Naming Soils and Creating Legends for Soil Maps. Food and 
+Agriculture Organization of the United Nations, Rome, p. 192."
+"Yin, H., Butsic, V., Buchner, J., Kuemmerle, T., Prishchepov, A.V., Baumann, M., 
+Bragina, E.V., Sayadyan, H., Radeloff, V., 2019. Agricultural abandonment and re- 
+cultivation during and after the Chechen wars in the northern Caucasus. Glob."
+"Environ. Chang. 55, 149–159. https://doi.org/10.1016/j.gloenvcha.2019.01.005."
+"Zhang, Z., Ding, J., Zhao, W., Liu, Y., Pereira, P., 2023. The impact of the armed conflict 
+in Afghanistan on vegetation dynamics. Sci. Total Environ. 856, 159138 https://doi."
+org/10.1016/j.scitotenv.2022.159138.
+M. Solokha et al.
+""

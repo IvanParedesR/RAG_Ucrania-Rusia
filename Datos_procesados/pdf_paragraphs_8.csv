@@ -1,0 +1,2185 @@
+Paragraph
+"Energy Reports 9 (2023) 3082–3095
+Contents lists available at ScienceDirect
+Energy Reports
+journal homepage: www.elsevier.com/locate/egyr
+Research paper
+Impact assessment of energy sanctions in geo-conflict:
+Russian–Ukrainian war
+Yangyang Chen a, Jiexin Jiang a, Lei Wang a,∗, Ruisong Wang b
+a College of Economics & Management, China Three Gorges University, YiChang, 443002, China
+b College of Mathematics, University of York, York, YO10 5DD, United Kingdom
+a r t i c l e
+i n f o
+Article history:
+Received 9 November 2022
+Received in revised form 6 January 2023
+Accepted 31 January 2023
+Available online 13 February 2023
+Keywords:
+Geopolitical conflict
+Energy sanctions
+Energy trade
+Direct and indirect effects
+a b s t r a c t
+Since the geopolitical conflict between Russia and Ukraine, Western countries led by the United States
+and the European Union have launched several energy sanctions against Russia. How will sanctions
+and countersanctions on energy trade affect the EU-Russia and the world’s energy trade pattern?
+This paper sets six energy trade scenarios based on the degree of energy sanctions and counter-
+sanction measures imposed by the EU and Russia. We use the global multi-region comparative static
+CGE model to simulate the changes in macroeconomic indicators in major countries worldwide. The
+diversion effect of energy trade and the impact on the national economy caused by geographical risks
+quantitatively analyzes. The results show: (1) Energy sanctions will cause economic damage to both
+sides, in the worst-case scenario, the EU economic loss reaches 1.488%, the Russian loss reaches 4.8%,
+and worldwide inflation will rise; (2) Russia’s counter-sanctions will have a direct economic impact
+on the EU, but will not improve its economic situation; (3) Energy sanctions will bring about a direct
+energy trade transfer effect, the EU’s energy imports will be diverted to non-Russian markets, and
+Russian energy exports will also shift to Asian markets, and energy trade between the two economies
+will be significantly reduced; (4) Energy supply will have a profound impact on the world’s economy
+and society, leading to social instability and a decline in total output of 2.895%. Energy games will
+have a negative impact on the world’s carbon emission reduction and energy consumption structure
+transformation. Through quantitative analysis of the impact of energy sanctions on the world economy
+and society, the energy game caused by the geopolitical crisis will harm both parties involved in
+the game and the world economy. The world pattern will return from the development pattern of
+cooperative division of labor to a situation of conflict and confrontation, which is not conducive to the
+transformation of energy trade and consumption structure under market rules."
+"© 2023 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/)."
+"1. Introduction
+Energy trade has been dominated by geopolitics, and energy
+sanctions are an extension of the political game."
+"The Russia–
+Ukraine conflict has led to several rounds of sanctions in the
+Western world, mainly the United States and the European Union,
+including individual, economic, and financial sanctions (Chepeliev
+et al., 2022; Mahlstein et al., 2022). The sanctions are aimed
+at weakening Russia’s economy, making it unable to pay for
+its high military spending, and forcing Russia out of Ukraine."
+"The most important of the measures should be sanctions on
+Russia’s energy trade. The consequences of the energy sanctions
+imposed by Western countries against Russia significantly impact
+the economy and society of the EU and Russia more than other
+stakeholders. This is mainly because the EU is highly dependent
+∗Corresponding author."
+"E-mail address:
+yan1989vs@163.com (L. Wang)."
+"on Russian energy imports, and Russia’s primary energy export
+market is also in Europe. Economic entities urgently want to
+know what impact the energy game caused by geopolitical con-
+flicts will have on the world economy and social stability and
+what kind of impact it will have on the world energy trade
+pattern."
+"Geopolitical risks (GPRs) will directly affect energy trade, lead-
+ing to energy security (Liu et al., 2021). The industrial production
+of human society is highly dependent on fossil energy consump-
+tion. Still, the geological distribution of fossil energy determines
+that the world’s energy consumers and suppliers are in a state
+of separation. Therefore, geopolitical turmoil in energy-exporting
+regions directly affects the energy security of the world’s energy-
+consuming countries (Inshakov et al., 2019; Vasylkivskyi et al.,
+2020). Many scholars have conducted detailed research on energy
+security issues arising from geopolitical conflicts (Ang et al., 2015;
+Bompard et al., 2017; Kruyt et al., 2009). These studies focus
+on several aspects. One is the impact of geopolitical conflicts on
+https://doi.org/10.1016/j.egyr.2023.01.124
+2352-4847/© 2023 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+""
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+energy trade (Inshakov et al., 2019; Liu et al., 2021). The second is
+the impact of geopolitical conflicts on energy prices (Gong et al.,
+2022; Liu et al., 2019; Zhang et al., 2022). The third is the counter-
+effect of energy consumption structure transformation on geopol-
+itics (Dutta and Dutta, 2022; Salameh, 2014; Su et al., 2021). The
+research on the impact of geopolitical conflicts on energy trade is
+mainly carried out from two aspects. First, suppose the regional
+geopolitical risk of the energy-consuming country occurs. In that
+case, it will lead to a decline in its energy demand, triggering
+a reduction in the country’s dependence on global energy trade."
+"Geopolitical conflicts in such energy-consuming countries have a
+relatively limited impact on international energy trade (Lee et al.,
+2017). On the other side is the geopolitical conflict between en-
+ergy exporters. Political instability in energy-exporting countries
+can directly impact global energy supply through supply chains
+such as energy output and transportation (Yang et al., 2014). In
+GPRs research, a more critical research direction is the impact
+of GPRs on energy prices and will combine oil price fluctuations
+with the energy security of energy-importing countries. However,
+there are still differences in academic research on the mechanism
+of GPRs on oil prices. Cunado et al. (2019) show that only a higher
+GPR drives up oil prices through dynamic research on GPR versus
+actual oil returns between 1974 and 2017. Noguera-Santaella
+(2016) found through an analysis of essential oil price fluctuations
+and interventions in different geopolitical events that geopolit-
+ical events had different impacts on oil prices in 2000. With
+the conclusion of carbon emission reduction agreements around
+the world, the world’s major energy-consuming countries have
+begun to change their energy consumption structure, gradually
+increasing the proportion of renewable energy and reducing fossil
+energy consumption (Vakulchuk et al., 2020). The transformation
+of the energy structure has had a considerable impact on the
+world’s geopolitical conflicts. Since 2010, many scholars have
+noted that renewable energy consumption may bring new geopo-
+litical conflicts. Scholars’ research views on this issue are also
+divided. On the one hand, they believe that the energy transition
+is unlikely to reduce energy-related conflicts (Escribano, 2018;
+Freeman, 2018; Hurd et al., 2012; Jacobson et al., 2017; Raman,
+2013). The other side believes that energy-related conflicts will
+decrease as the energy transition deepens and the proportion
+of energy self-sufficiency in countries gradually increases (Pierri
+et al., 2017; Scholten and Bosman, 2016; Smith Stegen, 2018), the
+increased use of renewable energy reduces the influence of oil
+and gas exporters in global politics (Su et al., 2021)."
+"The impact of geopolitical conflicts on capital markets and
+social welfare is also an important theoretical and empirical
+research direction. Energy price fluctuations have a heteroge-
+neous effect on importing and exporting countries. For energy-
+consuming countries, rising energy prices mean higher produc-
+tion and transportation costs while affecting capital market liq-
+uidity through inflation and interest rates, reducing social welfare
+levels (Antonakakis et al., 2017). On the other hand, energy
+suppliers have seen rising incomes, leading to higher domestic
+consumption, investment, and productivity, more liquidity in
+capital markets, and higher overall social welfare (Apergis et al.,
+2015). At the same time, GPRs have a significant impact on
+market sentiment, investment, and decision-making behavior in
+energy markets, and these effects are ultimately reflected in
+energy price fluctuations (Humphreys, 2005; Ji et al., 2019a,b)."
+"Previous research on geopolitical conflict and energy security
+has focused on using empirical analysis methods to analyze the
+relationship between GPRs and energy security indices or energy
+price indices. The impact of energy sanctions on world energy
+trade has rarely been studied from the perspective of geopolitical
+conflicts by the GTAP model. The tensest Russia–Ukraine conflict
+has triggered a political game around the world. Unlike the past
+world energy security problems caused by GPRs, this contest
+between the EU and Russia in the energy field will likely reshape
+the world energy trade pattern. So, in the energy game caused
+by geopolitical conflicts, what is the EU’s and Russia’s macroeco-
+nomic impact? What is the diversion effect of conflict on world
+energy trade? What impact will it have on transforming the
+world’s energy structure? These are all issues of great concern to
+decision-makers worldwide and need to be solved urgently. This
+study uses the GTAP model to evaluate the impact of different
+levels of energy sanctions on energy trade and macroeconomics
+on both sides of sanctions. The study finds that: (1) Energy
+sanctions will bring macroeconomic losses to both sides of the
+game, and Russia’s economic losses are more serious, but the
+EU will bear a higher level of inflation, and the world will be
+plagued by high inflation; (2) Russia’s energy counter-sanctions
+can produce specific effects, but at the cost of deteriorating its
+economic situation; (3) energy sanctions will lead to a decrease in
+direct energy trade between the two countries, but an increase in
+indirect energy trade; (4) The energy game between the two sides
+will directly drag down the development of the world economy,
+lead to a decline in total world output, and adversely affect
+carbon emission reduction and energy consumption structure
+transformation."
+"The marginal contribution of this paper is: First, under the
+framework of the global trade model, it quantitatively reveals the
+global impact of the energy game between the EU and Russia
+caused by geopolitical conflicts, measures the impact effect of
+energy sanctions on both sides, and from the results of the escala-
+tion of the energy game, the two sides can only lose in this game;
+Second, in the global integration pattern, the competition be-
+tween energy consuming countries and energy supplier countries
+will be weakened through the transfer effect of energy trade, and
+diversified energy demand and supply will become the central
+theme of world energy trade in the future; Third, it provides new
+evidence for studying the mechanism of geopolitical conflicts on
+energy prices. The remainder of this paper is structured in the
+following manner. The second part provides an overview of the
+state of energy trade between the EU and Russia. The third part
+introduces the methods and data used in this paper. The fourth
+part analyzes the empirical results of the article. Part V draws
+conclusions based on the results of the analysis."
+"2. Overview of energy trade between the EU and Russia
+2.1. Comparison of EU and Russian aggregate indicators
+As a member of the Political and Economic Community, the
+EU has 27 member States and a total population of approximately
+446 million. The purpose of the EU is ‘‘to promote the balanced
+economic and social development of member States through
+establishing a space without internal boundaries, the coordinated
+development of the economy and society, and establishing an
+economic and monetary union leading to a unified currency’’."
+"Since its inception, the European Union has been at the center of
+the world economy and politics. The total GDP of the EU in 2021
+ranks third in the world after the United States and China, ranking
+third in the world economy, and the entire trade volume of the EU
+has also reached 13,082.447 billion dollars. As can be seen from
+Table 1, the EU’s large-scale economic activities require massive
+energy consumption, and the total primary energy consumption
+of the EU in 2020 reached 55.74 exajoules, accounting for 10.01%
+of the world’s total immediate energy consumption. However, the
+EU’s own fossil energy reserves are insufficient, with oil reserves
+accounting for only 0.1% of the world’s oil reserves, natural gas
+reserves accounting for 0.2% of the world’s total, and coal re-
+serves accounting for 7.3% of the world’s resources. The enormous
+3083
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Table 1
+Comparison of EU and Russian aggregate indicators for 2021."
+"Source: World Bank, energy reserves data from BP World Energy Statistical Yearbook 2021."
+"Variable
+EU
+Russian
+ROW
+Population size (billion)
+4.47
+1.43
+72.46
+GDP(billion dollars)
+170886.2
+17757.99
+772356.72
+GDP per capita (USD)
+32755.38
+10219.75
+10460.55
+Merchandise imports(billion dollars)
+64568.86
+3039.27
+158314.62
+Merchandise exports(billion dollars)
+66255.61
+4940.25
+152734.68
+Oil reserves (Thousand million barrels)
+2.4
+107.8
+1622.2
+Coal reserves (Million tonnes)
+78590
+162166
+833352
+Natural gas reserves (Trillion cubic meters)
+0.4
+37.4
+150.3
+Primary energy consumption (Exajoules)
+55.74
+28.31
+472.58
+energy consumption by economic development and the lack of
+funds determine that the EU cannot achieve self-sufficiency in
+energy and needs to purchase a large amount of energy from
+outside. Russia’s total energy consumption is relatively low com-
+pared to the EU’s. The GDP of the Russian Federation is only 11th
+in the world GDP ranking in 2021, and it has a population of about
+143 million. Although the level of economic activity is not high,
+Russia has abundant energy and mineral resources, of which, as of
+2020, proven oil reserves account for 6.2% of the world’s reserves,
+natural gas reserves account for 19.9% of the world’s resources,
+and coal reserves account for 15.1% of the world’s reserves, so
+it also determines Russia’s economic structure based on energy
+exports."
+"2.2. EU energy structure analysis
+Since the implementation of the first climate change plan
+in 2000, the total primary energy consumption of the EU has
+been on a downward trend since 2006. Due to the impact of
+the pandemic, EU energy consumption fell sharply in 2020 until
+it rebounded sharply in 2021. According to Fig. 1, the perspec-
+tive of the EU’s energy consumption structure, the proportion of
+crude oil consumption has been declining from 41.35% in 2000 to
+35.46% in 2021, the proportion of renewable energy and natural
+gas consumption is rising, the proportion of renewable energy
+consumption has increased sharply from 0.9% to 13.17%, and
+natural gas consumption has increased from 19.94% to 23.75%."
+"Although the EU’s energy reform policy has achieved the goal of
+reducing the total primary energy consumption, there is still a
+gap between the energy structure transformation goal of reducing
+the proportion of fossil energy consumption and increasing the
+ratio of renewable energy consumption to 20%. The analysis of
+EU fossil energy reserve indicators shows that the EU’s economic
+development needs energy imports from external markets."
+"From the perspective of the structure of the EU energy import
+trade, Russia is the leading importer of EU energy. In 2020, the
+EU relied on imports for 58% of its energy consumption, and
+its self-sufficiency rate was only 42%. While the EU has been
+trying to wean itself off Russian energy imports, Russia is the
+EU’s leading supplier of gas, oil, and coal. In 2021, the EU’s oil,
+refined oil, and coal imports from Russia accounted for 29.64%,
+38.44%, and 48.08% of its various energy imports. As the primary
+fossil energy supporting the EU’s green energy transformation,
+natural gas imports mainly include pipeline imports and liquefied
+imports, of which pipeline natural gas transportation accounts for
+68.26% of the total natural gas imports. In 2021, natural gas from
+Russia accounted for 71.74% of EU pipeline transport imports, and
+liquefied natural gas imports accounted for 20% in Russia. The
+main reason the EU depends on Russian energy is related to Rus-
+sia’s abundant energy reserves, low prices, and low transportation
+costs, especially the construction of gas transportation pipelines,
+such as Nord Stream 1 and Nord Stream 2."
+"Combined with the current situation of the EU energy trade,
+the EU’s short-term implementation of severe energy sanctions
+against Russia will cause a more serious energy shortage in the
+EU."
+"2.3. Energy trade in Russia
+Russia occupies a critical position in the world’s energy supply
+chain as a country with relatively rich energy reserves. According
+to data published by the Russian Federal Customs Service, global
+oil demand shrank sharply in 2020 due to the epidemic’s impact."
+"Russia and Saudi Arabia have implemented production cuts, and
+oil and gas exports have hit new lows —
+resulting in a 36.6%
+reduction in exports of energy goods. Even with a sharp decrease
+in energy demand, the share of energy goods exports in Russia’s
+export trade fell from 62.1% in 2019 to 49.6% in 2020, which is
+still the highest. In other words, Russia’s foreign trade structure is
+still dominated by the export of energy commodities. By the end
+of 2020, crude oil accounted for the most significant proportion
+of Russia’s trade value of different energy types, accounting for
+47.51% of the total energy trade, followed by the export of crude
+oil products, accounting for 30.62% of the total. As shown in Fig. 2,
+Russian crude oil export destinations are concentrated in Europe
+and Asia, of which oil exports to Europe account for 53.05%
+of the total value of oil exports, and Asia accounts for 45.22%."
+"Among the Asian destinations for Russian crude exports, China is
+its largest buyer, importing 32% of Russia’s crude. In continental
+Europe, the Netherlands imports 12.4% of Russian crude oil, and
+Germany imports 8.57% of Russian crude oil. The export trade
+structure of Russian crude oil products is more dependent on the
+European market. The value of crude oil products exported by
+Russia to European countries accounted for 60.37% of the total
+export value, while Asia accounted for 26.59%. The refined oil
+imports of the Netherlands, France, and Germany accounted for
+14.1%, 6.08%, and 4.62% of Russia’s exports, respectively. Russia’s
+petroleum gas export trade is more dependent on the European
+market, which consumes 71.92% of Russia’s petroleum gas, and
+the rest is almost entirely exported to the Asian market. Coal
+exports are of relatively small value and more dispersed than the
+top three energy commodity destinations. An analysis of Russia’s
+energy trade structure shows that Europe and Asia are the main
+markets for its energy trade. The European market is currently
+more important than the Asian market. This energy trade struc-
+ture will shift significantly with the EU’s energy sanctions against
+Russia."
+"3084
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Fig. 1. EU energy consumption structure."
+Fig. 2. Russian energy trade structure.
+"2.4. Analysis of the EU’s dependence on Russian energy
+Through the analysis of EU energy consumption and the struc-
+ture of Russian energy export trade, it can be seen that the EU
+is highly dependent on energy commodities provided by Russian
+energy, and Russia’s foreign energy trade is also dependent on
+the European market. Through the analysis of the EU’s energy
+consumption and the structure of Russia’s energy export trade,
+the EU is highly dependent on energy commodities provided by
+Russian energy. In contrast, Russia’s foreign energy trade also
+depends on the European market. There are three main reasons
+for the EU’s dependence on Russian energy. First, the geographical
+advantage between Russia and the EU makes it the most conve-
+nient for the EU to obtain energy from Russia with the lowest
+transportation cost. Second, the EU’s aggressive energy transition
+policy has led to the withdrawal of traditional energy sources
+from the market too quickly, resulting in large fluctuations in
+the internal energy supply. Third, the development speed of
+renewable energy is not as fast as expected, and the stability
+is poor. Through the analysis of the EU’s energy reserve data,
+it can be seen that the EU’s energy reserves are not enough to
+support economic development needs. The geographical location
+between Russia and the EU is more advantageous than other
+energy suppliers in the world, and the two major economies have
+reduced the cost of energy transportation through the construc-
+tion of oil and gas transportation pipelines, which has formed the
+physical basis of the EU’s dependence on Russian energy. With
+the increasing importance of ecological and environmental issues
+in the EU, it has proposed a radical energy consumption struc-
+ture transformation plan. In this plan, increasing the proportion
+of renewable energy and reducing traditional fossil energy are
+essential indicators. The implementation of the policy has led
+to the large-scale closure of coal-fired thermal power plants in
+Euro member countries, turning to natural gas and renewable
+energy. In the energy transformation process, natural gas, as a
+cleaner energy source compared to other fossil energy sources,
+has been used in large quantities to meet the set emission reduc-
+tion targets. Russia has exported a large amount of natural gas
+to the EU through Nord Stream 1 and 2 pipelines to complete
+the transformation of the EU’s energy consumption structure."
+"Whether or not the EU undergoes an energy transition, it will be
+challenging to eliminate its dependence on cheap Russian energy."
+"Therefore, the EU’s energy ban on Russia will directly affect its
+energy security. In the short and medium term, it will be difficult
+for the EU to find a suitable energy supply organization to replace
+Russia. The diversion effect of energy trade will lead to a rapid
+increase in energy prices, affecting the welfare and social and
+political stability of EU member states."
+"In summary, as an essential demand side and supply side in
+the world energy pattern, the impact and changes in energy trade
+between the two countries will have a spillover effect on the
+global energy trade pattern, which will affect the stability of the
+worldwide energy trade network structure. The energy game be-
+tween the two economies is bound to disrupt the existing energy
+trade network and threaten global energy security. Therefore, it
+is necessary to quantitatively analyze the energy game between
+the EU and Russia to understand the effects of world energy trade
+and the macroeconomic impact caused by the conflict between
+the two countries."
+"3. Method and data
+3.1. Method
+To simulate the impact of energy sanctions and countersanc-
+tions between the EU and Russia on the two major economies
+and the world economy under geopolitical conflicts, this paper
+conducts an empirical analysis based on the global multi-region
+comparative static CGE model, known as the Global Trade Anal-
+ysis Project (GTAP), developed by Purdue University. The project
+is widely used in the study of international trade disputes (Cui
+and Song, 2017; Itakura, 2014). To study the impact of energy
+3085
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Fig. 3. The basic structure of the production module in GTAP-E."
+"sanctions on economies and energy trade, this paper uses the
+GTAP-E model. The GTAP-E model is an extended application of
+the GTAP standard model in the field of environment. The GTAP-E
+model incorporates energy as a factor input into the production
+structure, introduces carbon tax variables and carbon emissions
+trading mechanisms, and modifies the modules of production,
+consumption, carbon tax, and welfare decomposition. The basic
+structure of the specific production module is shown in Fig. 3."
+"The production module of the GTAP-E model is embedded
+with multiple levels of conversion substituted elastic (CES) pro-
+duction functions, and capital and energy products can be substi-
+tuted for each other. The basic production factors of the GTAP-E
+model include not only land, labor, and natural resources, but
+also capital–energy composite elements. Capital and energy can
+be substituted for each other, and this module uses the CES
+production function to characterize that if energy prices rise
+relative to capital prices, companies will replace capital inputs
+with energy products. Energy products are further divided into
+electricity and non-electricity composite elements, which can
+be further decomposed into coal, crude oil, natural gas, and
+petroleum products, and each stage composite structure adopts
+the CES production function. Different from the traditional GTAP
+model, the GTAP-E model distinguishes the energy input in the
+production module from other non-energy intermediate inputs,
+considering the substitution of energy inputs with other basic
+production factors. On this basis, the GTAP-E model can accu-
+rately trace the energy consumption in the production process
+to investigate the ‘‘economic-energy-carbon emission’’ impact of
+policy changes. Therefore, the GTAP-E model is an important tool
+for energy policy and climate policy simulation."
+"In the past, when simulating the EU-Russia energy embargo,
+scholars used the form of shock tariff variables (tms) to change
+the volume of a particular country’s trade in a specific commodity
+(Chepeliev et al., 2022). They directly transferred the tax revenue
+to the importing country. However, the energy game between the
+EU and Russia is mainly to now cut off energy trade between the
+two countries in the form of an executive order, so this paper
+divides the tariff revenue from the exporting country based on
+the import tariff adjustment to ensure that the simulation results
+are more realistic."
+"3.2. Data
+The impact simulations in this study are based on GTAP-E data,
+the most recent data for the current period, and the simulation
+base period is 2014. The GTAP-E version of the database subdi-
+vides the world into 141 regions, each containing 65 production
+departments. To study the impact of the energy game between
+the EU and Russia on both sides and the world’s major countries,
+this paper divides the 141 countries in the database into the Euro-
+pean Union, Russia, the United Kingdom, Turkey, China, India, the
+United States, the Eurasian Economic Union (EEU), other Middle
+East and North Africa countries (XMN), OPEC member countries
+(OPEC), the Association of Southeast Asian Nations (ASEAN), and
+the rest of the world (ROW). To study the heterogeneous impact
+of shocks on different levels of dependency, the 27 EU member
+states were classified as highly dependent (EUhdR), moderately
+reliant on Russian energy (EUmdR), and low dependent (EUldR)
+according to their dependence on Russian energy.1
+1 National energy dependence: based on the percentage of total imports of
+fossil fuels from Russia."
+"3086
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Table 2
+Energy sanctions and counter-sanctions scenario setting."
+"Scenario description
+S1
+The EU cuts off coal imports from Russia."
+"S2
+The EU cut off coal imports from Russia; Russia reduced its gas supply by 30%."
+"S3
+The EU cut off coal imports from Russia; Russia reduced its gas supply by 50%."
+"S4
+The EU cut off coal imports from Russia; EUldR and EUhdR ban the import of
+Russian crude oil and refined oil products; EUhdR reduce by 70%."
+"S5
+The EU cut off coal imports from Russia; EUldR and EUhdR ban the import of
+Russian crude oil and refined oil products; EUhdR reduce by 70%; Russia reduced its
+gas supply by 80%."
+"S6
+The EU and Russia cut off energy trade."
+"To study the heterogeneous impact of energy trade restrictions
+on different industries in the EU and Russia, the 65 production
+sectors in the GTAP-E database were divided into 12 industry
+groups. At the same time, the energy game between the EU and
+Russia occurred in 2022, and the entry into force of sanctions on
+specific energy projects also happened in that year, so the base
+year of the simulation was set as 2022. However, the base year
+of the GTAP-E database is 2014, so the actual GDP, population,
+capital stock, and labor force data of the Econmap database of the
+French World Economic Research Center are used to dynamically
+recurse the data from 2014 to 2021, according to the research
+method (Ahmed et al., 2020)."
+"3.3. Conflict scenarios setting
+As the war between Russia and Ukraine continues to escalate,
+EU sanctions against Russia are also changing. Considering the
+energy trade structure of the two economies and the EU’s energy
+sanctions, this article sets up six short-term scenarios, as shown
+in Table 2. From the perspective of the energy trade structure of
+the two major economies, the EU is highly dependent on Russian
+energy imports. In Russia’s trade structure, energy exports are the
+backbone of its economy. To sanction Russia for waging war in
+Ukraine, the EU has reduced or banned imports of Russian energy
+goods to combat its economy. In the scenario S1 setup, we set
+the EU to voluntarily cut off coal imports from Russia following
+the EU’s Fifth package of sanctions proposed on April 8, 2022."
+"In S2, Russia took countermeasures in response to EU energy
+sanctions. Since the EU highly depends on Russian natural gas
+energy, Russia will use natural gas exports as a countermeasure."
+"Russia will reduce its gas exports to the EU by 30%. S3 said that
+Russia retaliated against the EU energy ban. If the EU strictly
+enforced the prohibition of Russian coal exports, Russia would
+reduce its gas exports to the EU by 50% in retaliation for various
+EU sanctions. In the S4 scenario, if the EU has not prevented
+the escalation of the situation in Russia and Ukraine after pass-
+ing previous sanctions against Russia. The EU will increase the
+sanctions based on the original sanctions. The new sanctions in-
+clude related products such as crude oil and refined oil products."
+"Considering the different degrees of dependence of EU member
+states on Russian energy, the implementation of sanctions will
+vary. The EUldR and EUmdR countries in the EU will completely
+ban imports of Russian crude oil and refined oil products, but
+the EUhdR countries will reduce Russian crude oil and refined
+oil products imports by 70%. In the S5 scenario, Russia would
+reduce its natural exports to the EU by 80% in response to the
+escalation of EU sanctions. The S6 scenario simulates the extreme
+scenario of a two-way game, in which the EU completely bans
+energy products from Russia, and Russia cuts off gas exports to
+the EU."
+"4. Results and discussion
+4.1. Direct effects of energy sanctions
+4.1.1. GDP and GDP deflator
+Table 3 shows the real GDP and GDP deflator changes in the
+EU regions, Russia, and corresponding world regions. A complete
+cessation of energy trade between the EU and Russia would lead
+to a 2.895% drop in world GDP. The shock results of different
+scenarios show that the impact on economies of whether or not
+to embargo oil and petroleum products varies widely. When the
+EU bans Russian coal in scenario S1, the economic damage to
+the EU is up to 0.099% and 0.891% to Russia. Russia’s counter-
+sanctions measures can blow the EU economy, but they cannot
+improve the economic losses caused by sanctions. Once the EU
+imposes sanctions on Russian crude oil and crude oil products, the
+economic losses to both sides will skyrocket. In the scenario of a
+hard decoupling of energy trade between the two sides (S6), the
+economic losses of the EU consortium would reach 1.488%, while
+the GDP losses of Russia would get 4.8%. In the game between
+the two sides, there is no economic winner, and the sanctions
+of both sides will cause economic damage to the other, but the
+economic losses for Russia will be higher. At the same time, other
+participants in this event, such as the members of the G7 group,
+have been less affected in the energy game between the EU and
+Russia (such as the United Kingdom, the highest loss is only
+−0.0712%), or even benefited. For example, the United States has
+maintained positive economic growth. As the game between the
+two sides intensifies, its economic growth degree has increased,
+reaching a maximum of 0.1165%."
+"The change in the GDP deflator shows that energy sanctions
+will increase the cost of energy prices in EU member states,
+leading to higher inflation. Judging by the data on energy trade
+between the EU and Russia, the EU’s energy consumption is
+highly dependent on Russian energy imports, especially natural
+gas. Therefore, the EU’s sanctions on Russian energy will directly
+cause a massive gap in the energy supply, leading to a rapid
+rise in energy prices and production costs of energy-intensive
+industries. As seen in scenarios 1 to 3 from Table 4, the EU GDP
+deflator increased from 0.137% to 0.287%. As a sanctioned party,
+Russia suffered a decline of up to 0.442% in the GDP deflator
+due to setbacks in foreign trade, which may trigger deflation at
+home. This is only a scenario in scenarios S1–S3 that does not
+involve sanctions on crude oil and crude oil products. If the EU
+imposes sanctions against Russia’s strict embargo on crude oil
+products, the impact on the price level of both sides will be
+huge. The EU’s GDP deflator rose directly to 0.502%, while Russia’s
+GDP deflator fell instantly to 4.022%. The deflationary impact of
+sanctions on Russia will be stronger than the inflationary effect of
+the EU. Due to member states’ different degrees of dependence on
+Russian energy within the EU, there will be significant differences
+in the level of shocks. EU member states highly dependent on
+3087
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Table 3
+Changes in GDP in different scenarios."
+"GDP
+S1
+S2
+S3
+S4
+S5
+S6
+EUhdR
+−0.064
+−0.080
+−0.084
+−0.731
+−0.971
+−1.215
+EUmdR
+−0.005
+−0.006
+−0.009
+−0.138
+−0.152
+−0.231
+EUldR
+−0.003
+−0.004
+−0.006
+−0.027
+−0.029
+−0.041
+EU
+−0.071
+−0.090
+−0.099
+−0.897
+−1.152
+−1.488
+UK
+−0.002
+−0.002
+−0.002
+0.068
+−0.068
+−0.071
+TUR
+0.002
+−0.004
+−0.007
+0.074
+0.058
+0.061
+RUS
+−0.141
+−0.598
+−0.891
+−2.833
+−2.104
+−4.800
+CHN
+0.001
+0.002
+0.002
+0.039
+0.041
+0.047
+IND
+0.002
+0.001
+0.000
+0.068
+0.066
+0.079
+USA
+0.013
+0.014
+0.015
+0.100
+0.105
+0.117
+EEU
+0.002
+0.002
+0.005
+1.185
+1.206
+1.382
+XMN
+0.015
+0.043
+0.080
+0.169
+0.342
+0.393
+OPEC
+0.016
+0.000
+0.011
+0.360
+0.411
+0.449
+ASEAN
+0.001
+0.006
+0.010
+0.028
+0.045
+0.052
+ROW
+0.006
+0.017
+0.024
+0.101
+0.135
+0.153
+WORLD
+−0.226
+−0.698
+−0.952
+−1.433
+−2.068
+−2.895
+Table 4
+Changes in GDP deflator in different scenarios."
+"GDP deflator
+S1
+S2
+S3
+S4
+S5
+S6
+EUhdR
+0.254
+0.458
+0.534
+0.877
+0.931
+1.049
+EUmdR
+0.095
+0.116
+0.131
+0.242
+0.250
+0.262
+EUldR
+0.041
+0.086
+0.118
+0.075
+0.072
+0.076
+EU
+0.137
+0.2408
+0.287
+0.429
+0.451
+0.502
+UK
+0.001
+0.002
+0.002
+0.087
+0.088
+0.095
+TUR
+0.001
+−0.004
+−0.007
+0.066
+0.052
+0.055
+RUS
+−0.191
+−0.344
+−0.442
+−3.144
+−3.627
+−4.022
+CHN
+0.001
+0.002
+0.003
+0.037
+0.041
+0.046
+IND
+0.002
+0.001
+0.000
+0.070
+0.068
+0.080
+USA
+0.013
+0.014
+0.015
+0.102
+0.107
+0.118
+EEU
+0.000
+0.003
+0.006
+0.941
+0.958
+1.102
+XMN
+−0.015
+0.041
+0.077
+0.166
+0.334
+0.384
+OPEC
+−0.016
+0.000
+0.011
+0.355
+0.405
+0.441
+ASEAN
+0.001
+0.007
+0.010
+0.029
+0.046
+0.054
+ROW
+0.006
+0.017
+0.023
+0.097
+0.129
+0.147
+WORLD
+−0.039
+−0.141
+−0.206
+1.093
+0.204
+1.113
+Russian energy will suffer the most from the sanctions imposed."
+"At the same time, countries with low dependence will have a
+lower impact, which will also be a key factor affecting whether
+sanctions can be agreed upon in the EU. Looking at the effects
+of the EU’s energy sanctions on Russia from the perspective of
+the international economy, we can draw a bare conclusion that
+is, the implementation of energy sanctions will directly promote
+the general rise in energy prices around the world, increasing the
+world GDP deflator."
+"4.1.2. Changes in welfare levels
+In the GTAP model, changes in resident welfare are measured
+in the form of equivalent variation changes (EVs). EU energy sanc-
+tions against Russia will lead to losses in world welfare levels, up
+to 40,860.18 million dollars. After Russia suffers energy sanctions,
+the welfare of residents drops significantly, especially when crude
+oil and crude oil products are sanctioned, which has a significant
+negative impact on the welfare of residents in Russia. Through
+the decomposition of changes in the welfare of residents, the
+most critical factor affecting the decline in the welfare of Russian
+residents is the change in the terms of trade, which contributed
+more than 70% of the negative impact. The EU’s complete cut-
+off of trade with Russian energy products (S6) will lead to a
+decline in EU residents’ welfare level by 13938.58 million dollars."
+"Unlike the reasons for the decline in the welfare level of Russian
+residents, the reduction in the level of welfare of EU residents is
+due to allocative effects. The allocative effect is mainly generated
+by the impact of energy restrictions on regional production and
+household consumption. Due to the high dependence of the EU on
+Russia for energy consumption, the implementation of an energy
+ban will lead to a shortage of regional energy supply, making the
+supply of raw materials for energy-intensive industries insecure,
+so the output of the related industries will decline. Energy restric-
+tions will also cause the cost of living to rise rapidly. According
+to EU statistics, inflation in the EU region was as high as 9.6% in
+July 2022 after implementing energy restrictions. A rapid rise in
+the price index and a rapid decline in output in energy-intensive
+industries will lead to a significant decrease in household welfare."
+"The increase in sanctions between the two sides will improve
+the welfare of residents of other energy export organizations, the
+most obvious of which is the EEU, the Eurasian Economic Union,
+as a Russian-led economic organization, played a role in energy
+re-export when Russia was sanctioned, and played a positive role
+in the trade export volume of member countries (see Table 5)."
+"4.1.3. Changes in terms of trade and import trade
+The sanctions imposed by the EU and G7 member states
+have severely impacted Russia’s terms of trade(tot), and as the
+sanctions are carried out, the terms of trade of EU member
+states have also been damaged. As shown in Table 6, in the
+3088
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Table 5
+Changes in equivalent variation in different scenarios."
+"EVs
+S1
+S2
+S3
+S4
+S5
+S6
+EUhdR
+−264.13
+−75.62
+−296.29
+−4391.76
+−3470.19
+−4947.25
+EUmdR
+−219.44
+−1133.43
+−1714.66
+−1627.66
+−4387.39
+−5314.13
+EUldR
+−29.91
+−182.89
+−280.39
+−2794.73
+−3275.44
+−3677.19
+EU
+−513.49
+−1391.95
+−2291.35
+−8814.16
+−11133.03
+−13938.58
+UK
+24.97
+−23.79
+−54.67
+−428.25
+−578.03
+−773.53
+TUR
+20.82
+18.08
+42.77
+269.46
+156.70
+134.94
+RUS
+−173.42
+−4219.48
+−7015.26
+−13984.64
+−27151.26
+−31712.15
+CHN
+162.56
+298.35
+385.94
+1105.94
+1521.94
+1711.65
+IND
+4.44
+47.67
+80.84
+521.29
+678.88
+701.02
+USA
+379.22
+238.47
+151.34
+478.63
+892.62
+1088.51
+EEU
+19.45
+92.46
+139.45
+2868.79
+3109.43
+3525.68
+XMN
+117.00
+220.38
+434.62
+1053.65
+2061.09
+2329.13
+OPEC
+128.73
+123.73
+−121.49
+2575.16
+2607.33
+2764.63
+ASEAN
+18.16
+11.59
+7.37
+499.99
+486.33
+526.50
+ROW
+286.87
+795.77
+1121.74
+4402.34
+5960.86
+6720.56
+WORLD
+−38.13
+−5180.63
+−9410.01
+−18265.93
+−32520.12
+−40860.18
+Table 6
+Changes in tot in different scenarios."
+"tot
+S1
+S2
+S3
+S4
+S5
+S6
+EUhdR
+−0.495
+−0.507
+−0.632
+−1.051
+−0.920
+−1.134
+EUmdR
+−0.064
+−0.346
+−0.534
+−0.666
+−0.719
+−0.935
+EUldR
+−0.009
+−0.011
+−0.012
+−0.201
+−0.206
+−0.232
+UK
+0.001
+0.002
+0.002
+−0.364
+−0.363
+−0.401
+TUR
+0.000
+0.000
+0.001
+0.190
+0.191
+0.210
+RUS
+−0.191
+−0.133
+−0.097
+−4.833
+−4.710
+−5.151
+CHN
+0.000
+−0.001
+−0.002
+0.417
+0.422
+0.463
+IND
+0.002
+0.003
+0.004
+0.349
+0.346
+0.382
+USA
+0.001
+−0.007
+−0.011
+1.146
+1.163
+1.280
+EEU
+−0.013
+−0.016
+−0.018
+0.407
+0.398
+0.490
+XMN
+0.001
+0.005
+0.008
+0.103
+0.092
+0.102
+OPEC
+0.001
+0.001
+0.002
+0.154
+0.156
+0.172
+ASEAN
+0.004
+0.007
+0.009
+−0.073
+−0.066
+−0.071
+ROW
+0.004
+0.005
+0.006
+−0.232
+−0.228
+−0.249
+S1 and S4 scenarios, Russia’s tot deteriorated by 0.191% and
+4.833%, respectively. Due to restrictions on Russian energy im-
+ports and the impact of Russian countersanctions, the EU’s tot
+continued to deteriorate in scenarios S2 and S3. Although Russia’s
+counter-sanctions have served the purpose of its policy, the cost
+is two-way, and it has adversely affected its tot. Suppose the
+EU strictly implements energy sanctions against Russia, which
+eventually leads to the interruption of energy trade between the
+two sides. In that case, it will significantly negatively impact the
+tot between the two sides. The EU’s persistent energy supply
+shortage will have a contagion effect on the trade of other EU
+industries, such as energy-intensive industries, agriculture, chem-
+ical industries, etc., and the EU’s tot will further deteriorate. For
+additional energy exporters, the energy game between the EU
+and Russia has caused international oil prices to rise, boosting
+their energy exports and incomes. To compensate for the energy
+gap, the EU has correspondingly reduced tariffs on energy imports
+from other countries, which has promoted the improvement of
+other countries’ tot to a certain extent."
+"From the perspective of the impact of energy sanctions on
+the import and export trade of the two sides, both sanctions
+and countersanctions significantly impact the import and export
+trade of the two sides, mainly on exports for Russia and imports
+for EU member states. Implementing sanctions on energy im-
+ports by EU member states will directly reduce the total energy
+imports of the EU, which will reduce the total EU imports. In
+the simulation, total EU imports fell the most at S6, reaching
+2.404%, shown in Table 7. Considering the practical dilemma
+of the EU in adjusting the energy trade structure in the short
+term, energy import restrictions will become the most significant
+hidden danger to the EU’s energy security. The energy ban has
+an even more substantial impact on Russia’s import and export
+trade, with total imports falling by 6.23% and exports by 8.56%
+in the S6 scenario. According to the policy simulation results,
+EEU, an economic cooperation alliance led by Russia, has seen a
+significant increase in its import and export volume during the
+sanctions period. In the S6 scenario, EEU imports increased by
+5.82%, and exports increased by 5.32%. Russia can transfer energy
+trade through the EEU and other countries. Although there is a
+change, the import and export of the rest of the world’s nations
+are insignificant."
+"4.2. Indirect effects of energy sanctions
+4.2.1. Energy trade transfer effects
+Fig. 4 shows the diversion effect of the energy ban on the EU’s
+energy import trade. With the escalation of EU energy sanctions
+against Russia, energy trade between the two sides will decline
+significantly. In the S1 scenario, energy trade between the EU and
+Russia fell by 5.26% after EU sanctions on Russian coal imports."
+"With the counter-sanction measures imposed by Russia, EU gas
+supplies will be limited, negatively impacting energy trade be-
+tween the two sides. In the S3 scenario, the EU energy trade with
+Russia will fall by 10.19%. There is no significant energy transfer
+3089
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Table 7
+Changes in export and import in different scenarios."
+"Export
+Import
+S1
+S2
+S3
+S4
+S5
+S6
+S1
+S2
+S3
+S4
+S5
+S6
+EUhdR
+−0.35
+−0.58
+−0.60
+−2.04
+−2.15
+−2.92
+−0.12
+−0.14
+−0.15
+−1.57
+−1.63
+−2.23
+EUmdR
+−0.14
+−0.17
+−0.19
+−1.57
+−1.66
+−1.68
+−0.02
+−0.04
+−0.05
+−0.23
+−0.28
+−0.28
+EUldR
+−0.01
+−0.11
+−0.11
+−0.27
+−0.28
+−0.39
+0.00
+0.00
+0.00
+0.07
+0.08
+0.10
+EU
+−0.50
+−0.86
+−0.90
+−3.88
+−4.09
+−5.00
+−0.15
+−0.17
+−0.19
+−1.73
+−1.83
+−2.40
+UK
+0.00
+0.00
+−0.01
+0.22
+0.21
+0.22
+0.00
+0.00
+0.00
+0.22
+0.23
+0.25
+TUR
+0.00
+0.00
+0.01
+0.21
+0.22
+0.24
+0.00
+0.01
+0.02
+0.17
+0.20
+0.22
+RUS
+−0.39
+−0.97
+−1.35
+−4.66
+−5.42
+−6.23
+−0.30
+−0.91
+−1.30
+−3.92
+−5.78
+−8.56
+CHN
+0.00
+0.00
+0.00
+0.11
+0.10
+0.11
+0.00
+0.00
+0.00
+0.02
+0.02
+0.03
+IND
+0.00
+0.00
+0.00
+0.23
+0.24
+0.27
+0.00
+0.01
+0.01
+0.27
+0.30
+0.35
+USA
+0.03
+0.02
+0.01
+0.19
+0.15
+0.16
+0.04
+0.02
+0.01
+0.11
+0.05
+0.05
+EEU
+0.05
+0.23
+0.35
+4.55
+5.12
+5.82
+0.04
+0.20
+0.31
+4.17
+4.68
+5.32
+XMN
+−0.02
+0.05
+0.10
+0.22
+0.43
+0.49
+−0.02
+0.05
+0.09
+0.18
+0.37
+0.42
+OPEC
+−0.02
+0.00
+0.02
+0.42
+0.50
+0.55
+−0.02
+0.00
+0.01
+0.34
+0.40
+0.44
+ASEAN
+0.00
+0.00
+0.00
+0.05
+0.04
+0.04
+0.00
+0.00
+0.00
+0.03
+0.02
+0.03
+ROW
+0.01
+0.05
+0.08
+0.25
+0.38
+0.43
+0.01
+0.05
+0.07
+0.17
+0.29
+0.34
+Fig. 4. The transfer effect of EU energy trade in different scenarios."
+"3090
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Fig. 5. The energy trade transfer coefficient in different scenarios."
+"effect when sanctions are imposed only on Russian coal. The EU’s
+energy market is still dominated by Russian energy, but there
+are also signs of energy transfer. In S3, Russia’s energy gap with
+the EU will be transferred to the EU through the EEU. At the
+same time, the EU will look for alternatives to Russia’s energy gap
+worldwide. The more significant phenomenon is that OPEC, XMN,
+and ROW account for a substantial increase in the EU’s energy
+structure."
+"The EU continues escalating energy sanctions against Russia,
+covering crude and crude oil products. Implementing these sanc-
+tions will have a non-negligible impact on the EU’s short-term
+energy security and even lead to differences within the EU on
+sanctions against Russia. In scenario S4, energy trade between the
+EU and Russia would fall by 81.69%, and if Russia countersanc-
+tions against the EU by reducing gas supplies (S5), energy trade
+between the two would fall by 90.68%. The transfer effect map
+of energy trade shows that the imposition of severe sanctions on
+Russian crude oil and crude oil products will significantly change
+the EU’s energy structure. Russia’s share of the EU’s energy mix
+is rapidly declining. The EU can only fill the gap in the energy
+market by increasing energy imports from other energy supply
+organizations. Russia will transfer exports to the EU through
+third-party channels, such as the Eurasian Economic Union. And
+Russia is also actively developing new energy exporters, such
+as India, China, and other non-Western world countries. In the
+process of EU sanctions against Russia, Russia’s foreign energy
+trade exports fell from 2.267% in the S1 scenario to 22.818% in
+the S6 scenario, which played a role in the sanctions against
+the Russian energy economy. In the simulation, other energy
+exporters can supplement the EU’s energy demand. The total
+energy supply situation may be worse than the model scenario,
+so whether the EU will continue to impose energy sanctions on
+Russia will be decided based on the actual energy supply scenario."
+"4.2.2. Energy trade transfer coefficient
+To study the impact of the EU energy ban on the flow of energy
+trade between the EU and Russia, we define the energy trade
+transfer coefficient with reference to the practice of Cui et al."
+"(2018). Use this indicator to find the countries and organizations
+with the most apparent energy trade diversion effect in sanctions."
+"The EU energy trade import transfer factor is the increase in EU
+energy imports from third countries divided by the decrease in EU
+energy imports from Russia. This indicator measures the extent to
+which the EU’s energy imports to other countries expand for ev-
+ery $1 reduction in EU energy imports from Russia. Similarly, the
+export transfer factor for Russian energy trade is defined as the
+increase in Russia’s energy exports to third countries divided by
+the decrease in Russia’s energy exports to the EU, which reflects
+the extent to which Russia’s energy exports to other countries
+expand for every $1 reduction in Russia’s energy exports to the
+EU."
+"Fig. 5 shows the energy trade transfer coefficients between
+the EU and Russia in different scenarios. The import transfer
+coefficients of the EU energy trade are all positive, indicating that
+the EU has a shift in imports of energy trade. In each scenario, the
+expansion of EU energy imports from the USA, EEU, XMN, OPEC,
+and ROW is more pronounced. At the same time, the import
+transfer coefficient of the EU in scenarios S1–S3 is significantly
+higher than that of energy imports in scenarios S4–S6. Mainly due
+to the EU’s sanctions on Russian crude oil and crude oil products
+in the S4 scenario, the EU’s energy imports from Russia have
+decreased rapidly, while the increase in imports from third coun-
+tries has grown at a low rate. This shows that if the EU imposes
+strict restrictions on Russian crude oil and crude oil products,
+although it can make up for part of the energy gap by increasing
+the energy imports of third countries, the energy supply gap will
+still exist. Energy sanctions will force Russia to transfer more
+energy to Asian countries. Russia’s export expansion to CHN,
+IND, USA, EEU, ROW, and other regions is more prominent. This
+simulation is consistent with the real-world adjustment of the
+Russian energy export trade. According to OECD data, since the
+EU and G7 imposed sanctions on Russia, Russia’s crude oil and
+crude oil products exported to China have increased by about 55%
+year-on-year."
+"4.3. The socioeconomic impact of the energy ban
+4.3.1. Impact on residents
+The energy ban has had a significant negative impact on the
+world’s inhabitants. Most countries are plagued by inflation while
+developing countries also need to worry about the food crisis. The
+most affected are the two sides of the game. The chart below
+shows the impact of the EU energy ban on commodity prices
+on both sides. The energy ban imposed by the EU has brought
+intolerable inflation, especially in EU member states, which are
+highly dependent on Russian energy. In scenarios S1–S3 shown
+in Fig. 6, the most significant increase in the price of various
+commodities in EU member states was natural gas, with gains
+of 4.22%, 3.42%, and 3.39%, and the costs of other items increased
+to a certain extent. Starting from scenario S4, the rise of com-
+modities in EU member states began to differ, and the prices
+of crude oil and crude oil products in EUhdR member countries
+began to rise rapidly, with the maximum price increase of crude
+oil products in scenario S6 reaching 20.32% and crude oil prices
+rising by 15.87%. Prices of other energy-related commodities have
+also risen significantly. In scenario S6, the electricity prices of
+EUhdR, EUmdR, and EUldR increased by 10.12%, 6.95%, and 6.77%,
+respectively. On August 18, 2022, Eurostat released data showing
+that the annual inflation rate in the EU and the eurozone reached
+9.8% and 8.6%, respectively, in July 2022. The reality is that since
+the imposition of EU sanctions on Russia, energy and electricity
+prices in EU countries have risen even faster than the settlement
+results of the model. During this period, the cost of natcostgas,
+3091
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Fig. 6. Changes in commodity prices in different regions in the energy game."
+"which EU countries mainly rely on, has increased from an average
+of about 70 euros per megawatt hour per month in February
+2022 to a maximum of 300 euros/MWh, an increase of 321.4%,
+while German electricity prices have exceeded the 700 euro mark
+for the first time, reaching a record 710 euros/MWh. The rise in
+energy prices in EU member states is consistent with, or even
+higher than, the model’s simulations, which include uncertain
+market expectations for the future EU-Russia energy game."
+"According to the model simulation, the price of various do-
+mestic outputs in Russia will see a large-scale price decline due
+to the restriction of energy exports, among which the cost of
+energy commodities will fall most obviously. In scenario S6, the
+price of crude oil falls by 11.12%, the price of crude oil products
+falls by 9.32%, and the domestic economy should have severe
+deflation. But Russia has seen historical inflation, with the an-
+nualized inflation rate rising to 17.49% year-on-year in the week
+ending April 8, the highest since February 2002, according to
+the Russian Ministry of Economic Development. The main reason
+for this is the rapid and significant depreciation of the ruble."
+"Currency depreciation and the epidemic’s impact have caused
+Russian residents to reduce service consumption and increase
+consumption of physical goods."
+"4.3.2. Impact on social output
+The energy ban has a heterogeneous impact on social output in
+the EU and Russia. The negative effect on the output of all sectors
+of society in the EU member states is consistent, and the impact
+on the output of the Russian industry is concentrated in the
+energy sector. The energy ban stimulates the exploitation of the
+EU’s energy reserves. The implementation of the ban has allowed
+the EU to expand non-Russian energy imports while also turning
+its attention to internal energy resource reserves. As shown in
+Table 8, starting with scenario S1, the EU’s coal sector output
+increased by 5.192% to address the gap in coal supply. And with
+the escalation of the energy ban, the output of the coal industry
+has maintained a high growth rate. In scenario S6, the coal sector
+output growth reached 9.434%. At this time, the increase in coal
+output is more to meet the electricity demand and alleviate
+the power supply shortage caused by natural gas and crude oil."
+"The most apparent impact of the ban on EU industry output is
+the power sector, energy-intensive industries, and the output of
+crude oil products. In scenario S6, the output declines of the three
+sectors were 5.389%, 6.913, and 5.307, respectively. As the blood
+of modern industry, the lack of oil will cause the output of all
+societal sectors to suffer a negative impact. In addition to the
+obvious negative impact on industries with high energy tightness,
+the output of the GrainsCrops industry has also been significantly
+impacted, resulting in a 2.796% decline in industry output, mainly
+due to the decrease in the production in energy-intensive sectors
+such as fertilizers."
+"The energy ban on Russian industry output is mainly concen-
+trated in the energy sector. At the beginning of the ban shown
+in Table 9, it led to a 14.105% drop in the output of the Russian
+coal industry. The escalation of the energy ban, it will have a
+significant impact on the output of Russian crude oil and crude oil
+products, resulting in a decline in output of 10.421% and 3.546%,
+respectively. From the perspective of changes in the output of
+other industries in Russia, in addition to the significant negative
+impact on the energy industry, the effect on the output of other
+sectors of society is small, and even the output of the industry has
+a positive promotion effect. Most notably, the output of energy-
+intensive industries increased by 14.295% in scenario S6. The
+main reason for this phenomenon is that when Russia’s energy
+exports encounter obstacles, in addition to opening up export
+markets outside the EU, it will also moderately reduce the output
+and export quota of energy resources and use the domestic indus-
+trial system to produce and process restricted commodities such
+as coal and crude oil through energy-intensive industrial systems
+such as chemical industry, and convert them into other forms
+of export, to circumvent the international community’s ban on
+energy exports."
+"4.3.3. Impact on greenhouse gas emissions
+As shown in Table 10, in the short term, energy sanctions will
+reduce greenhouse gas emissions. Simulations of GTAP10-E data
+show that world CO2 levels have decreased significantly with
+the escalation of energy sanctions, with world CO2 emissions
+falling by 10.053% in scenario S6 compared to pre-sanction levels."
+"3092
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Table 8
+Changes in EU sector output."
+"EU
+S1
+S2
+S3
+S4
+S5
+S6
+GrainsCrops
+−0.120
+−0.139
+−0.151
+−2.072
+−2.151
+−2.796
+MeatLstk
+−0.061
+−0.091
+−0.111
+−0.274
+−0.366
+−0.455
+ProcFood
+−0.068
+−0.109
+−0.137
+−0.248
+−0.373
+−0.437
+NRS
+−0.049
+−0.066
+−0.077
+−0.369
+−0.422
+−0.496
+Coal
+5.192
+5.575
+5.893
+6.839
+7.838
+9.434
+Oil
+−0.327
+−0.482
+−0.585
+4.610
+4.436
+3.006
+Gas
+−0.632
+3.951
+3.799
+4.373
+4.948
+5.489
+Oil_pcts
+−0.625
+−0.563
+−0.528
+−5.178
+−5.300
+−5.307
+Electricity
+−0.564
+−0.670
+−0.741
+−3.527
+−4.223
+−5.389
+En_lnt_ind
+−0.415
+−0.707
+−0.898
+−4.753
+−5.648
+−6.913
+TransComm
+−0.055
+−0.074
+−0.086
+−1.418
+−1.485
+−1.854
+Oth_ind_ser
+−0.058
+−0.072
+−0.081
+0.029
+−0.011
+0.033
+Table 9
+Changes in RUS sector output."
+"RUS
+S1
+S2
+S3
+S4
+S5
+S6
+GrainsCrops
+0.204
+0.391
+0.512
+1.916
+2.490
+2.786
+MeatLstk
+0.073
+−0.047
+−0.122
+0.226
+−0.127
+−0.202
+ProcFood
+0.145
+0.163
+0.176
+1.247
+1.313
+1.425
+NRS
+−0.065
+0.022
+0.076
+1.406
+1.677
+1.875
+Coal
+−14.105
+−13.625
+−13.445
+−9.666
+−8.259
+−7.506
+Oil
+0.112
+0.339
+0.485
+−10.097
+−9.510
+−10.421
+Gas
+0.255
+−0.781
+−1.434
+3.578
+0.489
+0.181
+Oil_pcts
+−0.028
+0.049
+0.097
+−4.502
+−4.325
+−3.546
+Electricity
+−0.038
+0.093
+0.175
+1.413
+1.819
+2.073
+En_lnt_ind
+0.434
+1.123
+1.564
+10.672
+12.822
+14.295
+TransComm
+−0.004
+−0.111
+−0.179
+0.695
+0.383
+0.376
+Oth_ind_ser
+0.123
+0.126
+0.129
+0.949
+0.968
+1.043
+Energy sanctions have a heterogeneous impact on the degree
+of carbon reduction in EU member states. The more dependent
+member states are on Russian energy; the more their carbon
+emissions will fall as energy restrictions come into effect. Among
+them, EUhdR countries fell by 4.139% in scenario S6 and EUldR by
+only 1.707%. Russia’s carbon emissions, on the other hand, have
+continued to rise with the increase in sanctions, with a maximum
+increase of 2.406%. This is related to Russia’s adjustment of in-
+dustrial output to solve its domestic demand and foreign trade
+after trade restrictions. The decline in the world’s carbon emission
+level is mainly due to the decrease in carbon emissions in the
+European Union, but this downward trend is not sustainable."
+"The short-term energy gap has forced the EU to reduce carbon
+emissions in ways that limit economic activity and reduce resi-
+dents’ energy demand. In solving its energy woes and increasing
+the share of renewable energy, the EU may choose a cheaper
+but quicker approach: restart coal-fired thermal power plants
+that have been phased out. And this phenomenon is happening
+in most parts of the European Union. A vital part of the EU’s
+energy transition package is using cheap natural gas in Russia."
+"Without the support of Russian gas as a transition, it is difficult
+to achieve its transition goals by relying on renewable energy
+alone. If the energy game between the EU and Russia is not
+adequately resolved in the medium and long term, the purposes
+of a worldwide climate agreement will not be achieved."
+"5. Conclusion
+The geopolitical conflict caused by the Russian–Ukrainian war
+was not a dispute between the two countries in the first place."
+"Through direct war between the two sides and indirect economic
+sanctions from the European Union, the world’s major economies
+have been directly involved in the vortex of conflict, especially
+when the world economy is recovering from the impact of the
+epidemic. As the main participants in this geopolitical conflict,
+the economic war between the European Union and Russia re-
+volves around energy sanctions and countersanctions. This study
+analyzes the impact of geopolitical conflicts on the EU, Russia, and
+global energy trade. We use the GTAP-E model to quantitatively
+evaluate the direct and transfer effects of the EU-Russia energy
+game by estimating and setting six scenario assumptions about
+the degree of energy trade between the EU and Russia. The
+research conclusions are mainly as follows:
+1. Energy sanctions triggered by geopolitical conflicts will be
+a lose–lose or even multiple losses outcome. By simulating the
+different degrees of disruption in energy trade between the EU
+and Russia, as the energy game escalates, the economies of both
+sides will suffer serious negative shocks. In the scenario of a
+complete disruption of energy trade, the macroeconomic loss in
+the EU reached 1.488%, the Russian economy reached 4.801%,
+and the world economy experienced a decline of 2.895%. Under
+the trend of global trade integration, the energy game between
+major economies caused by geopolitical conflicts has led to the
+reshaping of the world energy trade structure. Energy sanctions
+will push up energy prices worldwide and increase the cost of
+energy trade between the two sides. It can be seen from the
+relative changes in terms of trade and import and export trade
+that the terms of trade of both sides of the sanctions will dete-
+riorate to varying degrees, with the terms of trade organized by
+the EU falling by 2.033% and the decline in Russia’s terms of trade
+reaching 5.151%. At the same time, the imports, and exports of the
+two major economies will also adjust significantly, with the EU
+showing a sharp decline in imports and Russia showing a decline
+in exports. From the perspective of economic development, the
+3093
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+Table 10
+Changes in CO2 emissions."
+"CO2
+S1
+S2
+S3
+S4
+S5
+S6
+EUhdR
+0.756
+0.546
+0.411
+−2.144
+−2.774
+−4.139
+EUmdR
+−0.347
+−0.529
+−0.648
+−2.716
+−3.287
+−3.554
+EUldR
+−0.148
+−0.186
+−0.212
+−1.466
+−1.590
+−1.707
+UK
+0.060
+0.064
+0.067
+−0.133
+−0.124
+−0.192
+TUR
+0.010
+−0.028
+−0.052
+0.040
+−0.072
+−0.106
+RUS
+−0.046
+0.046
+0.104
+1.835
+2.131
+2.406
+CHN
+−0.005
+0.004
+0.010
+−0.096
+−0.068
+−0.070
+IND
+−0.005
+−0.009
+−0.012
+−0.084
+−0.097
+−0.106
+USA
+−0.022
+0.042
+0.082
+−0.275
+−0.087
+−0.071
+EEU
+−0.049
+−0.612
+−0.978
+0.309
+−1.318
+−1.644
+XMN
+0.020
+−0.054
+−0.101
+0.023
+−0.195
+−0.242
+OPEC
+0.012
+0.011
+0.011
+−0.109
+−0.111
+−0.116
+ASEAN
+0.008
+0.030
+0.044
+0.022
+0.090
+0.109
+ROW
+−0.009
+−0.147
+−0.234
+−0.110
+−0.523
+−0.623
+WORLD
+0.235
+−0.823
+−1.509
+−4.902
+−8.026
+−10.053
+economic game between the EU and Russia caused by the Russia-
+Ukraine conflict has caused a significant negative impact on the
+world economy, resulting in multiple losses."
+"2. Geopolitical conflicts will reshape the structure of world
+energy trade. As a strategic substance in the era of the industrial
+economy, energy is much more critical than other commodities."
+"Energy security not only affects economic development but also
+is the foundation of social security and stability. By simulating
+energy trade between the EU and Russia, the strict implemen-
+tation of the energy ban will directly threaten the EU’s energy
+security. The energy sanctions between the two sides are divided
+by whether to sanction crude oil and crude oil products. Sanctions
+on Russian crude oil and crude oil products will directly affect
+the energy trade structure of EU member states and cause strong
+countermeasures from Russia. After the sanctions on Russian
+crude oil and crude oil products, the EU must look for alternatives
+to Russian energy worldwide. The more significant phenomenon
+is that OPEC, XMN, and ROW account for a substantial increase
+in the EU’s energy structure. The calculation of the energy trade
+transfer factor also supports this conclusion. At the same time,
+after the setback in energy exports to the EU, Russia will turn
+its market to countries such as China, India, and the ASEAN
+Organization. In the model, both the EU and Russia can reduce the
+impact of the energy ban on both sides by rapidly adjusting their
+import and export destinations. Still, due to geopolitical games
+and high levels of world economic uncertainty, this energy trade
+structural adjustment may not have the desired effect in the short
+term."
+"3. The level of social welfare and ecology should not become
+victims of political games. In geopolitical conflicts, the inhabitants
+become the bearers of the outcome of political games and wars."
+"Russia’s war against Ukraine and the energy ban imposed by the
+European Union have caused immeasurable losses to residents."
+"The most direct impact of the energy ban on residents of EU
+member states is the increase in energy prices. The difference in
+the dependence of EU member states on Russian energy has led to
+a large difference in the impact of energy bans on residents. In the
+S6 situation, the electricity prices of EUhdR, EUmdR and EUldR
+increased by 10.12%, 6.95%, and 6.77% respectively, increasing the
+cost of electricity prices for residents and causing greater survival
+pressure on the residents at the bottom. Energy shortages will
+also affect output across sectors in the EU. The direct effect of the
+decline in total social output is the loss of residents’ welfare level,
+and the indirect effect is the decline in carbon emissions of the
+whole society. While carbon emissions will decline in the short
+term due to restrictions on economic activity, in the medium to
+long term, it will have a profound impact on the world’s energy
+transition, and governments may make energy security a strategic
+goal and abandon the Sustainable Development Goals."
+"4. Reshaping energy trade networks will directly affect the
+achievement of Sustainable Development Goals. The terms of
+energy trade directly determine the stability of international en-
+ergy prices, and energy consumption prices directly affect the
+production costs of enterprises. The major countries that have
+announced the implementation of the Sustainable Development
+Goals have all involved a transformation of their energy con-
+sumption structure, based on the basic premise that relatively
+cheap and clean natural gas is used as a transitional energy
+source. The uncertainty of world energy trade caused by the
+energy game directly pushes up energy prices worldwide. In an
+economic environment with high energy prices, the fiscal and
+monetary policies of governments around the world to promote
+sustainable development at the macro level will be greatly re-
+duced, while the micro-enterprise level will be driven by its own
+interests and risks to reduce investment in green innovation."
+"Therefore, carbon emissions from short-term economic down-
+turns do not contribute to medium- and long-term sustainable
+development."
+"This study bridges the gap between geopolitical theory and
+energy trade practice. However, this paper, like similar literature,
+is limited by the analytical framework of the model and fails to
+study the logic between geopolitics, energy trade, and sustainable
+development goals at the micro level. This study only studies
+the changes in energy games caused by geopolitical conflicts
+on economic growth, aggregate output, energy trade diversion
+effects, social welfare losses, and carbon emission levels at the
+macro level. In the short term, at the cost of economic losses,
+the carbon emission target has been exceeded, but a study of the
+production level of micro-enterprises shows that the instability
+of energy trade has a very negative impact on the medium- and
+long-term green transformation of enterprises. Therefore, in the
+future, we will conduct a more detailed micro-level study on the
+relationship between energy trade and sustainable development
+goals, to provide a more complete theoretical and practical basis
+for sustainable development."
+"Funding
+This paper was supported by the National Social Science Fund
+of China ‘‘Research on the Causes and Effects of Fluctuation in
+Global Value Chain Participation and China’s Control Countermea-
+sures’’ (21CJY015)."
+"3094
+"
+"Y. Chen, J. Jiang, L. Wang et al."
+"Energy Reports 9 (2023) 3082–3095
+CRediT authorship contribution statement
+Yangyang Chen: Conceptualization, Methodology, Software,
+Investigation, Formal analysis, Writing – original draft. Jiexin
+Jiang: Data curation, Writing – original draft. Lei Wang: Funding
+acquisition, Resources, Supervision, Writing – review & editing."
+"Ruisong Wang: Visualization, Resources."
+"Declaration of competing interest
+The authors declare that they have no known competing finan-
+cial interests or personal relationships that could have appeared
+to influence the work reported in this paper."
+"Data availability
+The authors do not have permission to share data."
+"References
+Ahmed, Y.N., Delin, H., Reeberg, B.G., Shaker, V., 2020. Is the RCEP a cornerstone
+or just collaboration? Regional general equilibrium model based on GAMS."
+"J. Korea Trade 24 (1), 171–207. http://dx.doi.org/10.35611/JKT.2020.24.1.171."
+"Ang, B.W., Choong, W.L., Ng, T.S., 2015. Energy security: Definitions, dimensions
+and indexes. Renew. Sustain. Energy Rev. 42, 1077–1093. http://dx.doi.org/
+10.1016/J.RSER.2014.10.064."
+"Antonakakis, N., Gupta, R., Kollias, C., Papadamou, S., 2017. Geopolitical risks
+and the oil-stock nexus over 1899–2016. Finance Res. Lett. 23, 165–173."
+http://dx.doi.org/10.1016/J.FRL.2017.07.017.
+"Apergis, N., Aslan, A., Aye, G.C., Gupta, R., 2015. The asymmetric effect of oil
+price on growth across US States. Energy Explor. Exploit. 33 (4), 575–590."
+http://dx.doi.org/10.1260/0144-5987.33.4.575.
+"Bompard, E., Carpignano, A., Erriquez, M., Grosso, D., Pession, M., Profumo, F.,
+2017. National energy security assessment in a geopolitical perspective."
+"Energy 130, 144–154. http://dx.doi.org/10.1016/J.ENERGY.2017.04.108."
+"Chepeliev, M., Hertel, T., van der Mensbrugghe, D., 2022. Cutting Russia’s fossil
+fuel exports: Short-term economic pain for long-term environmental gain."
+World Economy http://dx.doi.org/10.1111/TWEC.13301.
+"Cui, Lianbiao, Lei, Zhui, Malin, Song, 2018. The economic evaluation of China-US
+tarde frictions. J. Finance Econ. 44 (12), 4–17. http://dx.doi.org/10.16538/j."
+cnki.jfe.2018.12.001.
+"Cui, L.B., Song, M.L., 2017. Designing and forecasting the differentiated carbon
+tax scheme based on the principle of ability to pay. Asia-Pac. J. Oper. Res."
+"34 (1), http://dx.doi.org/10.1142/S0217595917400048."
+"Cunado, J., Gupta, R., Lau, C.K.M., Sheng, X., 2019. Time-varying impact of
+geopolitical risks on oil prices. 31, (6), pp. 692–706. http://dx.doi.org/10."
+1080/10242694.2018.1563854.
+"Dutta, A., Dutta, P., 2022. Geopolitical risk and renewable energy asset prices:
+Implications for sustainable development. Renew. Energy 196, 518–525."
+http://dx.doi.org/10.1016/J.RENENE.2022.07.029.
+"Escribano, G., 2018. The geopolitics of renewable and electricity cooperation
+between Morocco and Spain. 24, (5), pp. 674–681. http://dx.doi.org/10.1080/
+13629395.2018.1443772."
+"Freeman, D., 2018. China and renewables: The priority of economics over
+geopolitics. Lect. Notes Energy 61, 187–201. http://dx.doi.org/10.1007/978-
+3-319-67855-9_7."
+"Gong, X., Sun, Y., Du, Z., 2022. Geopolitical risk and China’s oil security. Energy
+Policy 163, 112856. http://dx.doi.org/10.1016/J.ENPOL.2022.112856."
+"Humphreys, M., 2005. Natural resources, conflict, and conflict resolution: Un-
+covering the mechanisms. J. Confl. Resolut. 49 (4), 508–537. http://dx.doi."
+org/10.1177/0022002705277545.
+"Hurd, A.J., Kelley, R.L., Eggert, R.G., Lee, M.H., 2012. Energy-critical elements
+for sustainable development. MRS Bull. 37 (4), 405–410. http://dx.doi.org/
+10.1557/MRS.2012.54."
+"Inshakov, O.v., Bogachkova, L.Y., Popkova, E.G., 2019. The transformation of the
+global energy markets and the problem of ensuring the sustainability of their
+development. Lect. Notes Netw. Syst. 44, 135–148. http://dx.doi.org/10.1007/
+978-3-319-90966-0_10/COVER."
+"Itakura, K., 2014. Impact of liberalization and improved connectivity and facili-
+tation in ASEAN. J. Asian Econ. 35, 2–11. http://dx.doi.org/10.1016/J.ASIECO."
+2014.09.002.
+"Jacobson, M.Z., Delucchi, M.A., Bauer, Z.A.F., Goodman, S.C., Chapman, W.E.,
+Cameron, M.A., Bozonnat, C., Chobadi, L., Clonts, H.A., Enevoldsen, P., Er-
+win, J.R., Fobi, S.N., Goldstrom, O.K., Hennessy, E.M., Liu, J., Lo, J., Meyer, C.B.,
+Morris, S.B., Moy, K.R., et al., 2017. 100% clean and renewable wind, water,
+and sunlight all-sector energy roadmaps for 139 countries of the world. Joule
+1 (1), 108–121. http://dx.doi.org/10.1016/J.JOULE.2017.07.005."
+"Ji, Q., Liu, B.Y., Fan, Y., 2019a. Risk dependence of CoVaR and structural change
+between oil prices and exchange rates: A time-varying copula model. Energy
+Econ. 77, 80–92. http://dx.doi.org/10.1016/J.ENECO.2018.07.012."
+"Ji, Q., Zhang, H.Y., Zhang, D., 2019b. The impact of OPEC on East Asian oil
+import security: A multidimensional analysis. Energy Policy 126, 99–107."
+http://dx.doi.org/10.1016/J.ENPOL.2018.11.019.
+"Kruyt, B., van Vuuren, D.P., de Vries, H.J.M., Groenenberg, H., 2009. Indicators for
+energy security. Energy Policy 37 (6), 2166–2181. http://dx.doi.org/10.1016/
+J.ENPOL.2009.02.006."
+"Lee, C.C., Lee, C.C., Ning, S.L., 2017. Dynamic relationship of oil price shocks and
+country risks. Energy Econ. 66, 571–581. http://dx.doi.org/10.1016/J.ENECO."
+2017.01.028.
+"Liu, J., Ma, F., Tang, Y., Zhang, Y., 2019. Geopolitical risk and oil volatility: A new
+insight. Energy Econ. 84, http://dx.doi.org/10.1016/J.ENECO.2019.104548."
+"Liu, Y., Yu, L., Yang, C., Li, Z., 2021. Heterogeneity of the impact of geopolitical
+events on energy trade: an empirical study based on regression discontinuity
+design. Front. Environ. Sci. 9, 322. http://dx.doi.org/10.3389/FENVS.2021."
+722910/BIBTEX.
+"Mahlstein, K., McDaniel, C., Schropp, S., Tsigas, M., 2022. Estimating the economic
+effects of sanctions on russia: an allied trade embargo. World Economy
+http://dx.doi.org/10.1111/TWEC.13311."
+"Noguera-Santaella, J., 2016. Geopolitics and the oil price. Econ. Model. 52,
+301–309. http://dx.doi.org/10.1016/J.ECONMOD.2015.08.018."
+"Pierri, E., Binder, O., Hemdan, N.G.A., Kurrat, M., 2017. Challenges and opportu-
+nities for a European HVDC grid. Renew. Sustain. Energy Rev. 70, 427–456."
+http://dx.doi.org/10.1016/J.RSER.2016.11.233.
+"Raman, S., 2013. Fossilizing renewable energies. Sci. Cult. 22 (2), 172–180."
+http://dx.doi.org/10.1080/09505431.2013.786998.
+"Salameh, M.G., 2014. Where is the crude oil price headed? SSRN Electron. J."
+http://dx.doi.org/10.2139/SSRN.2502056.
+"Scholten, D., Bosman, R., 2016. The geopolitics of renewables; exploring the
+political implications of renewable energy systems. Technol. Forecast. Soc."
+"Change 103, 273–283. http://dx.doi.org/10.1016/J.TECHFORE.2015.10.014."
+"Smith Stegen, K., 2018. Redrawing the geopolitical map: International relations
+and renewable energies. Lect. Notes Energy 61, 75–95. http://dx.doi.org/10."
+1007/978-3-319-67855-9_3.
+"Su, C.W., Khan, K., Umar, M., Zhang, W., 2021. Does renewable energy redefine
+geopolitical risks? Energy Policy 158, http://dx.doi.org/10.1016/J.ENPOL.2021."
+112566.
+"Vakulchuk, R., Overland, I., Scholten, D., 2020. Renewable energy and geopolitics:
+A review. Renew. Sustain. Energy Rev. 122, http://dx.doi.org/10.1016/J.RSER."
+2019.109547.
+"Vasylkivskyi, D., Matiukh, S., Matviiets, O., Lapshyn, I., Babenko, V., 2020. The
+consequences of the military conflict in eastern ukraine, its impact on inter-
+national investment attractiveness, economic and demographic development
+in ukraine. Res. World Econ. 11 (4), 81–89. http://dx.doi.org/10.5430/RWE."
+V11N4P81.
+"Yang, Y., Li, J., Sun, X., Chen, J., 2014. Measuring external oil supply risk: A
+modified diversification index with country risk and potential oil exports."
+"Energy 68, 930–938. http://dx.doi.org/10.1016/J.ENERGY.2014.02.091."
+"Zhang, Z., He, M., Zhang, Y., Wang, Y., 2022. Geopolitical risk trends and crude oil
+price predictability. Energy 258, 124824. http://dx.doi.org/10.1016/J.ENERGY."
+2022.124824.
+"3095
+"

@@ -1,0 +1,3324 @@
+Paragraph
+"1 
+ 
+ 
+ 
+ 
+Market Reactions to the Russian‒Ukraine War:                 
+A Global Banking Stock Analysis 
+ 
+ 
+ 
+ 
+Abstract 
+ 
+Purpose– The purpose of this paper is to study the market reactions of the banking industry to 
+the Russian–Ukraine war."
+"Design/methodology/approach– This paper uses an event study methodology, regression 
+analyses and interaction effects to study the effect of the war on banks stock prices and analyze 
+factors that explain the cumulative abnormal return."
+"Findings– First, this study finds a significant decline of almost 1.5% in return on the war date."
+"Similar patterns were observed for all continents, but Europe had the most severe drop of about 
+4%. Second, after excluding the contemporaneous influence of the whole market using the 
+market model, global bank equities returns fell by about 1% on the war date, indicating that 
+bank stocks were more severely impacted by the war than the average stock market. Net-of-
+market return approach further reveals that bank stock prices decreased 1.4% more on the event 
+day compared to the pre-war market average. Third, the impacts of the war and sanctions were 
+persistent when the war continued. Banks stocks were most hit in Europe, Asia and North 
+America."
+"Originality/value– This paper pioneers the study of the effect of the Russia–Ukraine war on 
+the banking industry. This paper also analyzes the reaction pattern of bank stocks before, during 
+and after the war to explain the behavior and expectations of investors toward the war."
+"Keywords: Russian–Ukraine war, Market reactions, Banking stocks, Financial crisis, 
+International finance, Capital market  
+ 
+Paper type: Research paper 
+ 
+JEL codes: C23 • G01 •  G21 • G28 • L50 • M4 
+ 
+ 
+ 
+ 
+"
+"2 
+ 
+1. Introduction 
+The Russia-Ukraine war1 has heightened global financial stability risks2 (ECB, 2022) as it 
+harmfully and virtually affects all aspects of economic activities and financing conditions (e.g., 
+energy prices, inflation, economic growth). The situation has worsened in the European 
+countries since the war, and related sanctions further put more pressure on energy and 
+commodity prices3. As this region relies heavily on the Russian energy supply, which accounts 
+for approximately 43% of its natural gas and 27% of its crude oil imports in 2020, European 
+financial stability is severely harmed by this rising inflation. Correspondingly, banks and 
+creditors are now tightening their financing conditions, making them struggle with the 
+increasingly indebted firms due to Covid‒19 and lowering their own revenue and profits. The 
+banking sector, especially in Europe, has therefore faced weaker profitability (ECB, 2022). In 
+the US, BNY Mellon had a drop of 3% in fee revenue (equivalent to $3.2 billion) in the first 
+quarter of 2022, and $88 million of this loss is caused by the sanctions against Russia4. Those 
+banks inescapably confront an increasingly uncertain environment caused by the war, the 
+volatile markets, and persistently higher inflations across countries."
+"Although there is some evidence of the market reaction to global stocks, we still find a gap in 
+which we can provide new evidence and significantly contribute to the war-related literature."
+"To our knowledge, existing evidence only focuses on non-financial firms' stocks (e.g., Tosun 
+and Eshraghi, 2022; Boungou and Yatié, 2022; Boubaker et al., 2022; Umar et al., 2022b; 
+Yousaf et al., 2022). Unfortunately, they cannot be applied to international banking 
+institutions due to their unique intermediation model 5 and central role in some sanctions."
+"1 February 24, 2022 
+2 https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220525~fa1be4764d.en.html  
+3 https://www.ecb.europa.eu/pub/financial-stability/fsr/html/ecb.fsr202205~f207f46ea0.en.html#toc4 
+4 https://www.americanbanker.com/list/5-ways-the-ukraine-war-is-impact-the-banking-industry  
+5 Mishkin (1999) underlined the crucial role of banks as intermediaries in ensuring the stability of financial 
+markets. Furthermore, banking is a sector with a high level of risk contagion (Gorton, 1985; Iyer & Peydró, 2011; 
+"
+"3 
+ 
+Indeed what distinguishes banks from non-financial firms is the spill-over effect on global 
+financial and commodity markets (Batten et al., 2022; Choudhury et al., 2022; Hassan et al., 
+2022b; Hassan et al., 2022b; Karim et al., 2022), as commercial banks play a facilitation role 
+in transactions and providing credit in the modern economy. Under such high uncertainty and 
+the nature of the war crisis, the banking system's ability to withstand the economic 
+repercussions of systemic risk-induced adverse events is even more critical. Hence, severe 
+instability in the banking sector due to the war may be a shock hitting the whole financial 
+system and wreaking havoc on economies worldwide. The above-mentioned crucial role and 
+special characteristics of banks during uncertain times motivate us to investigate the reaction 
+of bank stocks to the war."
+"The event's impact on banks can be determined using accounting data. However, the mere 
+availability of accounting data at low frequencies, such as quarterly, limits the flexibility to 
+examine the effect pattern of events in a timely manner (Tinoco & Wilson, 2013). On the 
+contrary, stock prices have the advantage of quickly reflecting the systemic risks (Rees, 1995), 
+including information about risk and cash flows that are not included in the financial statements 
+(Hillegeist et al., 2004; Beaver et al., 2005; Agarwal & Tafler, 2008). Therefore, in this study, 
+we focus on the reaction of bank stock prices to the war event."
+"The market reactions of global banking stocks to the Russian-Ukraine war may be due to 
+several factors, including investors' fear and expectations (Duxbury et al., 2020; & Galloppo, 
+2018; Liang, 2018) about the war's consequences and market outlook towards this sector 6 7."
+"In addition, the literature emphasizes the impacts of inflation on banks' profitability 
+expectations. Specifically, higher inflation heightens the possibility of interest rate 
+                                                     
+ 
+Kaufman, 1994; Slovin et al., 1999). Hence, the response of the banking system to the war event will reveal the 
+financial system's vulnerability as a whole."
+"6 https://cepr.org/voxeu/columns/sanctions-war-and-systemic-risk‒1914-and-2022 
+7 https://www.nytimes.com/2022/02/22/business/banks-russia-sanctions.html 
+"
+"4 
+ 
+adjustments. As a result, the values of bonds and stocks are expected to diminish following 
+rising interest rates (Ehrmann & Fratzscher, 2004; Malkiel, 1962; Thorbecke, 1997; Tobin, 
+1978), hence decreasing the value of banks' assets and increasing their risk. The literature has 
+long supported the negative impact of inflation on bank profitability (Kessel & Alchian, 1960; 
+Dermine, 1985; Lajeri & Dermine, 1999)."
+"The Russian-Ukraine war is worth researching because this current event has led to the global 
+coordination of several influential sanctions from different areas, typically the European Union 
+(J.J.Morgan 8 ). To date, as mentioned earlier, little academic evidence focuses on the 
+implications of the Russia-Ukraine war event and border disputes on stock markets (Tosun and 
+Eshraghi, 2022; Boungou and Yatié, 2022; Boubaker et al., 2022; Umar et al., 2022b; Yousaf 
+et al., 2022), or the effect of this crisis on the European stock market (Ahmed et al., 2022)."
+"However, those studies only cover the general (or non-financial) stock market indices and 
+ignore the effects on banking, which is one of the most influenced sectors by the war. Our 
+present study fills this critical void of war event study."
+"In addition, our study contributes to the psychological literature on responses to anticipated 
+realities (e.g., Laurin, 2018; Kim & Verrecchia, 1991) by testing the hypothesis that bank 
+stocks react to the anticipated event. By doing so, we found the different reactions of stock 
+return and the war before and after the war event day. Particularly, we investigate if the bank 
+stock market strongly reacts on the war day. The Ukraine-Russia war was not an unexpected 
+event9. Brickman (1978) reveals that when an event is anticipated to occur, but its repercussions 
+are still insignificant, people have little psychological conviction that the event will occur. In 
+addition, Laurin (2018) claims that as the probability of an event increases, especially when its 
+                                                     
+ 
+8 https://www.jpmorgan.com/insights/research/russia-ukraine-crisis-market-impact  
+9 http://en.kremlin.ru/events/president/news/67828 
+ 
+"
+"5 
+ 
+consequences begin to emerge, psychological realism will boost rationalization. Consequently, 
+the transition from anticipated feeling to real feeling should cause an increase in people's 
+rational reactions. Hence, people will strongly respond on the day of the occurrence."
+"Our study, the main focus on global banking stocks, significantly contributes to the geopolitical  
+literature and practice of the banking sector (Baur & Smales, 2020; Engle & Campos-Martins, 
+2023; Sharif et al., 2020). Substantial credit was given to our more in-depth and differential 
+results compared to the studies on non-financial firms' stocks. First, we document a shred of 
+new insightful evidence on the strong reaction of bank stock return to the war on the day of the 
+war. Similar patterns were observed for all six continents, but Europe had the most severe drop 
+in return on the first day of the war. That means we find that not all parts of the world had a 
+similar experience right after the war was begun. Interestingly, we also show the different 
+reactions of the banking sectors to the war news and its related events before, during, and after 
+the war."
+"Second, we contribute to the current literature on war event and financial market (Tosun and 
+Eshraghi, 2022; Boungou and Yatié, 2022; Boubaker et al., 2022; Umar et al., 2022b; Yousaf 
+et al., 2022; Ahmed et al., 2022) by examining the magnitude and coverage of the war's effect 
+on bank stocks by focusing on the significance of this fall when market risk is considered. This 
+in-depth analysis shows the standard impact (signs) and, more importantly, the extent of the 
+market reactions on the global banking stocks. To do this, we calculate the abnormal return of 
+the bank stocks using two alternative approaches: the market model (AR1) (Białkowski et al., 
+2012; Brown & Warner, 1985) and net-of-market return (AR2) (Brown & Warner, 1985). Both 
+methods help capture the performance of bank stocks after filtering out the contemporary 
+movement of the whole stock market."
+""
+"6 
+ 
+Third, we examine the reaction of bank stocks to war-related events from the perspective of 
+behavioral finance, specifically, overreaction (Ardia et al., 2022; Bondt & Thaler, 1987; Lou 
+& Polk, 2022). Europe was the region in which bank stock losses were the most severe. This 
+is consistent with the fact that Europe's economy relies substantially on imports from Russia, 
+particularly energy and commodities. In the event of a war, disruptions to international trade 
+and increased energy costs will directly impact European consumption and production, 
+diminishing the profitability and raising the risks of banks in these nations. The response 
+pattern of European bank stocks mirrors this anxiety. Europe is the area with the strongest 
+evidence of market overreaction on the day of the war and the most robust evidence of market 
+reversal the next day. Our results are consistent with prior literature on investor sentiment and 
+the overreaction hypothesis (Bondt and Thaler, 1985). Existing literature suggests that investor 
+sentiment swings following major-specific events (Edmans et al., 2007; Kadiyala and Rau, 
+2004), and overreaction is an important part of the price behavior during the crash (Seyhun, 
+1990). There was also evidence of overreactions and reversals at times of heightened tensions 
+before the war and when oil prices jumped after the war. This suggests that investors in this 
+region are more sensitive to the development and ramifications of Russia and Ukraine tensions."
+"Finally, we investigate how the war's repercussions have altered investor expectations for bank 
+equities. We are primarily concerned with two war-related effects: the rise in energy costs and 
+the change in currency strength. Our result suggests that, following the war, bank stocks 
+become significantly more susceptible to oil price and exchange rate fluctuations. This finding 
+contributes to the literature on the negative relationship between oil price and stock price during 
+the post-war period (Jones & Kaul, 1996), the positive correlation between market returns and 
+oil demand shocks, and the negative correlation between market return and oil supply shocks 
+(Kilian & Park, 2009; Ready, 2018), the international evidence of oil shocks impacting stock 
+markets (Basher and Sadorsky, 2006; Ftiti et al., 2016; Umar et al., 2022a), the impact of oil 
+"
+"7 
+ 
+price on bank profitability (Poghosyan & Hesse, 2009; Ma el al., 2021). We also find evidence 
+that bank stocks in Europe, Asia, and South America were more sensitive to the exchange rate 
+swings following the war. This result is in line with the documented close association between 
+stock performance and exchange rate risk in the literature (Dornbusch and Fischer, 1980; 
+Phylaktis and Ravazzolo, 2005; Kinateder et al., 2021), the tightening relationship around the 
+period of crisis (Phylaktis and Ravazzolo, 2005). We also provide more international evidence 
+for the literature on banking exposure to exchange rate risk (Chamberlain et al., 1997; Martin 
+and Meuer, 2003). Overall, our findings suggest that energy prices and fluctuations in exchange 
+rates could be the channels for the effects of war and sanctions to spread to bank stocks."
+"The remainder of the paper is organized as follows. Section 2 describes the data and sample 
+construction. Section 3 introduces the methodology and variable definitions. Sections 4 and 5 
+present our main findings and potential channels for transferring the war impact to bank stock 
+returns. Section 6 concludes our paper."
+"2. Data and Sample 
+Our study employs data from four sources: media outlets, Refinitiv Datastream, Refinitiv 
+Eikon, and Barchart. We acquire relevant information about the Russia-Ukraine war event from 
+many trustful sources on the internet 10 and multiple-check for validation. Accordingly, we 
+assume the official announcement time for the war is when Putin declared the ""special military 
+operation"" against Ukraine via televised broadcasting just before 6 a.m., Moscow time, on 
+February 24, 2022. At this time, the stock markets in Oceania and Asia are still open for trading 
+on February 24, while the markets in North America, South America, Europe, and Africa are 
+already closed for trading on February 23 and preparing to open for the next trading day. Hence, 
+we define the first trading day following the war as February 24, 2022, across the globe."
+"10 The New York Times, WHO, ..."
+""
+"8 
+ 
+Next, we obtain the commercial bank stock data from Refinitiv Datastream. This data source 
+provides us with 2316 commercial banks from 90 markets covering six continents: Europe, 
+Asia, North America, South America, Oceania, and Africa. We do not include Russian banks 
+in our sample since we are primarily concerned with the impact of the war on bank stocks in 
+countries that are not directly involved in this war. Table 1 reports the descriptive statistics of 
+our sample, including investigated markets, their regions, continents, and the number of 
+commercial banks examined in each market."
+"[Insert Table 1 about here] 
+To measure abnormal returns, we gather market returns data from Refinitiv Eikon."
+"Market return for each market is proxied using the most commonly used benchmark index´s 
+return in this market. Next, we control for the impact of coronavirus by employing the daily 
+number of new data cases retrieved from the WHO website. Due to the timing of the Covid‒
+19 outbreak and the war, we restrict our sample from January 2020 to April 2022. Further, we 
+gather sanction information from the internet to examine the effects of the major sanctions. Our 
+study also considers the impact of the war via the fluctuation in energy prices proxied by the 
+WTI crude oil price and the ups and downs of currency power measured using the exchange 
+rate for each market. The crude oil price and exchange rates data are collected from 
+Barchart.com."
+"3. Event study methodology and variable definitions 
+We follow the approach of Fama et al. (1969) to investigate the impact of the war event on 
+bank stock returns. We measure each bank stock's abnormal return using two different 
+methods: the market model (Białkowski et al., 2012; Binder, 1998; Campbell et al., 2012; 
+Abudy et al., 2022) and the net-of-market return (Brown & Warner, 1985; Campbell et al., 
+2012; Abudy et al., 2022)."
+""
+"9 
+ 
+Following the market model approach, we estimate the expected returns by regressing each 
+actual stock return series on the corresponding market return. To prevent the confounding 
+effect of the covid‒19 pandemic fear and vaccine distribution event at the end of 2020, we 
+restrict our sample to start from March 2021. Specifically, the market model is estimated from 
+230 days to 11 days before the war. Based on the estimated result, the abnormal return of each 
+stock is measured as follows: 
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(1) = 𝑅𝑅𝑖𝑖.𝑡𝑡−(𝛼𝛼
+ො𝑖𝑖+ 𝛽𝛽
+̂𝑖𝑖. 𝑅𝑅𝑚𝑚,𝑡𝑡)                                                (1) 
+where 𝑅𝑅𝑖𝑖.𝑡𝑡 is the actual return of stock i and 𝑅𝑅𝑚𝑚,𝑡𝑡 is the corresponding market return on the day 
+t. 𝛼𝛼
+ො𝑖𝑖 and 𝛽𝛽
+̂𝑖𝑖 are the coefficients estimated from the market model."
+"The second method, net-of-market return, measures the abnormal returns as the difference 
+between actual return against the average historical market return (Brown & Warner, 1985)."
+"The literature has documented potential day-of-week seasonality patterns in stock prices, such 
+as the Monday effect (French, 1980; Kamara, 1997) or the weekday effect (Ke et al., 2007; 
+Doyle & Chen, 2009). To account for this potential weekday effect, we measure the abnormal 
+return of a stock as the difference between the actual stock return and the average 
+corresponding historical market return on the same weekday. Formally, we calculate the 
+following specification:  
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(2) = 𝑅𝑅𝑖𝑖.𝑡𝑡−𝑅𝑅
+ത𝑚𝑚, same weekday between T‒11 and T‒230.                                             (2) 
+To reduce the idiosyncratic movement of each bank stock return, we compute the daily global 
+or regional average abnormal return (AAR) as the average abnormal return of all bank stocks 
+worldwide or in the examined region. Specifically,  
+𝐴𝐴𝐴𝐴𝑅𝑅𝑡𝑡= 𝐴𝐴𝐴𝐴
+ത
+ത
+ത
+ത𝑖𝑖,𝑡𝑡                                                              (3) 
+"
+"10 
+ 
+Further, we also calculate the cumulative average abnormal return (CAAR) from the day 𝑡𝑡1 to 
+day 𝑡𝑡2 as the sum of the daily average abnormal return within this time window. The CAAR 
+analysis is necessary because it helps reveal how long the event influences bank stocks' returns."
+"𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶(𝑡𝑡1, 𝑡𝑡2) = ∑
+𝐴𝐴𝐴𝐴𝑅𝑅𝑡𝑡
+𝑡𝑡2
+𝑡𝑡=𝑡𝑡1
+                                                  (4) 
+4. Main results 
+4.1 Bank stocks' return movement following the war event."
+"We begin our analysis by examining the movement of the bank stock return throughout the 
+sample period. We also employ the Hodrick-Prescott (HP) filter to better capture bank stocks' 
+performance patterns and separate long-term trends from short-term fluctuations. Figure 1 
+depicts the movement of all commercial banks' returns for the entire world and each region 
+from January 2020 to April 2022. The blue line shows the average bank stock return, while the 
+red line represents the long-term trend obtained using the HP filter."
+"[Insert Figure 1 about here] 
+It can be seen from Figure 1 that the bank stock return around the world reacted to the war 
+event.  During 2020, global banking stocks witnessed a tumultuous period. From the beginning 
+of 2021, the return volatility pattern appears more stable with a flatter long-term trend line."
+"However, there was an abrupt drop in return on the day of the war. This average decline of 
+almost 1.5 percent is severe compared to the market's moves at the beginning of 2022 and the 
+pattern over the last year. This indicates that the market's precipitous decline on February 24, 
+2022, was most likely triggered by the day's incident."
+"Similar patterns were observed for all six continents. Amongst them, Europe had the most 
+severe return decline on the first day of the war. The average return of bank stocks fell more 
+than 4%, becoming the most profound fall since mid‒2020. Notably, European banking stocks 
+"
+"11 
+ 
+have relatively low volatility in 2021, with a maximum average drop of no more than 2%."
+"Compared with other regions, Europe is the market with the strongest bank stocks' reaction in 
+both magnitude and comparison with the preceding trend. The strong market reaction on the 
+day of the war lends credence to the notion that expectations for European bank equities are 
+highly sensitive to this war."
+The fear of the war's repercussions might explain the strong reaction of European bank stocks.
+"Western nations had threatened Russia with sanctions if the war materializes. These sanctions 
+are anticipated to significantly impact numerous European banks conducting international 
+banking activities related to Russia. In addition, war and sanctions increase concerns of 
+disruptions in international trade, escalating commodity prices, and increasing financial 
+instability. These factors potentially influence the future cash flow and risk of banks. The 
+reaction of the market to bank stocks is not limited to Europe. Oceania and Asia also 
+experienced a sharp drop in bank stocks' returns on the first day of the war. North American 
+bank stocks showed a noticeable but weakest reaction across the region. South America and 
+Africa also saw marked declines in bank stocks' performance on the day of the war. In general, 
+bank stocks on the six continents all saw steep decreases on the day of the war. These losses 
+are extreme compared to the trend of fluctuations over the preceding year. This suggests that 
+the Russia-Ukraine war considerably impacts investor sentiment towards bank stocks. This 
+impact has a worldwide scope and is strongest in the European region."
+4.2 The magnitude and coverage of the war's effect on bank stocks worldwide.
+"The decline in actual bank stocks' returns implies the war's impact on the bank stocks. To 
+facilitate this analysis, we calculate the bank stocks' abnormal return using the market model 
+(AR1) and net-of-market return (AR2). Table 2 reports the average abnormal returns (AAR) of 
+"
+"12 
+ 
+bank stocks on the first day of the war for the entire world and six continents. This table also 
+presents the test result for whether the AARs for the globe and each area are different from 0."
+"[Insert Table 2 about here] 
+Panel A of Table 2 reports the average abnormal returns from the market model. On the war 
+day, global bank stock returns plummeted by around 1%. This decline is statistically 
+significant, with a t-stat of ‒8.85, implying that bank stocks, in general, were further affected 
+by the war, adding to the effect of the overall market decline. Panel B of Table 2 displays the 
+net-of-market abnormal return. The results show a similar result compared to the market model 
+approach; bank stocks worldwide fell 1.4% deeper on the day of the war with a t-stat of ‒17.63."
+"These results from the average abnormal return from both methods are consistent with the 
+downward trend in bank stock returns in Figure 1."
+"Table 2 also depicts the widespread impact of the war on various geographical areas. In all 
+continents, significant drops in average abnormal returns were recorded. Regardless of the 
+methods employed, Europe is always the hardest-hit region. Bank stock returns in Europe 
+significantly fell 2.17% or ‒4.146% on the event day according to the market model or the net-
+of-market abnormal return approaches. This decline supports the view that investor sentiment 
+towards European bank stocks is very vulnerable to war. Noticeably, the drops in returns in 
+Europe were always about double Asia, the second-most affected region."
+"Furthermore, to investigate whether this event has a large-scale impact on most banks or only 
+focuses on some banks, we calculate the percentage of banks with negative abnormal returns."
+"Table 3 reports the results for all regions. The results reveal that over 94% of banks worldwide 
+had returns below the market average in the pre-war period, and Europe is still the most affected 
+region, with more than 90% of banks being hit on the war day. When the market influence is 
+removed, 43% of banks had negative abnormal returns."
+""
+"13 
+ 
+[Insert Table 3 about here] 
+4.3 How did bank stocks react to the war, war-related news, and the persistence of 
+reaction? 
+The sharp drop in bank stock returns on the first day of the war illustrates the sensitivity of 
+bank stocks to this event. However, there are some concerns over the market response. First, 
+did fear of the war's consequences affect investor sentiment before the war started? Second, if 
+this war is anticipated, is the reaction of bank stocks on the war event day purely an 
+overreaction of the market or a correction of the expectation of bank stocks when the war 
+materialized? To address these concerns, we calculate the abnormal return of bank stocks from 
+10 days before the war event to 10 days after. Table 4 reports the results for all areas."
+"[Insert Table 4 about here] 
+In the ten trading days before the war, bank stocks experienced both price increases and 
+decreases. However, the average gains and losses in the global bank stocks over the ten days 
+before the war are relatively small, ranging from ‒1.41% to 0.2%. This indicates that the drop 
+on February 24 is not due to the continuation of the trend in the last ten days but is highly likely 
+due to the day's event. The same pattern was observed in all six continents when the drops on 
+the war day were extreme compared with the fluctuations in the last ten days."
+"The war between Russia and Ukraine does not come as a surprise to the market. Fear 
+of this war existed already. Between late 2021 and January 2022, Russia sent troops close to 
+the Ukrainian border, raising worries of an imminent war. From this time forwards, the United 
+States and its Western allies warned about sanctions against Russia. In addition, the impasse 
+over settling a diplomatic solution to the Russia-Ukrain conflict fueled fears of consequences 
+if war started. On February 14, the United States closed its embassy in Kyiv, heightening 
+"
+"14 
+ 
+concerns that war was inevitable. On the same day, the White House also broadcasted a 
+message that the war could happen anytime. The prospect of this impending war severely 
+impacted the markets on the same day. Table 4 demonstrates that bank stocks performed poorly 
+in most areas on February 14. The AAR for European bank stocks was the lowest, at ‒0.71% 
+(t-stat = ‒10.36), further than the impact of the whole market. The same day, Asia, North 
+America, and South America also experienced significant negative abnormal returns. Due to 
+being in the earliest time zone, Oceania's market reacted a day later, while African bank stocks 
+exhibited no considerable reaction."
+"A similar reaction was witnessed on February 22. On February 21, tensions escalated 
+when Russia recognized the independence of two regions in Ukraine, followed by a series of 
+sanctions imposed by Western countries in late February 21 and the following days. Rising 
+tensions and the series of sanctions made the market react more negatively on February 22."
+"Energy prices surged on February 22 after Russia sent troops into eastern Ukraine. Europe and 
+other regions that support imposing sanctions on Russia are under pressure from disruptions to 
+international trade and inflation resulting from higher energy and commodity costs. These 
+consequences are harmful to the profitability of banks. Pressure from rising commodity prices 
+also affects regions with high importing levels, such as Asia. AARs of ‒0.5% (t-stat = ‒3.28) 
+in Asia, ‒0.14% (t = ‒2.31) in Europe, and negative for all remaining areas reinforce the view 
+that bank stocks reacted more severely than the market to the fear about the consequences of 
+escalating tensions."
+"In Europe and North America, two regions confronting Russia in the wake of Russia-
+Ukraine tensions, the net-of-market return approach revealed predominantly negative abnormal 
+returns in the ten days before the war. This demonstrates that investors hold a grim view of 
+bank stocks relative to the prior market's average performance. In other regions, except for two 
+"
+"15 
+ 
+conflict escalation events that caused adverse market reactions on February 14 and 22, bank 
+stocks had outperformed average historical market benchmarks on many days. This indicates 
+that investor sentiment is more persistently affected in regions implementing significant 
+sanctions against Russia. The distinction between Europe and North America is that Europe is 
+significantly dependent on the Russian energy supply and engages in a wide range of banking 
+activities relating to Russia. A confrontation with Russia under these conditions might have 
+devastating effects on the European banking sector. The findings indicate that after removing 
+the market trend for ten straight days before the war, AAR in the European region was 
+overwhelmingly bearish. In North America, the AAR derived from the market model swung 
+between negative and positive values, showing that U.S. bank stocks largely followed the 
+market. In the ten days before the war, Asian bank stocks did not have many worse-performing 
+days than average market performance in the past, except for the market reaction on February 
+14 and 22. However, after excluding market movement, AAR has persistently negative values 
+for eight days before the war. This shows that Asian banks are more sensitive to the effects of 
+tensions between Russia and Ukraine than the entire stock market."
+"Shortly after the official commencement of the war, the removal of Russia from the 
+SWIFT financial messaging system by the United States and Western nations caused a 
+temporary interruption of the worldwide payment system with Russia. This disruption could 
+impact the European banking sector as it becomes momentarily more difficult to get back the 
+loans in Russia. This sanction was implemented on Saturday, February 26. During the weekend 
+and market opening on Monday, several sanctions were implemented. The aggregated effect 
+of these sanctions was reflected in the markets on February 28. On this day, Europe, Asia, 
+North America, and Oceania all responded negatively to bank stocks. However, only Europe 
+and Oceania had negative and statistically significant AARs from the market model at ‒0.38% 
+(t-stat = ‒3.92) and ‒0.59% (t-stat = ‒2.27), respectively. This indicates that bank stocks in 
+"
+"16 
+ 
+these two regions may be affected by the disruption in the payment system. However, the 
+0.38% decline in Europe is not as significant as the declines in prior days. This highlights the 
+market's sustained confidence in the soundness of the European banking system. On the 1st 
+and 2nd of March, all regions saw at least one day of negative AAR. The AAR of European 
+banks was negative at ‒0.98% on March 2 (t-stat = ‒10.84). Asian banking stocks also have a 
+negative AAR at ‒0.55% (t-stat = 5.29). These are the steepest price falls since the beginning 
+of the war. On the two days of March 1 and 2, the majority of the sanctions announced were 
+smaller than those introduced on the three days of February 26, 27, and 28. However, the 
+decrease in the first two days of March was more remarkable. This indicates that bank stocks 
+may not react directly to the sanctions."
+"Before the war, bank stocks reacted severely on the days when the conflict escalated."
+"However, if the market had sufficient time to think about the conflict's repercussions, the 
+continuous imposition of sanctions against Russia after the war might not heighten market 
+anxiety. Notably, the decline in the first two days of March coincided with the sharp rise in 
+energy prices. This association is comparable to when bank stocks dropped significantly around 
+the war event day. This finding suggests that bank stocks may be susceptible to swings in 
+energy prices, one of the most significant economic ramifications of the war. Figure 2 depicts 
+the daily change in AARs from 10 days before the war event to 10 days following. We also 
+plotted the yield on WTI oil front-month futures to proxy for the energy price change. AARs 
+tend to move in a very similar direction across the regions. This indicates that the war might 
+trigger a synchronized impact on global bank stocks. Before the day of the war, the opposite 
+movements could be observed between the AARs and the oil price, but this pattern was not 
+apparent. As soon as the war formally began, the movement of AARs in all regions became 
+strongly connected to oil price variations. When the price of oil rose sharply, bank stocks fell 
+"
+"17 
+ 
+significantly relative to the overall market level and vice versa. This result shows that energy 
+prices may significantly explain investors' expectations for bank stocks."
+"[Insert Figure 2 about here] 
+ 
+The difference in the reaction of bank stocks before, during, and after the day of the 
+war reflects the difference in investor reaction patterns at different times. We find that these 
+results are well supported by the theory of response to anticipated realities introduced by 
+Laurin (2018). As mentioned, this war is not an unexpected event for investors. Hence, what is 
+the psychology of investors before the event occurs? Brickman (1978) suggests that, with 
+predictable events, people initially have little psychological belief that the event will happen."
+"People will tend to limit their response even if the possible consequences are predictable, 
+especially when these consequences are unclear and the probability of the event occurring is 
+still low. Psychological studies mention this response pattern as ""status quo bias"" (Kahneman 
+et al., 1991). Laurin (2018) indicates that only when the event's probability increases, and the 
+events' consequences become more significant, psychological realism make people more 
+rational and promotes the response. This matches the market reaction when tensions between 
+Russia and Ukraine escalate and, therefore, sharply increases the probability of war. Laurin 
+(2018) also implies that when the event occurs, the feeling of the possibility of the event 
+becomes irrefutable. As a result, on the event day, people no longer delay their responses from 
+suspecting the occurrence and start to update their behavior following the rational expectation."
+"After the event, people tend to react more rationally to updates on consequences. This explains 
+the market's reaction to the sharp oil price increase following the war."
+"4.4 Reaction to the war event: short-term or persistent? 
+Table 5 presents the cumulative average abnormal return (CAARs) of bank stocks worldwide 
+and on six continents. The CAARs (‒10,‒1) worldwide from the market model and net-of-
+"
+"18 
+ 
+market return are ‒1.11% (t-stat = ‒13.25) and ‒0.2% (t-stat=‒0.779), indicating that that bank 
+stocks in the ten days before the war did not significantly deviate from the market trend."
+"Examining the performance trends of bank stocks across several areas reveals that they vary 
+by region. European and Asian bank stocks underperformed the historical and overall market 
+trends. South America and Oceania, meanwhile, outperformed both the historical market 
+average and the current market performance."
+"[Insert Table 5 about here] 
+However, no matter how the bank stocks performed before the war, these stocks were still 
+heavily hit when the war began. After subtracting market trends, CAARs between the first day 
+of the war and the ten following days are negative for all regions. Statistically, this bearish 
+pattern is significant only in Europe, Asia, North America, and South America, indicating that 
+bank stocks had been severely affected only in these four regions by the war and sanctions."
+"Observing the shift in CAAR when the time window is extended from 3 days to 5 days, 10 
+days, and 20 days after the war reveals the increasingly negative CAARs in Europe, Asia, and 
+North America. This result suggests that investor sentiment towards bank stocks in these three 
+areas worsened as the conflict continued. In contrast, according to the market model, South 
+America, Oceania, and Africa have insignificant CAAR(0,20), implying that the prolonged 
+conflict exerts no additional pressure on banking stock prices beyond the market movements 
+in these three locations."
+5. Potential channels transferring the war impact to bank stocks' returns.
+"In this section, we will explore the impact of two significant war consequences: (1) fluctuations 
+in energy prices due to sanctions aimed at Russia and (2) changes in currency values due to 
+disruptions in international trade and rising inflation. The price of energy has the potential to 
+alter banks' profit projections. First, increased energy prices will increase corporate expenses 
+"
+"19 
+ 
+and fuel inflation. Inflation due to the supply side will likely lower consumption and increase 
+corporate risk. These impacts will diminish the loan demand and increase the credit risk for 
+banks. When inflation rises and international trade is hindered, imports and exports will be 
+harmed, influencing the exchange rate. Exchange rate risk is one of the major concerns for 
+banks, particularly those with active international banking operations. Since exchange rates are 
+often difficult to predict, the market may be more sensitive to these rate fluctuations caused by 
+the aftermath of this protracted war. The link between oil price fluctuations and stock prices is 
+well documented in the literature (Basher & Sadorsky, 2006; Ftiti et al., 2016; Kilian and Park, 
+2009; Ready, 2018). Ready (2018) shows that the stock market reacts differently to oil price 
+shocks from the supply and demand sides. Accordingly, demand-side shocks are positively 
+correlated with market returns, while supply-side shocks exert opposing effects. Jones and Kaul 
+(1996) also emphasize that world stock markets react more strongly to oil price shocks after 
+the war. This corresponds to the change in real future cash flows and the updates in expected 
+return. The literature also suggests the connection between stock prices and exchange rate 
+shocks (Dornbusch and Fischer, 1980; Phylaktis and Ravazzolo, 2005). This association also 
+becomes stronger at times of high market uncertainty, such as during periods of crisis 
+(Phylaktis and Ravazzolo, 2005)."
+"We employ the front-month WTI oil price return to proxy for the change in energy prices and 
+the percentage change in exchange rates to reflect exchange rate risk. We use each country's 
+domestic currency for the U.S. dollar exchange rate. Accordingly, an increase in the exchange 
+rate implies an appreciation of the local currency relative to the U.S. dollar. For the U.S., we 
+use the U.S. Dollar Index to gauge the strength of the U.S. dollar. As a result, the percentage 
+change in the U.S. Dollar index will be used to replace the change in the exchange rate for the 
+case of the U.S. To assess the sensitivity of bank stocks to energy prices and exchange rates, 
+we regress bank stock returns on the oil return and percentage change in exchange rates. We 
+"
+"20 
+ 
+include a post-war dummy variable to examine the overall decrease of bank stocks after the 
+war and the interaction of this post-war dummy variable with oil return and the percentage 
+change in the exchange rate to analyze the update in investor expectations after the war. The 
+specific regression equation is as follows: 
+𝑟𝑟𝑖𝑖,𝑡𝑡= 𝛼𝛼+ 𝛿𝛿1. 𝑤𝑤𝑤𝑤𝑟𝑟𝑡𝑡+ 𝛿𝛿2. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟𝑡𝑡+ 𝛽𝛽1. 𝑀𝑀𝑀𝑀𝑡𝑡_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑡𝑡+ 𝛽𝛽2. 𝑀𝑀𝑀𝑀𝑡𝑡_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑡𝑡. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟𝑡𝑡
++ 𝛾𝛾1. 𝑂𝑂𝑂𝑂𝑂𝑂_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑛𝑛𝑡𝑡+ 𝛾𝛾2. 𝑂𝑂𝑂𝑂𝑂𝑂_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑛𝑛𝑡𝑡. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟𝑡𝑡+ 𝜃𝜃1. 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒_𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑡𝑡
++ 𝜃𝜃2. 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒_𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑡𝑡. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟𝑡𝑡+ 𝐹𝐹(𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑙𝑙𝑡𝑡) + 𝑢𝑢𝑡𝑡 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+where  𝑤𝑤𝑤𝑤𝑟𝑟𝑡𝑡 is the war event dummy taking the value of 1 on February 24; 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟𝑡𝑡 is the 
+dummy variable taking the value of 1 after February 24. 𝑀𝑀𝑀𝑀𝑡𝑡_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑡𝑡 is the return of the 
+benchmark dedicated for each market. 𝑂𝑂𝑂𝑂𝑂𝑂_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑛𝑛𝑡𝑡 and 𝑒𝑒𝑒𝑒𝑒𝑒𝑎𝑎𝑡𝑡𝑡𝑡_𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑡𝑡 are the return of the 
+front-month WTI oil futures and the percentage change in the exchange rate corresponding to 
+each market, respectively. In this function, we use a set of control variables. First, we control 
+for the country-fixed, year-fixed and day-of-week fixed effects. Second, we add the covid‒19 
+sensitivity of each market to filter out the impact of the covid‒19 pandemic on bank stocks. To 
+measure this variable, we employ the dynamic linear model to regress the market return on the 
+number of new covid-case reported for the previous day in each country. By this method, we 
+get each market's time-varying coefficient of new covid cases. This time-varying load help 
+capture better how the market responded to the covid situation at different times. We run the 
+regression for the period from January 2020 to April 2022."
+"Table 6 presents the regression results for the whole world and each region. For each area, we 
+report the results of three regression models. Model (3) contains all variables represented in 
+Equation (5). Model (1) substitutes the post-war dummy variable with the dummy for the 
+"
+"21 
+ 
+second trading day. Neither Model (1) nor Model (2) contain interaction variables. Model (1) 
+in Table 6 shows that the impact of the war event is comparable to the AARs reported in Table 
+2, with negative coefficients of the war dummy for all regions. The only region where this 
+effect was not statistically significant was Oceania."
+"Similar to Table 2's findings, Europe was the most affected region on the first day of the war."
+"Model (1) supports the results in Table 4 that Europe is the only region witnessing the 
+overreaction of bank stocks when controlling for market movement. In Europe, the coefficient 
+of the dummy variable for the second trading day is 0.733% (t-stat = 8.06). Looking at the 
+results in Models (2) and (3), overall bank stock returns worldwide were about 0.13% lower 
+after the war. Only Europe, Asia, and North America were the regions where the decline in 
+banking stock returns was statistically significant after the war. Asia experienced the greatest 
+fall of the three regions, 0.13% (t-stat = 3.70). Europe and North America suffered average 
+drops of approximately 0.1%. The post-war dummy is not statistically significant in South 
+America, Oceania, and Africa. This result implies that the war's outcome only changed the 
+average expectations of bank stock returns in Europe, Asia, and North America. Examining the 
+coefficient of the interaction variable between market returns and stock returns reveals that 
+bank stocks in Asia, North America, and Africa are less correlated with the market after the 
+war. Next, we will discuss the potential impacts of energy prices and exchange rates on bank 
+stocks after the war."
+"[Insert Table 6 about here] 
+5.1. Energy price 
+Model (3) in Table 6 shows that banking stocks worldwide generally react negatively to oil 
+return; the coefficient of oil return before the war is around ‒0.001 (t-stat = 3.68). However, 
+this negative response level is not uniform across all regions. Europe, Asia, North America, 
+"
+"22 
+ 
+and Oceania were regions that responded favorably to rising oil prices before the war. A 1% 
+increase in oil return corresponds to a bank stock increase of approximately 0.002% in Europe, 
+0.005% in Asia, 0.004% in North America, and 0.016% in Oceania. This reaction of bank 
+stocks is not neglectable because the oil price tends to swing much more than the stock prices."
+"In contrast, South America and Africa respond negatively to an increase in oil return. Europe, 
+Asia, North America, and Oceania are regions where developed countries and large developing 
+economies are concentrated. Therefore, the market's reaction might greatly influence the 
+economy's outlook. In this analysis, we use the sample from January 2020, the same time as 
+the pandemic's onset. In 2020, travel restrictions and lockdowns caused demand for energy to 
+plummet, leading to a sharp drop in oil prices. Since the distribution of the covid vaccine 
+started, these restrictions were also relaxed; businesses gradually returned to normal operations, 
+boosting oil demand and prices. Before the war, when the covid crisis still influenced investor 
+sentiment, rising oil prices indicated an economic recovery. This is beneficial for banks. Our 
+result is consistent with Ready (2018) that oil price change induced from the demand side 
+positively correlates with stock market performance."
+"However, since the war began, the increase in oil prices has not reflected the market's recovery 
+but rather the war and sanctions. High oil prices raise prices in most countries and drive 
+inflation. In the context of high inflation in most nations, a further rise in inflation will 
+exacerbate financial instability and directly impact banks' outlook. Except for Africa, which 
+has responded negatively to rising oil prices since before the war, other regions have 
+experienced a substantial shift in the reaction of bank stocks to oil return since the beginning 
+of the war. The coefficients of the interaction variable between the oil return and the post-war 
+dummy are all negative and statistically significant in Europe, Asia, North America, and 
+Oceania. Notably, this negative coefficient is several times more than the positive association 
+"
+"23 
+ 
+before the war. This result indicates that, since the day of the war, all positive association 
+between oil return and bank stock returns has been fully reversed. Furthermore, the substantial 
+correction in the reaction of bank stocks to oil return suggests that this war has made bank 
+stocks highly sensitive to swings in energy prices. This pattern is in line with the literature on 
+oil price supply shock negatively impacting the stock markets (Kilian & Park, 2009; Ready, 
+2018)."
+"5.2. Exchange rate 
+When examining the effect of exchange rate fluctuations on bank stocks, the results in Table 6 
+reveal different patterns across continents. Only Europe and Asia have statistically significant 
+correlations between stock returns and exchange rate changes among the regions reported."
+"There is no evidence supporting bank stocks' response to exchange rate changes before the war 
+in other areas. After the war, however, bank stocks had a different relationship with the 
+exchange rate, as shown by the regression results. The findings indicate that bank stocks 
+worldwide became more susceptible to fluctuations in exchange rates following the conflict."
+"The coefficient of the interaction variable at 0.485 (t-stat = 40.53) implies that a faster decrease 
+in the value of the domestic currency will reflect negatively on the bank stocks' performance."
+"This pattern is observed for most continents, with statistically significant adjustments in 
+Europe, Asia, South America, and Africa. This result also implies that, since the war, bank 
+stocks have become more sensitive to exchange rate changes. In other words, the war tends to 
+increase the relevance of exchange rate risk for the outlook banking sector. Our finding 
+highlights the importance of managing exchange rate risk in the banking system, adding to the 
+literature on foreign exchange rate impacts on bank stocks (Choi et al., 1992; Wetmore & Brick, 
+1994; Chamberlain et al., 1997; Martin & Mauer, 2003). As the literature has documented the 
+direct effect of exchange rate on expected future cash flows of banks via the change in 
+"
+"24 
+ 
+international assets and liabilities, international service fees, and off-balance sheet activities 
+(Martin & Meuer, 2003), and the indirect effects via the impacted cash flows of banks' 
+customers and fund providers (Chamberlain et al., 1997; Martin & Meuer, 2003), the exchange 
+rate is not only a story dedicated to banks engaging in international banking activities but also 
+for all other domestic banks. Our finding implies that no conner in the banking system might 
+be immune from exchange rate shocks caused by international adverse events."
+"6. Conclusion 
+Our research investigates the impact of the Russian and Ukrainian wars on global bank stocks."
+"Using data from 2,341 commercial banks in 91 countries, we show that bank stocks globally 
+fell by an average of 1.5% on the first day of the war. Europe is the most affected region, 
+experiencing a decline of around 4%. This result suggests the extreme sensitivity of the 
+European banking sector to the expected repercussions of the war. Additionally, our event 
+study reveals that the war significantly influenced the bank's shares, with the decline being 
+considerably more profound than the average stock market movement. Since banking is the 
+sector that ensures the financial system's stability, the reaction of bank stocks indicates the 
+market's expectation regarding the risk of bank stocks, consequently indicating the stability of 
+the entire financial market. Further, the war between Russia and Ukraine could also serve as a 
+stress test for the global banking system. According to our findings, Europe, Asia, and North 
+America are the most susceptible to shocks from an international adverse event."
+"The reaction pattern of bank stocks before, during, and after the war also revealed the behavior 
+and expectations of investors towards war-related developments. Before the war, we found that 
+bank stocks reacted aggressively only when the likelihood of war soared. This reflects the 
+psychological nature of investors against anticipated events. Before the war, investors tended 
+to delay their responses based on their expectations. As a result, investors reacted forcefully on 
+"
+"25 
+ 
+the day of the war to correct the price, as expected by the market. The response of investors 
+following the war also demonstrates the markets' rational adjustments to the observable 
+consequences of the war and related sanctions. From the behavioral finance perspective, our 
+research also shows that investors overreact to associated events in the most affected areas, 
+adding to the rational responses to the expected impacts of the war. This implies that adverse 
+events also trigger market participants' behavioral biases."
+"Our research has several implications for investors, portfolio managers and policymakers when 
+designing effective financial strategies by showing the close relationship between war, 
+geopolitical risk, the banking sector, the energy sector and the stability of the whole financial 
+system. First, Ukraine – Russia war has a significant implication for oil prices and exchange 
+rates during the uncertain period, especially in the long term. As discussed above, we find that 
+fluctuations in energy prices and exchange rates are two serious consequences of the war that 
+could significantly impact market expectations for bank stocks, a proxy for the perceived 
+soundness of the financial system. The findings reveal that since the beginning of the war, bank 
+stocks have been highly susceptible to oil supply shocks that worsen inflation or exchange rate 
+risks. This vulnerability could substantially impact the effectiveness of macroeconomic 
+policies designed to curb inflation and stabilize financial markets. Observing the market's 
+reaction to the war's consequences might be instructive for the financial system's risk 
+management. Second, this paper also highlights the effect of oil-dependent of European 
+countries on Russia during the uncertain time, addressing a need for less the EU's dependence 
+on imported fossil fuels and more actions for affordable, secure energy. Third, the Ukraine-
+Russia war and its related sanctions also point out the need to consider business cycle 
+implications of political disruptions and the possible damage to trade relationships between 
+countries in general and banks in particular."
+""
+"26 
+ 
+This study only considers investors' expectations of the banking system around the war event."
+"The reaction of bank stocks to the war could imply public confidence in the banking system, 
+which is an important factor in systemic risk management. Further research might continue to 
+investigate the direct impact of the war and its consequences on the profitability and risk of 
+banks using accounting data. We leave the question of how the sensitivity of the banking 
+system reflects the vulnerability of the entire financial market to international adverse events 
+for future studies."
+""
+"27 
+ 
+Reference 
+1. Abudy, M. (Meni), Mugerman, Y., & Shust, E. (2022). The Winner Takes It All: 
+Investor Sentiment and the Eurovision Song Contest. Journal of Banking & Finance, 
+137, 106432. https://doi.org/10.1016/j.jbankfin.2022.106432 
+2. Ardia, D., Bluteau, K., & Boudt, K. (2022). Media abnormal tone, earnings 
+announcements, and the stock market. Journal of Financial Markets, 61, 100683."
+"https://doi.org/10.1016/j.finmar.2021.100683 
+3. Agarwal, V., & Taffler, R. (2008). Comparing the performance of market-based and 
+accounting-based bankruptcy prediction models. Journal of Banking & Finance, 32(8), 
+1541–1551. https://doi.org/10.1016/j.jbankfin.2007.07.014 
+4. Ahmed, S., Hasan, M., & Kamal, M. (2022). Russia-Ukraine crisis: The effects on the 
+European 
+stock 
+market."
+"European 
+Financial 
+Management."
+"https://doi.org/10.1111/eufm.12386 
+5. Basher, S. A., & Sadorsky, P. (2006). Oil price risk and emerging stock markets. Global 
+Finance Journal, 17(2), 224–251. https://doi.org/10.1016/j.gfj.2006.04.001 
+6. Baur, D. G., & Smales, L. A. (2020). Hedging geopolitical risk with precious metals."
+"Journal of Banking & Finance, 117, 105823."
+"https://doi.org/10.1016/j.jbankfin.2020.105823 
+7. Batten, J. A., Choudhury, T., Kinateder, H., & Wagner, N. F. (2022). Volatility 
+impacts on the European banking sector: GFC and COVID-19. Annals of Operations 
+Research. https://doi.org/10.1007/s10479-022-04523-8 
+8. Beaver, W. H., McNichols, M. F., & Rhie, J.-W. (2005). Have Financial Statements 
+Become Less Informative? Evidence from the Ability of Financial Ratios to Predict 
+Bankruptcy."
+"Review 
+of 
+Accounting 
+Studies, 
+10(1), 
+93–122."
+"https://doi.org/10.1007/s11142-004-6341-9 
+9. Białkowski, J., Etebari, A., & Wisniewski, T. P. (2012). Fast profits: Investor sentiment 
+and stock returns during Ramadan. Journal of Banking & Finance, 36(3), 835–845."
+"https://doi.org/10.1016/j.jbankfin.2011.09.014 
+10. Binder, J. (1998). The Event Study Methodology Since 1969. Review of Quantitative 
+Finance and Accounting, 11(2), 111–137. https://doi.org/10.1023/A:1008295500105 
+11. Bondt, W. F. M. D., & Thaler, R. (1985a). Does the Stock Market Overreact? The 
+Journal of Finance, 40(3), 793–805. https://doi.org/10.2307/2327804 
+12. Bondt, W. F. M. D., & Thaler, R. (1985b). Does the Stock Market Overreact? The 
+Journal of Finance, 40(3), 793–805. https://doi.org/10.2307/2327804 
+13. Boubaker, S., Goodell, J. W., Pandey, D. K., & Kumari, V. (2022). Heterogeneous 
+impacts of wars on global equity markets: Evidence from the invasion of Ukraine."
+"Finance Research Letters, 48, 102934. https://doi.org/10.1016/j.frl.2022.102934 
+14. Boungou, W., & Yatié, A. (2022). The impact of the Ukraine–Russia war on world 
+stock 
+market 
+returns."
+"Economics 
+Letters, 
+215, 
+110516."
+"https://doi.org/10.1016/j.econlet.2022.110516 
+15. Brickman, P. (2018). Is It Real? In New Directions in Attribution Research (pp. 5–34)."
+"Hillsdale, NJ: Erlbaum. https://doi.org/10.4324/9780203780978-2 
+16. Brown, S. J., & Warner, J. B. (1985). Using daily stock returns: The case of event 
+studies. Journal of Financial Economics, 14(1), 3–31. https://doi.org/10.1016/0304-
+405X(85)90042-X 
+17. Buch, C. M., Buchholz, M., & Tonzer, L. (2015). Uncertainty, Bank Lending, and 
+Bank-Level 
+Heterogeneity."
+"IMF 
+Economic 
+Review, 
+63(4), 
+919–954."
+"https://doi.org/10.1057/imfer.2015.35 
+18. Campbell, J. Y., Lo, A. W., & MacKinlay, A. C. (2012). The Econometrics of Financial 
+"
+"28 
+ 
+Markets."
+"https://press.princeton.edu/books/hardcover/9780691043012/the-
+econometrics-of-financial-markets 
+19. Chamberlain, S., Howe, J. S., & Popper, H. (1997). The exchange rate exposure of U.S."
+"and Japanese banking institutions. Journal of Banking & Finance, 21(6), 871–892."
+"https://doi.org/10.1016/S0378-4266(97)00002-2 
+20. Choi, J. J., Elyasiani, E., & Kopecky, K. J. (1992). The sensitivity of bank stock returns 
+to market, interest, and exchange rate risks. Journal of Banking and Finance, 983–1004."
+"21. Choudhury, T., Kinateder, H., & Neupane, B. (2022). Gold, bonds, and epidemics: A 
+safe haven study. Finance Research Letters, 48, 102978."
+"https://doi.org/10.1016/j.frl.2022.102978 
+22. Dang, V. D., & Nguyen, H. C. (2022). Bank profitability under uncertainty. The 
+Quarterly 
+Review 
+of 
+Economics 
+and 
+Finance, 
+83, 
+119–134."
+"https://doi.org/10.1016/j.qref.2021.12.001 
+23. Danisman, G. O., Demir, E., & Ozili, P. (2021). Loan loss provisioning of US banks: 
+Economic policy uncertainty and discretionary behavior. International Review of 
+Economics & Finance, 71, 923–935. https://doi.org/10.1016/j.iref.2020.10.016 
+24. Dermine, J. (1985). Inflation, Taxes, and Banks’ Market Values. Journal of Business 
+Finance 
+& 
+Accounting, 
+12(1), 
+65–73."
+"https://doi.org/10.1111/j.1468-
+5957.1985.tb00079.x 
+25. Dornbusch, R., & Fischer, S. (1980). Exchange Rates and the Current Account. The 
+American Economic Review, 70(5), 960–971."
+"26. Döttling, R., Malaika, M., & Terrones, M. (2013). Held Back by Uncertainty: 
+Recoveries are slowed when businesses and consumers are unsure of the future."
+"Finance & Development, 50(001). https://doi.org/10.5089/9781475542684.022.A012 
+27. Doyle, J. R., & Chen, C. H. (2009). The wandering weekday effect in major stock 
+markets."
+"Journal 
+of 
+Banking 
+& 
+Finance, 
+33(8), 
+1388–1399."
+"https://doi.org/10.1016/j.jbankfin.2009.02.002 
+28. Duxbury, D., Gärling, T., Gamble, A., & Klass, V. (2020). How emotions influence 
+behavior in financial markets: A conceptual analysis and emotion-based account of 
+buy-sell preferences. The European Journal of Finance, 26(14), 1417–1438."
+"https://doi.org/10.1080/1351847X.2020.1742758 
+29. Edmans, A., García, D., & Norli, Ø. (2007). Sports Sentiment and Stock Returns. The 
+Journal 
+of 
+Finance, 
+62(4), 
+1967–1998."
+"https://doi.org/10.1111/j.1540-
+6261.2007.01262.x 
+30. Ehrmann, M., & Fratzscher, M. (2004). Taking Stock: Monetary Policy Transmission 
+to Equity Markets. Journal of Money, Credit and Banking, 36(4), 719–737."
+"31. Engle, R. F., & Campos-Martins, S. (2023). What are the events that shake our world? 
+Measuring and hedging global COVOL. Journal of Financial Economics, 147(1), 
+221–242. https://doi.org/10.1016/j.jfineco.2022.09.009 
+32. Fama, E. F., Fisher, L., Jensen, M. C., & Roll, R. (1969). The Adjustment of Stock 
+Prices to New Information. International Economic Review, 10(1), 1–21."
+"https://doi.org/10.2307/2525569 
+33. Fiordelisi, F., & Galloppo, G. (2018). Stock market reaction to policy interventions."
+"The European Journal of Finance, 24(18), 1817–1834."
+"https://doi.org/10.1080/1351847X.2018.1450278 
+34. Tinoco, M. H., & Wilson, N. (2013). Financial distress and bankruptcy prediction 
+among listed companies using accounting, market, and macroeconomic variables."
+"International 
+review 
+of 
+financial 
+analysis, 
+30, 
+394‒419."
+"https://doi.org/10.1016/j.irfa.2013.02.013 
+35. French, K. R. (1980). Stock returns and the weekend effect. Journal of Financial 
+"
+"29 
+ 
+Economics, 8(1), 55–69. https://doi.org/10.1016/0304-405X(80)90021-5 
+36. Ftiti, Z., Guesmi, K., Teulon, F., & Chouachi, S. (2016). Relationship Between Crude 
+Oil Prices And Economic Growth In Selected OPEC Countries. Journal of Applied 
+Business Research (JABR), 32(1), 11–22. https://doi.org/10.19030/jabr.v32i1.9483 
+37. Gorton, G. (1985). Bank suspension of convertibility. Journal of Monetary Economics, 
+15(2), 177–193. https://doi.org/10.1016/0304-3932(85)90063-7 
+38. Hartzmark, S. M. (2016). Economic Uncertainty and Interest Rates. The Review of 
+Asset Pricing Studies, 6(2), 179–220. https://doi.org/10.1093/rapstu/raw004  
+39. Hassan, M. K., Djajadikerta, H. G., Choudhury, T., & Kamran, M. (2022a). Safe 
+havens in Islamic financial markets: COVID-19 versus GFC. Global Finance Journal, 
+54, 100643. https://doi.org/10.1016/j.gfj.2021.100643 
+40. Hassan, M. K., Kamran, M., Djajadikerta, H. G., & Choudhury, T. (2022b). Search 
+for safe havens and resilience to global financial volatility: Response of GCC equity 
+indexes to GFC and Covid-19. Pacific-Basin Finance Journal, 73, 101768."
+"https://doi.org/10.1016/j.pacfin.2022.101768 
+41. Hillegeist, S. A., Keating, E. K., Cram, D. P., & Lundstedt, K. G. (2004). Assessing the 
+Probability 
+of 
+Bankruptcy."
+"Review 
+of 
+Accounting 
+Studies, 
+9(1), 
+5–34."
+"https://doi.org/10.1023/B:RAST.0000013627.90884.b7 
+42. Hu, S., & Gong, D. (2019). Economic policy uncertainty, prudential regulation, and 
+bank 
+lending."
+"Finance 
+Research 
+Letters, 
+29, 
+373–378."
+"https://doi.org/10.1016/j.frl.2018.09.004 
+43. Iyer, R., & Peydró, J.-L. (2011). Interbank Contagion at Work: Evidence from a Natural 
+Experiment."
+"The 
+Review 
+of 
+Financial 
+Studies, 
+24(4), 
+1337–1377."
+"https://doi.org/10.1093/rfs/hhp105 
+44. Jones, C. M., & Kaul, G. (1996). Oil and the Stock Markets. The Journal of Finance, 
+51(2), 463–491. https://doi.org/10.1111/j.1540-6261.1996.tb02691.x 
+45. Kadiyala, P., & Rau, P. R. (2004). Investor Reaction to Corporate Event 
+Announcements: Underreaction or Overreaction? The Journal of Business, 77(2), 357–
+386. https://doi.org/10.1086/381273 
+46. Kamara, A. (1997). New Evidence on the Monday Seasonal in Stock Returns. The 
+Journal of Business, 70(1), 63–84."
+"47. Karim, S., Naeem, M. A., Mirza, N., & Paule-Vianez, J. (2022). Quantifying the 
+hedge and safe-haven properties of bond markets for cryptocurrency indices. The 
+Journal of Risk Finance, 23(2), 191–205. https://doi.org/10.1108/JRF-09-2021-0158 
+48. Kaufman, G. G. (1994). Bank contagion: A review of the theory and evidence. Journal 
+of Financial Services Research, 8(2), 123–150. https://doi.org/10.1007/BF01053812 
+49. Ke, M.-C., Chiang, Y.-C., & Liao, T. L. (2007). Day of the week effect in the Taiwan 
+foreign exchange market. Journal of Banking & Finance, 31(9), 2847–2865."
+"https://doi.org/10.1016/j.jbankfin.2007.03.005 
+50. Kessel, R. A., & Alchian, A. A. (1960). The Meaning and Validity of the Inflation-
+Induced Lag of Wages Behind Prices. The American Economic Review, 50(1), 43–66."
+"51. Kilian, L., & Park, C. (2009). The Impact of Oil Price Shocks on the U.s. Stock 
+Market*."
+"International 
+Economic 
+Review, 
+50(4), 
+1267–1287."
+"https://doi.org/10.1111/j.1468-2354.2009.00568.x 
+52. Kinateder, H., Campbell, R., & Choudhury, T. (2021). Safe haven in GFC versus 
+COVID-19: 100 turbulent days in the financial markets. Finance Research Letters, 
+43, 101951. https://doi.org/10.1016/j.frl.2021.101951 
+53. Lajeri, F., & Dermine, J. (1999). Unexpected inflation and bank stock returns: The case 
+of France 1977–1991. Journal of Banking & Finance, 23(6), 939–953."
+"https://doi.org/10.1016/S0378-4266(98)00121-6 
+"
+"30 
+ 
+54. Li, Y., M. Alshater, M., & Yoon, S.-M. (2022). The Impact of Russia-Ukraine Conflict 
+on 
+Global 
+Financial 
+Markets 
+(SSRN 
+Scholarly 
+Paper 
+No."
+4108325).
+"https://doi.org/10.2139/ssrn.4108325 
+55. Liang, S. X. (2018). The systematic pricing of market sentiment shock. The European 
+Journal of Finance, 24(18), 1835–1860."
+"https://doi.org/10.1080/1351847X.2018.1491875 
+56. Lou, D., & Polk, C. (2022). Comomentum: Inferring Arbitrage Activity from Return 
+Correlations. The Review of Financial Studies, 35(7), 3272–3302."
+"https://doi.org/10.1093/rfs/hhab117 
+57. Ma, Y., Zhang, Y., & Ji, Q. (2021). Do oil shocks affect Chinese bank risk? Energy 
+Economics, 96, 105166. https://doi.org/10.1016/j.eneco.2021.105166 
+58. Malkiel, B. G. (1962). Expectations, Bond Prices, and the Term Structure of Interest 
+Rates."
+"The 
+Quarterly 
+Journal 
+of 
+Economics, 
+76(2), 
+197–218."
+"https://doi.org/10.2307/1880816 
+59. Martin, A. D., & Mauer, L. J. (2003). Exchange rate exposures of US banks: A cash 
+flow-based methodology. Journal of Banking & Finance, 27(5), 851–865."
+"https://doi.org/10.1016/S0378-4266(02)00253-4 
+60. Mishkin, F. S. (1999). Global Financial Instability: Framework, Events, Issues. Journal 
+of Economic Perspectives, 13(4), 3–20. https://doi.org/10.1257/jep.13.4.3 
+61. Phylaktis, K., & Ravazzolo, F. (2005). Stock prices and exchange rate dynamics."
+"Journal 
+of 
+International 
+Money 
+and 
+Finance, 
+24(7), 
+1031–1053."
+"https://doi.org/10.1016/j.jimonfin.2005.08.001 
+62. Poghosyan, T., & Hesse, H. (2009). Oil prices and bank profitability: Evidence from 
+major oil-exporting countries in the Middle East and North Africa. IMF Working 
+Papers. http://site.ebrary.com/id/10369205 
+63. Policy uncertainty and loan loss provisions in the banking industry | SpringerLink."
+"(n.d.). Retrieved July 11, 2022, from https://link.springer.com/article/10.1007/s11142-
+019-09530-y 
+64. Rajan, R. G. (2006). Has Finance Made the World Riskier? European Financial 
+Management, 12(4), 499–533. https://doi.org/10.1111/j.1468-036X.2006.00330.x 
+65. Ready, R. C. (2018). Oil Prices and the Stock Market*. Review of Finance, 22(1), 155–
+176. https://doi.org/10.1093/rof/rfw071 
+66. Rees, B. (1990). Financial Analysis. Prentice Hall."
+"67. Seyhun, H. N. (1990). Overreaction or Fundamentals: Some Lessons from Insiders’ 
+Response to the Market Crash of 1987. The Journal of Finance, 45(5), 1363–1388."
+"https://doi.org/10.1111/j.1540-6261.1990.tb03719.x 
+68. Sharif, A., Aloui, C., & Yarovaya, L. (2020). COVID-19 pandemic, oil prices, stock 
+market, geopolitical risk and policy uncertainty nexus in the US economy: Fresh 
+evidence from the wavelet-based approach. International Review of Financial 
+Analysis, 70, 101496. https://doi.org/10.1016/j.irfa.2020.101496 
+69. Slovin, M. B., Sushka, M. E., & Polonchek, J. A. (1999). An analysis of contagion and 
+competitive effects at commercial banks. Journal of Financial Economics, 54(2), 197–
+225. https://doi.org/10.1016/S0304-405X(99)00036-7 
+70. Tang, D. Y., & Yan, H. (2010). Market conditions, default risk, and credit spreads."
+"Journal 
+of 
+Banking 
+& 
+Finance, 
+34(4), 
+743–753."
+"https://doi.org/10.1016/j.jbankfin.2009.05.018 
+71. Thorbecke, W. (1997). On Stock Market Returns and Monetary Policy. The Journal of 
+Finance, 52(2), 635–654. https://doi.org/10.1111/j.1540-6261.1997.tb04816.x 
+72. Tobin, J. (1978). Monetary Policies and the Economy: The Transmission Mechanism."
+"Southern Economic Journal, 44(3), 421–431. https://doi.org/10.2307/1057201 
+"
+"31 
+ 
+73. Tosun, O. K., & Eshraghi, A. (2022). Corporate decisions in times of war: Evidence 
+from the Russia-Ukraine conflict. Finance Research Letters, 48, 102920."
+"https://doi.org/10.1016/j.frl.2022.102920 
+74. Umar, M., Mirza, N., Hasnaoui, J. A., & Rochoń, M. P. (2022a). The nexus of carbon 
+emissions, oil price volatility, and human capital efficiency. Resources Policy, 78, 
+102876. https://doi.org/10.1016/j.resourpol.2022.102876 
+75. Umar, Z., Polat, O., Choi, S.-Y., & Teplova, T. (2022b). The impact of the Russia-
+Ukraine conflict on the connectedness of financial markets. Finance Research Letters, 
+48, 102976. https://doi.org/10.1016/j.frl.2022.102976 
+76. Valencia, F. (2017). Aggregate uncertainty and the supply of credit. Journal of Banking 
+& Finance, 81, 150–165. https://doi.org/10.1016/j.jbankfin.2017.05.001 
+77. Wetmore, J. L., & Brick, J. R. (1994). Commercial Bank Risk: Market, Interest rate, 
+and foreign exchange. Journal of Financial Research, 17(4), 585–596."
+"https://doi.org/10.1111/j.1475-6803.1994.tb00167.x 
+78. Wu, J., Yao, Y., Chen, M., & Jeon, B. N. (2020). Economic uncertainty and bank risk: 
+Evidence from emerging economies. Journal of International Financial Markets, 
+Institutions, and Money, 68, 101242. https://doi.org/10.1016/j.intfin.2020.101242 
+79. Yousaf, I., Patel, R., & Yarovaya, L., The Reaction of G20+ Stock Markets to the 
+Russia-Ukraine Conflict ‘Black-Swan’ Event: Evidence From Event Study Approach 
+(March 29, 2022). Available at SSRN: https://ssrn.com/abstract=4069555  
+ 
+ 
+"
+"32 
+ 
+Figures 
+ 
+Figure 1: Bank stock returns movement around the world since 2020 
+This graph depicts bank stock returns´movements from January 2020 to April 2022 for six continents and the 
+whole world. The blue line represents banks' average daily returns. The red line presents the movement of the 
+long-term trend in the graph. We employ the Hodrick–Prescott filter to separate the long-term trend of stock 
+returns from the short-term noise."
+""
+"33 
+ 
+ 
+Figure 2: Oil returns and Average abnormal returns of bank stocks around the war."
+"This figure illustrates the association between the movement of crude oil return and the abnormal returns of bank 
+stocks in six regions from 10 days before the war event to 10 days following. The graph above reflects the 
+movement of oil return calculated for the WTI front month crude oil contract. The graph below shows the 
+movement of average abnormal returns in bank stocks for six continents. The abnormal return in this graph is 
+calculated from the market model."
+""
+"34 
+ 
+Tables 
+ 
+Table 1: List of sampled markets, their locations, and the number of surveyed banks."
+"This table lists all markets included in this study's sample. For each market, we provide information about the 
+respective continent, the corresponding geographical region in each continent, and the number of banks present 
+in the sample. This study uses data from all commercial banks available on Refinitiv Datastream."
+"Market name 
+Continent 
+Region 
+No of 
+banks 
+Market name 
+Continent 
+Region 
+No of 
+banks 
+Kenya 
+Africa 
+Eastern Africa 
+2 
+Bulgaria 
+Europe 
+Eastern Europe 
+1 
+Mauritius 
+Africa 
+Eastern Africa 
+2 
+Czech Republic 
+Europe 
+Eastern Europe 
+3 
+Malawi 
+Africa 
+Eastern Africa 
+4 
+Hungary 
+Europe 
+Eastern Europe 
+2 
+Rwanda 
+Africa 
+Eastern Africa 
+1 
+Poland 
+Europe 
+Eastern Europe 
+14 
+Tanzania 
+Africa 
+Eastern Africa 
+3 
+Romania 
+Europe 
+Eastern Europe 
+3 
+Uganda 
+Africa 
+Eastern Africa 
+1 
+Slovakia 
+Europe 
+Eastern Europe 
+4 
+Zambia 
+Africa 
+Eastern Africa 
+2 
+Denmark 
+Europe 
+Northern Europe 
+22 
+Egypt 
+Africa 
+Northern Africa 
+4 
+Estonia 
+Europe 
+Northern Europe 
+1 
+Morocco 
+Africa 
+Northern Africa 
+3 
+Finland 
+Europe 
+Northern Europe 
+12 
+Tunisia 
+Africa 
+Northern Africa 
+3 
+United Kingdom 
+Europe 
+Northern Europe 
+19 
+Botswana 
+Africa 
+Southern Africa 
+2 
+Ireland 
+Europe 
+Northern Europe 
+2 
+Namibia 
+Africa 
+Southern Africa 
+2 
+Iceland 
+Europe 
+Northern Europe 
+5 
+South Africa 
+Africa 
+Southern Africa 
+8 
+Lithuania 
+Europe 
+Northern Europe 
+1 
+Benin 
+Africa 
+Western Africa 
+1 
+Norway 
+Europe 
+Northern Europe 
+35 
+Ghana 
+Africa 
+Western Africa 
+4 
+Sweden 
+Europe 
+Northern Europe 
+7 
+Nigeria 
+Africa 
+Western Africa 
+8 
+Bosnia and Herzegovina 
+Europe 
+Southern Europe 
+8 
+Togo 
+Africa 
+Western Africa 
+1 
+Spain 
+Europe 
+Southern Europe 
+24 
+Kazakhstan 
+Asia 
+Central Asia 
+11 
+Greece 
+Europe 
+Southern Europe 
+11 
+China 
+Asia 
+Eastern Asia 
+23 
+Croatia 
+Europe 
+Southern Europe 
+9 
+Hong Kong 
+Asia 
+Eastern Asia 
+6 
+Italy 
+Europe 
+Southern Europe 
+50 
+Japan 
+Asia 
+Eastern Asia 
+53 
+Montenegro 
+Europe 
+Southern Europe 
+5 
+South Korea 
+Asia 
+Eastern Asia 
+22 
+Macedonia 
+Europe 
+Southern Europe 
+4 
+Taiwan 
+Asia 
+Eastern Asia 
+14 
+Malta 
+Europe 
+Southern Europe 
+2 
+Indonesia 
+Asia 
+S.E. Asia 
+33 
+Portugal 
+Europe 
+Southern Europe 
+10 
+Malaysia 
+Asia 
+S.E. Asia 
+9 
+Serbia 
+Europe 
+Southern Europe 
+10 
+Philippines 
+Asia 
+S.E. Asia 
+12 
+Slovenia 
+Europe 
+Southern Europe 
+2 
+Singapore 
+Asia 
+S.E. Asia 
+7 
+Austria 
+Europe 
+Western Europe 
+13 
+Thailand 
+Asia 
+S.E. Asia 
+23 
+Belgium 
+Europe 
+Western Europe 
+5 
+Viet Nam 
+Asia 
+S.E. Asia 
+25 
+Switzerland 
+Europe 
+Western Europe 
+30 
+Bangladesh 
+Asia 
+Southern Asia 
+8 
+Germany 
+Europe 
+Western Europe 
+27 
+India 
+Asia 
+Southern Asia 
+32 
+France 
+Europe 
+Western Europe 
+21 
+Sri Lanka 
+Asia 
+Southern Asia 
+4 
+Luxembourg 
+Europe 
+Western Europe 
+2 
+Pakistan 
+Asia 
+Southern Asia 
+8 
+Netherlands 
+Europe 
+Western Europe 
+5 
+United Arab Emirates 
+Asia 
+Western Asia 
+8 
+Jamaica 
+N. America 
+Caribbean 
+1 
+Bahrain 
+Asia 
+Western Asia 
+4 
+Mexico 
+N. America 
+Central America 
+17 
+Cyprus 
+Asia 
+Western Asia 
+1 
+Canada 
+N. America 
+Northern America 
+9 
+Israel 
+Asia 
+Western Asia 
+4 
+United States 
+N. America 
+Northern America 
+1436 
+Iraq 
+Asia 
+Western Asia 
+11 
+Australia 
+Oceania 
+Australia 
+10 
+Jordan 
+Asia 
+Western Asia 
+2 
+Argentina 
+S. America 
+South America 
+9 
+Kuwait 
+Asia 
+Western Asia 
+4 
+Brazil 
+S. America 
+South America 
+26 
+Lebanon 
+Asia 
+Western Asia 
+1 
+Chile 
+S. America 
+South America 
+13 
+Oman 
+Asia 
+Western Asia 
+3 
+Colombia 
+S. America 
+South America 
+5 
+Qatar 
+Asia 
+Western Asia 
+1 
+Ecuador 
+S. America 
+South America 
+3 
+Saudi Arabia 
+Asia 
+Western Asia 
+6 
+Peru 
+S. America 
+South America 
+7 
+Turkey 
+Asia 
+Western Asia 
+17 
+Venezuela 
+S. America 
+South America 
+8 
+ 
+"
+"35 
+ 
+Table 2: Average abnormal return of bank stocks worldwide and for each continent on the war event day."
+"This table reports the average abnormal returns of bank stocks on the first day of the war. We measure the abnormal returns in two approaches. Panel A shows 
+abnormal returns from the market model, while Panel B displays the abnormal returns from the net-of-market return approach. For the whole world and each region, 
+we test whether the corresponding average abnormal return is significant from 0. *, **, and *** indicate the significance level as 10%, 5%, and 1%, respectively."
+"This analysis covers six continents: Africa, Asia, Europe, North America, Oceania, South America, and the whole world."
+"The expected returns from market model approach is calculated by regressing each actual stock return series on the corresponding market return. To prevent the 
+confounding effect of the covid‒19 pandemic fear and vaccine distribution event at the end of 2020, we restrict our sample to start from March 2021. Specifically, 
+the market model is estimated from 230 days to 11 days before the war. Based on the estimated result, the abnormal return of each stock is measured as follows: 
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(1) = 𝑅𝑅𝑖𝑖.𝑡𝑡−(𝛼𝛼
+ො𝑖𝑖+ 𝛽𝛽
+̂𝑖𝑖. 𝑅𝑅𝑚𝑚,𝑡𝑡), where 𝑅𝑅𝑖𝑖.𝑡𝑡 is the actual return of stock i and 𝑅𝑅𝑚𝑚,𝑡𝑡 is the corresponding market return on the day t. 𝛼𝛼
+ො𝑖𝑖 and 𝛽𝛽
+̂𝑖𝑖 are the coefficients 
+estimated from the market model."
+"The market model measures the abnormal returns as the difference between actual return against the average historical market return (Brown & Warner, 1985). To 
+account for the potential weekday effect, we measure the abnormal return of a stock as the difference between the actual stock return and the average corresponding 
+historical market return on the same weekday. Specifically, we calculate the following specification: 
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(2) = 𝑅𝑅𝑖𝑖.𝑡𝑡−𝑅𝑅
+ത𝑚𝑚, same weekday between T‒11 and T‒230."
+"Panel A: Abnormal return from the market model 
+  
+  
+  
+  
+  
+  
+World 
+Africa 
+Asia 
+Europe 
+North America 
+Oceania 
+South America 
+AAR 
+‒1.036*** 
+‒0.814** 
+‒1.033*** 
+‒2.173*** 
+‒0.759*** 
+‒0.775*** 
+‒0.901*** 
+t-stat 
+‒8.851 
+‒2.120 
+‒3.143 
+‒13.779 
+‒4.708 
+‒4.352 
+‒4.242 
+Panel B: Abnormal return as net of average market return 
+  
+  
+  
+  
+  
+World 
+Africa 
+Asia 
+Europe 
+North America 
+Oceania 
+South America 
+AAR 
+‒1.407*** 
+‒1.341*** 
+‒2.581*** 
+‒4.146*** 
+‒0.385*** 
+‒3.259*** 
+‒2.000*** 
+t-stat 
+‒17.626 
+‒3.130 
+‒7.358 
+‒17.299 
+‒7.640 
+‒7.575 
+‒7.883 
+ 
+"
+"36 
+ 
+Table 3: Proportion of banks with negative abnormal returns on the war event day."
+"This table reports the percentage of banks with negative abnormal returns on the first day of the war in five continents 
+(Europe, Asia, North America, South America, Oceania, Africa), and the whole world. For each region, we calculate 
+the ratio using the abnormal returns from two approaches: using the market model (AR1) and using the net-of-market 
+return approach (AR2) 
+The expected returns from market model approach is calculated by regressing each actual stock return series on the 
+corresponding market return. To prevent the confounding effect of the covid‒19 pandemic fear and vaccine 
+distribution event at the end of 2020, we restrict our sample to start from March 2021. Specifically, the market model 
+is estimated from 230 days to 11 days before the war. Based on the estimated result, the abnormal return of each stock 
+is measured as follows: 𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(1) = 𝑅𝑅𝑖𝑖.𝑡𝑡−(𝛼𝛼
+ො𝑖𝑖+ 𝛽𝛽
+̂𝑖𝑖. 𝑅𝑅𝑚𝑚,𝑡𝑡), where 𝑅𝑅𝑖𝑖.𝑡𝑡 is the actual return of stock i and 𝑅𝑅𝑚𝑚,𝑡𝑡 is the 
+corresponding market return on the day t. 𝛼𝛼
+ො𝑖𝑖 and 𝛽𝛽
+̂𝑖𝑖 are the coefficients estimated from the market model."
+"The market model measures the abnormal returns as the difference between actual return against the average historical 
+market return (Brown & Warner, 1985). To account for the potential weekday effect, we measure the abnormal return 
+of a stock as the difference between the actual stock return and the average corresponding historical market return on 
+the same weekday. Specifically, we calculate the following specification:  
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(2) = 𝑅𝑅𝑖𝑖.𝑡𝑡−𝑅𝑅
+ത𝑚𝑚, same weekday between T‒11 and T‒230."
+"AR1 
+AR2 
+Europe 
+91.58% 
+98.91% 
+Eastern Europe 
+92.59% 
+100.00% 
+Northern Europe 
+90.29% 
+97.09% 
+Southern Europe 
+90.37% 
+99.26% 
+Western Europe 
+94.17% 
+100.00% 
+Asia 
+57.74% 
+86.01% 
+Eastern Asia 
+56.90% 
+81.03% 
+Southern Asia 
+61.54% 
+86.54% 
+Western Asia 
+72.55% 
+92.16% 
+Central Asia 
+90.00% 
+100.00% 
+South-eastern Asia 
+46.73% 
+86.92% 
+North America 
+25.54% 
+96.56% 
+Northern America 
+25.02% 
+96.87% 
+Central America 
+64.71% 
+70.59% 
+Caribbean 
+100.00% 
+100.00% 
+South America 
+60.32% 
+85.71% 
+Oceania 
+90.00% 
+100.00% 
+Africa 
+57.45% 
+72.34% 
+Eastern Africa 
+60.00% 
+60.00% 
+Northern Africa 
+40.00% 
+70.00% 
+Southern Africa 
+75.00% 
+83.33% 
+Western Africa 
+50.00% 
+80.00% 
+Total World 
+43.09% 
+94.58% 
+ 
+"
+"37 
+ 
+Table 4: Average abnormal return of bank stocks around the war event."
+"This table reports the daily average abnormal returns of the whole world and six continents (Europe, Asia, North America, South America, Oceania, Africa) from 
+10 days before to 10 days after the day of the war event. We calculate the abnormal returns using the market model (AAR1) and the net-of-market approach 
+(AAR2). For each method of calculating abnormal returns and each day, we test whether the average abnormal return is significantly different from 0 and report 
+the corresponding t-statistic to the right of the average abnormal return numbers."
+"The expected returns from market model approach is calculated by regressing each actual stock return series on the corresponding market return. To prevent the 
+confounding effect of the covid‒19 pandemic fear and vaccine distribution event at the end of 2020, we restrict our sample to start from March 2021. Specifically, 
+the market model is estimated from 230 days to 11 days before the war. Based on the estimated result, the abnormal return of each stock is measured as follows: 
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(1) = 𝑅𝑅𝑖𝑖.𝑡𝑡−(𝛼𝛼
+ො𝑖𝑖+ 𝛽𝛽
+̂𝑖𝑖. 𝑅𝑅𝑚𝑚,𝑡𝑡), where 𝑅𝑅𝑖𝑖.𝑡𝑡 is the actual return of stock i and 𝑅𝑅𝑚𝑚,𝑡𝑡 is the corresponding market return on the day t. 𝛼𝛼
+ො𝑖𝑖 and 𝛽𝛽
+̂𝑖𝑖 are the coefficients 
+estimated from the market model."
+"The market model measures the abnormal returns as the difference between actual return against the average historical market return (Brown & Warner, 1985). To 
+account for the potential weekday effect, we measure the abnormal return of a stock as the difference between the actual stock return and the average corresponding 
+historical market return on the same weekday. Specifically, we calculate the following specification:  
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(2) = 𝑅𝑅𝑖𝑖.𝑡𝑡−𝑅𝑅
+ത𝑚𝑚, same weekday between T‒11 and T‒230."
+"World 
+Europe 
+Asia 
+Date 
+Day 
+AAR1 
+t-stat 
+AAR2 
+t-stat 
+AAR1 
+t-stat 
+AAR2 
+t-stat 
+AAR1 
+t-stat 
+AAR2 
+t-stat 
+10‒Feb 
+‒10 
+0.197 
+4.018 
+0.040 
+1.118 
+0.313 
+5.532 
+0.262 
+4.290 
+0.064 
+0.505 
+0.108 
+0.848 
+11‒Feb 
+‒9 
+0.170 
+2.656 
+‒0.064 
+‒1.190 
+‒0.075 
+‒1.099 
+‒0.238 
+‒3.553 
+0.167 
+1.766 
+0.029 
+0.294 
+14‒Feb 
+‒8 
+‒0.292 
+‒6.325 
+‒0.578 
+‒17.809 
+‒0.705 
+‒10.364 
+‒1.516 
+‒16.385 
+‒0.328 
+‒2.529 
+‒1.011 
+‒6.592 
+15‒Feb 
+‒7 
+‒0.145 
+‒1.405 
+0.338 
+10.738 
+0.138 
+2.012 
+0.761 
+9.753 
+‒0.596 
+‒6.082 
+0.028 
+0.252 
+16‒Feb 
+‒6 
+‒0.097 
+‒1.571 
+‒0.004 
+‒0.126 
+‒0.165 
+‒2.062 
+‒0.226 
+‒2.821 
+‒0.027 
+‒0.133 
+0.311 
+1.584 
+17‒Feb 
+‒5 
+0.054 
+1.161 
+‒0.226 
+‒8.384 
+‒0.016 
+‒0.242 
+‒0.443 
+‒5.806 
+‒0.023 
+‒0.221 
+0.029 
+0.275 
+18‒Feb 
+‒4 
+0.009 
+0.205 
+‒0.057 
+‒1.783 
+0.009 
+0.128 
+‒0.161 
+‒2.418 
+‒0.358 
+‒2.352 
+‒0.201 
+‒1.434 
+21‒Feb 
+‒3 
+‒0.035 
+‒0.481 
+‒0.297 
+‒3.659 
+‒0.002 
+‒0.038 
+‒0.517 
+‒6.502 
+‒0.037 
+‒0.233 
+‒0.110 
+‒0.637 
+22‒Feb 
+‒2 
+‒0.126 
+‒3.216 
+‒0.243 
+‒8.063 
+‒0.135 
+‒2.130 
+‒0.138 
+‒2.092 
+‒0.501 
+‒3.281 
+‒0.981 
+‒6.343 
+23‒Feb 
+‒1 
+0.048 
+1.014 
+‒0.213 
+‒5.957 
+‒0.077 
+‒1.274 
+‒0.482 
+‒7.578 
+‒0.022 
+‒0.105 
+0.200 
+0.867 
+24‒Feb 
+0 
+‒1.036 
+‒8.851 
+‒1.407 
+‒17.626 
+‒2.173 
+‒13.779 
+‒4.146 
+‒17.299 
+‒1.033 
+‒3.143 
+‒2.581 
+‒7.358 
+25‒Feb 
+1 
+0.171 
+1.205 
+0.968 
+12.237 
+1.128 
+4.121 
+2.959 
+9.411 
+‒0.135 
+‒0.672 
+0.815 
+3.979 
+28‒Feb 
+2 
+‒0.190 
+‒2.313 
+‒0.240 
+‒3.395 
+‒0.392 
+‒3.917 
+‒0.691 
+‒5.860 
+‒0.259 
+‒1.240 
+‒0.190 
+‒0.878 
+1‒Mar 
+3 
+‒0.397 
+‒6.676 
+‒0.685 
+‒11.642 
+‒0.876 
+‒5.477 
+‒2.050 
+‒10.725 
+‒0.018 
+‒0.088 
+0.332 
+1.564 
+"
+"38 
+ 
+2‒Mar 
+4 
+‒0.349 
+‒3.044 
+‒0.129 
+‒3.116 
+‒0.978 
+‒10.835 
+‒0.975 
+‒10.453 
+‒0.550 
+‒5.293 
+‒0.995 
+‒8.605 
+3‒Mar 
+5 
+0.181 
+3.936 
+0.094 
+2.947 
+0.519 
+8.017 
+‒0.260 
+‒3.555 
+0.199 
+2.399 
+0.378 
+4.142 
+4‒Mar 
+6 
+‒0.408 
+‒8.616 
+‒0.800 
+‒17.112 
+‒0.699 
+‒7.263 
+‒2.271 
+‒13.910 
+‒0.531 
+‒3.335 
+‒0.879 
+‒5.645 
+7‒Mar 
+7 
+‒0.233 
+‒3.078 
+‒0.916 
+‒20.736 
+‒1.016 
+‒8.274 
+‒1.735 
+‒12.652 
+‒0.576 
+‒4.774 
+‒1.629 
+‒11.767 
+8‒Mar 
+8 
+‒0.015 
+‒0.338 
+‒0.075 
+‒1.953 
+0.268 
+2.980 
+0.492 
+4.801 
+‒0.468 
+‒2.650 
+‒0.988 
+‒4.736 
+9‒Mar 
+9 
+0.004 
+0.031 
+0.778 
+15.658 
+1.073 
+10.532 
+2.997 
+16.117 
+0.016 
+0.124 
+0.483 
+3.540 
+10‒Mar 
+10 
+‒0.044 
+‒0.687 
+‒0.071 
+‒1.317 
+0.229 
+3.397 
+‒0.556 
+‒6.818 
+‒0.048 
+‒0.368 
+0.515 
+3.585 
+ 
+"
+"39 
+ 
+Table 4 (continued) 
+ 
+  
+North America 
+South America 
+Date 
+Day 
+AAR1 
+t-stat 
+AAR2 
+t-stat 
+AAR1 
+t-stat 
+AAR2 
+t-stat 
+10‒Feb 
+‒10 
+0.160 
+2.357 
+‒0.097 
+‒2.370 
+0.886 
+3.416 
+1.045 
+3.691 
+11‒Feb 
+‒9 
+0.253 
+2.703 
+‒0.035 
+‒0.452 
+‒0.033 
+‒0.159 
+0.154 
+0.685 
+14‒Feb 
+‒8 
+‒0.179 
+‒2.891 
+‒0.257 
+‒15.509 
+‒0.619 
+‒2.265 
+‒0.691 
+‒2.413 
+15‒Feb 
+‒7 
+‒0.133 
+‒0.839 
+0.295 
+9.316 
+0.483 
+1.351 
+0.990 
+2.591 
+16‒Feb 
+‒6 
+‒0.114 
+‒1.386 
+‒0.050 
+‒3.607 
+0.200 
+0.995 
+0.557 
+2.591 
+17‒Feb 
+‒5 
+0.077 
+1.185 
+‒0.248 
+‒9.812 
+0.247 
+1.127 
+‒0.320 
+‒1.376 
+18‒Feb 
+‒4 
+0.065 
+1.126 
+‒0.015 
+‒0.469 
+0.594 
+2.926 
+0.553 
+2.463 
+21‒Feb 
+‒3 
+0.032 
+0.102 
+‒0.063 
+‒0.228 
+‒0.042 
+‒0.151 
+‒0.112 
+‒0.392 
+22‒Feb 
+‒2 
+‒0.015 
+‒0.322 
+‒0.094 
+‒4.639 
+‒0.303 
+‒1.274 
+‒0.041 
+‒0.197 
+23‒Feb 
+‒1 
+0.079 
+1.439 
+‒0.248 
+‒12.253 
+0.043 
+0.161 
+‒0.045 
+‒0.155 
+24‒Feb 
+0 
+‒0.759 
+‒4.708 
+‒0.385 
+‒7.640 
+‒0.901 
+‒4.242 
+‒2.000 
+‒7.883 
+25‒Feb 
+1 
+‒0.040 
+‒0.199 
+0.488 
+6.750 
+0.033 
+0.211 
+0.490 
+2.484 
+28‒Feb 
+2 
+‒0.111 
+‒0.989 
+‒0.144 
+‒1.581 
+0.202 
+0.384 
+0.736 
+1.267 
+1‒Mar 
+3 
+‒0.372 
+‒5.525 
+‒0.570 
+‒10.140 
+‒0.601 
+‒1.630 
+‒0.822 
+‒1.671 
+2‒Mar 
+4 
+‒0.075 
+‒0.427 
+0.336 
+7.296 
+‒1.516 
+‒4.718 
+‒0.681 
+‒2.281 
+3‒Mar 
+5 
+0.024 
+0.379 
+0.019 
+0.608 
+1.788 
+6.629 
+2.412 
+8.762 
+4‒Mar 
+6 
+‒0.268 
+‒4.906 
+‒0.361 
+‒10.668 
+‒1.665 
+‒4.279 
+‒2.003 
+‒4.489 
+7‒Mar 
+7 
+0.033 
+0.304 
+‒0.553 
+‒13.938 
+0.360 
+1.779 
+‒0.573 
+‒2.063 
+8‒Mar 
+8 
+0.009 
+0.169 
+‒0.013 
+‒0.798 
+‒0.208 
+‒0.815 
+‒0.190 
+‒0.788 
+9‒Mar 
+9 
+‒0.363 
+‒1.730 
+0.200 
+6.683 
+1.808 
+3.776 
+2.489 
+4.493 
+10‒Mar 
+10 
+‒0.085 
+‒0.913 
+‒0.071 
+‒0.980 
+‒0.871 
+‒3.966 
+‒0.777 
+‒3.002 
+ 
+ 
+ 
+"
+"40 
+ 
+Table 4 (continued) 
+ 
+  
+Oceania 
+Africa 
+Date 
+Day 
+AAR1 
+t-stat 
+AAR2 
+t-stat 
+AAR1 
+t-stat 
+AAR2 
+t-stat 
+10‒Feb 
+‒10 
+1.942 
+4.828 
+2.165 
+5.218 
+0.069 
+0.225 
+0.181 
+0.567 
+11‒Feb 
+‒9 
+‒0.176 
+‒0.582 
+‒0.954 
+‒3.518 
+‒0.071 
+‒1.419 
+‒0.170 
+‒3.776 
+14‒Feb 
+‒8 
+0.409 
+0.932 
+0.488 
+1.085 
+0.069 
+0.430 
+0.052 
+0.278 
+15‒Feb 
+‒7 
+‒0.421 
+‒1.203 
+‒0.480 
+‒1.353 
+‒0.226 
+‒1.227 
+‒0.050 
+‒0.228 
+16‒Feb 
+‒6 
+‒0.618 
+‒2.205 
+0.378 
+1.432 
+0.196 
+1.151 
+0.163 
+0.937 
+17‒Feb 
+‒5 
+0.861 
+4.010 
+1.039 
+4.288 
+‒0.010 
+‒0.052 
+0.170 
+0.850 
+18‒Feb 
+‒4 
+0.269 
+2.234 
+‒0.353 
+‒2.358 
+‒0.159 
+‒0.374 
+‒0.369 
+‒0.818 
+21‒Feb 
+‒3 
+0.647 
+2.962 
+0.842 
+4.002 
+‒0.446 
+‒1.469 
+‒0.454 
+‒1.642 
+22‒Feb 
+‒2 
+‒0.366 
+‒1.696 
+‒0.729 
+‒3.047 
+‒0.522 
+‒1.979 
+‒0.548 
+‒2.164 
+23‒Feb 
+‒1 
+‒0.241 
+‒1.398 
+0.187 
+1.150 
+0.554 
+2.203 
+0.164 
+0.606 
+24‒Feb 
+0 
+‒0.775 
+‒4.352 
+‒3.259 
+‒7.575 
+‒0.814 
+‒2.120 
+‒1.341 
+‒3.130 
+25‒Feb 
+1 
+0.433 
+0.953 
+1.314 
+3.446 
+1.188 
+1.987 
+1.457 
+2.250 
+28‒Feb 
+2 
+‒0.590 
+‒2.272 
+0.107 
+0.499 
+‒0.695 
+‒1.639 
+‒0.550 
+‒1.317 
+1‒Mar 
+3 
+0.162 
+0.652 
+0.522 
+2.017 
+0.339 
+1.305 
+0.305 
+1.157 
+2‒Mar 
+4 
+‒1.569 
+‒3.479 
+‒1.051 
+‒2.607 
+‒0.429 
+‒0.902 
+‒0.488 
+‒1.044 
+3‒Mar 
+5 
+‒0.396 
+‒0.787 
+0.395 
+0.777 
+0.246 
+0.384 
+0.305 
+0.457 
+4‒Mar 
+6 
+0.048 
+0.267 
+0.195 
+1.072 
+0.030 
+0.051 
+‒0.663 
+‒1.154 
+7‒Mar 
+7 
+‒0.303 
+‒0.851 
+‒1.546 
+‒4.383 
+‒0.796 
+‒1.006 
+‒1.121 
+‒1.422 
+8‒Mar 
+8 
+0.361 
+1.243 
+‒0.610 
+‒2.078 
+0.375 
+1.532 
+0.230 
+0.910 
+9‒Mar 
+9 
+0.380 
+3.691 
+1.482 
+5.614 
+0.176 
+0.654 
+0.423 
+1.406 
+10‒Mar 
+10 
+1.067 
+2.888 
+2.290 
+4.592 
+‒0.032 
+‒0.230 
+0.028 
+0.206 
+ 
+ 
+ 
+"
+"41 
+ 
+Table 5: Cumulative average abnormal return of bank stocks worldwide and by region 
+This table reports the cumulative average abnormal returns of the whole world and five continents (Europe, Asia, North America, South America, Oceania, Africa) 
+for different time windows. We calculate cumulative abnormal returns using the market model (AR1) and the net‒of-market approach (AR2). For each calculation 
+of abnormal returns and each time window, we test to see if the cumulative average abnormal returns have significant differences from 0 and report the 
+corresponding t-statistic to the right of the average abnormal return numbers. *, **, and *** indicate the significance level as 10%, 5%, and 1%, respectively."
+"The expected returns from market model approach is calculated by regressing each actual stock return series on the corresponding market return. To prevent the 
+confounding effect of the covid‒19 pandemic fear and vaccine distribution event at the end of 2020, we restrict our sample to start from March 2021. Specifically, 
+the market model is estimated from 230 days to 11 days before the war. Based on the estimated result, the abnormal return of each stock is measured as follows: 
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(1) = 𝑅𝑅𝑖𝑖.𝑡𝑡−(𝛼𝛼
+ො𝑖𝑖+ 𝛽𝛽
+̂𝑖𝑖. 𝑅𝑅𝑚𝑚,𝑡𝑡), where 𝑅𝑅𝑖𝑖.𝑡𝑡 is the actual return of stock i and 𝑅𝑅𝑚𝑚,𝑡𝑡 is the corresponding market return on the day t. 𝛼𝛼
+ො𝑖𝑖 and 𝛽𝛽
+̂𝑖𝑖 are the coefficients 
+estimated from the market model."
+"The market model measures the abnormal returns as the difference between actual return against the average historical market return (Brown & Warner, 1985). To 
+account for the potential weekday effect, we measure the abnormal return of a stock as the difference between the actual stock return and the average corresponding 
+historical market return on the same weekday. Specifically, we calculate the following specification: 
+𝐴𝐴𝐴𝐴𝑖𝑖,𝑡𝑡
+(2) = 𝑅𝑅𝑖𝑖.𝑡𝑡−𝑅𝑅
+ത𝑚𝑚, same weekday between T‒11 and T‒230."
+"World 
+Europe 
+Asia 
+North America 
+  
+AR1 
+AR2 
+AR1 
+AR2 
+AR1 
+AR2 
+AR1 
+AR2 
+CAAR(‒10,‒1) 
+‒0.202 
+‒1.109*** 
+‒0.716*** 
+‒2.714*** 
+‒1.653*** 
+‒1.619*** 
+0.194 
+‒0.749*** 
+ 
+(‒0.779) 
+(‒13.254) 
+(‒3.341) 
+(‒10.319) 
+(‒4.970) 
+(‒4.803) 
+(0.490) 
+(‒11.838) 
+CAAR(‒3,‒1) 
+‒0.093 
+‒0.560*** 
+‒0.214** 
+‒1.138*** 
+‒0.547** 
+‒0.902*** 
+0.065 
+‒0.343*** 
+ 
+(‒1.370) 
+(‒11.182) 
+(‒2.311) 
+(‒9.082) 
+(‒2.536) 
+(‒3.612) 
+(0.743) 
+(‒10.750) 
+CAAR(0,0) 
+‒1.036*** 
+‒1.407*** 
+‒2.173*** 
+‒4.146*** 
+‒1.033*** 
+‒2.581*** 
+‒0.759*** 
+‒0.385*** 
+  
+(‒8.851) 
+(‒17.626) 
+(‒13.779) 
+(‒17.299) 
+(‒3.143) 
+(‒7.358) 
+(‒4.708) 
+(‒7.640) 
+CAAR(0,3) 
+‒1.427*** 
+‒1.339*** 
+‒2.280*** 
+‒3.857*** 
+‒1.386*** 
+‒1.769*** 
+‒1.282*** 
+‒0.612*** 
+ 
+(‒5.209) 
+(‒12.127) 
+(‒10.320) 
+(‒12.883) 
+(‒3.638) 
+(‒4.640) 
+(‒3.064) 
+(‒5.132) 
+CAAR(0,5) 
+‒1.598*** 
+‒1.375*** 
+‒2.741*** 
+‒5.091*** 
+‒1.754*** 
+‒2.419*** 
+‒1.334** 
+‒0.257* 
+ 
+(‒3.921) 
+(‒11.073) 
+(‒12.008) 
+(‒16.197) 
+(‒4.419) 
+(‒5.862) 
+(‒2.107) 
+(‒1.924) 
+CAAR(0,10) 
+‒2.285*** 
+‒2.443*** 
+‒2.855*** 
+‒6.113*** 
+‒3.275*** 
+‒4.778*** 
+‒2.009** 
+‒1.056*** 
+ 
+(‒3.950) 
+(‒16.924) 
+(‒9.828) 
+(‒16.154) 
+(‒6.891) 
+(‒9.970) 
+(‒2.227) 
+(‒6.978) 
+CAAR(0,20) 
+‒3.562*** 
+‒1.898*** 
+‒2.968*** 
+‒3.763*** 
+‒3.238*** 
+‒3.718*** 
+‒4.114** 
+‒1.291*** 
+  
+(‒2.870) 
+(‒11.742) 
+(‒8.017) 
+(‒11.032) 
+(‒6.272) 
+(‒6.173) 
+(‒2.106) 
+(‒7.326) 
+Table 5 (continued) 
+"
+"42 
+ 
+  
+South America 
+Oceania 
+Africa 
+  
+AR1 
+AR2 
+AR1 
+AR2 
+AR1 
+AR2 
+CAAR(‒10,‒1) 
+1.457** 
+2.085*** 
+2.307** 
+2.583** 
+‒0.535 
+‒0.830 
+ 
+(2.369) 
+(3.262) 
+(2.370) 
+(2.991) 
+(‒0.689) 
+(‒1.016) 
+CAAR(‒3,‒1) 
+‒0.304 
+‒0.196 
+0.040 
+0.300 
+‒0.414 
+‒0.838*** 
+ 
+(‒0.604) 
+(‒0.383) 
+(0.094) 
+(0.842) 
+(‒1.365) 
+(‒2.750) 
+CAAR(0,0) 
+‒0.901*** 
+‒2.000*** 
+‒0.775*** 
+‒3.259*** 
+‒0.814** 
+‒1.341*** 
+  
+(‒4.242) 
+(‒7.883) 
+(‒4.352) 
+(‒7.575) 
+(‒2.120) 
+(‒3.130) 
+CAAR(0,3) 
+‒1.014*** 
+‒1.541*** 
+‒0.770 
+‒1.315 
+‒0.098 
+‒0.265 
+ 
+(‒4.620) 
+(‒5.533) 
+(‒0.983) 
+(‒1.678) 
+(‒0.171) 
+(‒0.462) 
+CAAR(0,5) 
+‒0.828** 
+0.075 
+‒2.735** 
+‒1.971* 
+‒0.302 
+‒0.474 
+ 
+(‒2.228) 
+(0.176) 
+(‒2.821) 
+(‒2.242) 
+(‒0.437) 
+(‒0.646) 
+CAAR(0,10) 
+‒1.404** 
+‒0.979 
+‒1.183 
+‒0.160 
+‒0.508 
+‒1.439 
+ 
+(‒2.428) 
+(‒1.494) 
+(‒1.057) 
+(‒0.159) 
+(‒0.496) 
+(‒1.445) 
+CAAR(0,20) 
+0.476 
+3.015*** 
+0.682 
+5.860*** 
+‒0.139 
+‒0.873 
+  
+(0.748) 
+(3.545) 
+(0.570) 
+(4.936) 
+(‒0.100) 
+(‒0.606) 
+ 
+ 
+ 
+"
+"43 
+ 
+Table 6: Returns of bank stocks and the association with oil price, exchange rate, and market return movement 
+This table presents the regression results of bank stock returns against the war-related times and periods. We perform three regression models for the whole world 
+and for each region. In model (1), we use two dummy variables representing the first and second trading days following the war event to test the market reaction 
+in these two days. To better capture the effect of the war event on bank stock returns, we control for the effect of market returns, market sensitivity to covid daily 
+new cases, oil return, and exchange rate changes. This model controls for country-fixed effects, time-fixed effects and market-fixed effects. In model (2), we replace 
+the second trading day dummy with a dummy representing the post-war period. We also use the same independent and control variables as in model (1). To further 
+examine the difference in the correlation between bank stock returns and market return, oil return, and exchange rate changes after the war, we estimate model (3) 
+as the model (2), adding the interaction between the dummy variable after the war and each of the test variables above. *, **, and *** indicate the significance 
+level as 10%, 5%, and 1%, respectively."
+"𝑟𝑟
+𝑖𝑖,𝑡𝑡= 𝛼𝛼+ 𝛿𝛿1. 𝑤𝑤𝑤𝑤𝑟𝑟
+𝑡𝑡+ 𝛿𝛿2. 𝑤𝑤𝑤𝑤𝑟𝑟
+𝑡𝑡+1 + 𝛽𝛽1. 𝑀𝑀𝑀𝑀𝑡𝑡_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑡𝑡+ 𝛾𝛾1. 𝑂𝑂𝑂𝑂𝑂𝑂_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑛𝑛𝑡𝑡𝜃𝜃1. 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒_𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑡𝑡+ 𝐹𝐹(𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑙𝑙𝑡𝑡) + 𝑢𝑢𝑡𝑡 (1) 
+𝑟𝑟
+𝑖𝑖,𝑡𝑡= 𝛼𝛼+ 𝛿𝛿1. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑤𝑤+ 𝛽𝛽1. 𝑀𝑀𝑀𝑀𝑡𝑡_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑡𝑡+ 𝛾𝛾1. 𝑂𝑂𝑂𝑂𝑂𝑂_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑛𝑛𝑡𝑡𝜃𝜃1. 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒_𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑡𝑡+ 𝐹𝐹(𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑙𝑙𝑡𝑡) + 𝑢𝑢𝑡𝑡 (2) 
+𝑟𝑟
+𝑖𝑖,𝑡𝑡= 𝛼𝛼+ 𝛿𝛿1. 𝑤𝑤𝑤𝑤𝑟𝑟
+𝑡𝑡+ 𝛿𝛿2. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟
+𝑡𝑡+ 𝛽𝛽1. 𝑀𝑀𝑀𝑀𝑡𝑡_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑡𝑡+ 𝛽𝛽2. 𝑀𝑀𝑀𝑀𝑡𝑡_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑡𝑡. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟
+𝑡𝑡+ 𝛾𝛾1. 𝑂𝑂𝑂𝑂𝑂𝑂_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑛𝑛𝑡𝑡+ 𝛾𝛾2. 𝑂𝑂𝑂𝑂𝑂𝑂_𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑛𝑛𝑡𝑡. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟
+𝑡𝑡+
+𝜃𝜃1. 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒_𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑡𝑡+ 𝜃𝜃2. 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒_𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑡𝑡. 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝_𝑤𝑤𝑤𝑤𝑟𝑟
+𝑡𝑡+ 𝐹𝐹(𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑙𝑙𝑡𝑡) + 𝑢𝑢𝑡𝑡 (3) 
+  
+World 
+Europe 
+Asia 
+North America 
+Model 
+(1) 
+(2) 
+(3) 
+(1) 
+(2) 
+(3) 
+(1) 
+(2) 
+(3) 
+(1) 
+(2) 
+(3) 
+1st trading day 
+‒1.258*** 
+‒1.325*** 
+‒1.323*** 
+‒2.016*** 
+‒2.070*** 
+‒2.083*** 
+‒0.572*** 
+‒0.641*** 
+‒0.646*** 
+‒0.657*** 
+‒0.708*** 
+‒0.706*** 
+ 
+(‒30.029) 
+(‒31.406) 
+(‒31.371) 
+(‒22.161) 
+(‒22.598) 
+(‒22.714) 
+(‒3.823) 
+(‒4.248) 
+(‒4.281) 
+(‒13.922) 
+(‒14.884) 
+(‒14.840) 
+2nd trading day 
+0.077* 
+ 
+ 
+0.733*** 
+ 
+ 
+‒0.310* 
+ 
+ 
+‒0.023 
+ 
+ 
+ 
+(1.824) 
+ 
+ 
+(8.064) 
+ 
+ 
+(‒1.936) 
+ 
+ 
+(‒0.488) 
+ 
+ 
+Post_war () 
+ 
+‒0.126*** 
+‒0.144*** 
+ 
+‒0.105*** 
+‒0.091*** 
+ 
+‒0.132*** 
+‒0.102*** 
+ 
+‒0.093*** 
+‒0.087*** 
+ 
+ 
+(‒13.078) 
+(‒14.949) 
+ 
+(‒5.059) 
+(‒4.365) 
+ 
+(‒3.727) 
+(‒2.853) 
+ 
+(‒8.641) 
+(‒8.003) 
+Mkt_return 
+0.306*** 
+0.307*** 
+0.306*** 
+0.363*** 
+0.366*** 
+0.365*** 
+0.535*** 
+0.535*** 
+0.539*** 
+0.194*** 
+0.195*** 
+0.198*** 
+ 
+(277.183) 
+(278.251) 
+(267.270) 
+(139.122) 
+(140.455) 
+(133.768) 
+(112.392) 
+(112.453) 
+(109.217) 
+(152.278) 
+(152.825) 
+(150.484) 
+Mkt_return × P_war 
+ 
+ 
+‒0.008* 
+ 
+ 
+‒0.014 
+ 
+ 
+‒0.075*** 
+ 
+ 
+‒0.086*** 
+ 
+ 
+ 
+(‒1.804) 
+ 
+ 
+(‒1.452) 
+ 
+ 
+(‒3.908) 
+ 
+ 
+(‒12.672) 
+Oil_return 
+‒0.002*** 
+‒0.002*** 
+‒0.001*** 
+0.001 
+0.001 
+0.002** 
+0.003** 
+0.003** 
+0.005*** 
+0.004*** 
+0.004*** 
+0.004*** 
+ 
+(‒4.607) 
+(‒4.820) 
+(‒3.682) 
+(0.737) 
+(0.697) 
+(2.486) 
+(2.498) 
+(2.469) 
+(3.377) 
+(10.930) 
+(10.776) 
+(10.310) 
+Oil_return × P_war 
+ 
+ 
+‒0.008*** 
+ 
+ 
+‒0.019*** 
+ 
+ 
+‒0.022*** 
+ 
+ 
+‒0.011*** 
+ 
+ 
+ 
+(‒5.789) 
+ 
+ 
+(‒6.140) 
+ 
+ 
+(‒4.164) 
+ 
+ 
+(‒6.440) 
+Exrate_change 
+‒0.000 
+‒0.000 
+‒0.000 
+0.500*** 
+0.500*** 
+0.487*** 
+0.107*** 
+0.106*** 
+0.083*** 
+0.006 
+0.008* 
+‒0.000 
+ 
+(‒1.237) 
+(‒1.238) 
+(‒1.241) 
+(65.591) 
+(65.535) 
+(61.428) 
+(8.359) 
+(8.234) 
+(6.235) 
+(1.323) 
+(1.715) 
+(‒0.047) 
+Exrate_change × 
+Postwar 
+ 
+ 
+0.485*** 
+ 
+ 
+0.124*** 
+ 
+ 
+0.302*** 
+ 
+ 
+‒0.016 
+ 
+ 
+ 
+(40.529) 
+ 
+ 
+(4.070) 
+ 
+ 
+(6.258) 
+ 
+ 
+(‒0.785) 
+Time FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Country FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Market FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Covid‒19 sensitivity 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+R‒squared 
+0.062 
+0.063 
+0.064 
+0.178 
+0.178 
+0.178 
+0.093 
+0.093 
+0.094 
+0.033 
+0.033 
+0.033 
+"
+"44 
+ 
+Table 6 (continued) 
+  
+South America 
+Oceania 
+Africa 
+Model 
+(1) 
+(2) 
+(3) 
+(1) 
+(2) 
+(3) 
+(1) 
+(2) 
+(3) 
+1st trading day 
+‒0.945*** 
+‒0.953*** 
+‒0.960*** 
+‒0.622 
+‒0.683 
+‒0.679 
+‒0.818** 
+‒0.836** 
+‒0.846** 
+ 
+(‒2.785) 
+(‒2.789) 
+(‒2.811) 
+(‒1.116) 
+(‒1.217) 
+(‒1.211) 
+(‒2.255) 
+(‒2.288) 
+(‒2.318) 
+2nd trading day 
+‒0.201 
+ 
+ 
+0.319 
+ 
+ 
+1.252*** 
+ 
+ 
+ 
+(‒0.593) 
+ 
+ 
+(0.574) 
+ 
+ 
+(3.309) 
+ 
+ 
+Post_war 
+ 
+‒0.020 
+‒0.028 
+ 
+‒0.112 
+‒0.076 
+ 
+‒0.012 
+0.020 
+ 
+ 
+(‒0.253) 
+(‒0.354) 
+ 
+(‒0.872) 
+(‒0.588) 
+ 
+(‒0.137) 
+(0.240) 
+Mkt return 
+0.492*** 
+0.492*** 
+0.488*** 
+0.720*** 
+0.721*** 
+0.721*** 
+0.329*** 
+0.330*** 
+0.325*** 
+ 
+(82.357) 
+(82.358) 
+(80.098) 
+(41.193) 
+(41.196) 
+(40.884) 
+(27.822) 
+(27.896) 
+(26.314) 
+Mkt return × Post‒war 
+ 
+ 
+0.014 
+ 
+ 
+‒0.089 
+ 
+ 
+‒0.098** 
+ 
+ 
+ 
+(0.310) 
+ 
+ 
+(‒0.649) 
+ 
+ 
+(‒2.075) 
+Oil return 
+‒0.010*** 
+‒0.010*** 
+‒0.007** 
+0.013*** 
+0.013*** 
+0.016*** 
+‒0.006* 
+‒0.006* 
+‒0.007** 
+ 
+(‒3.274) 
+(‒3.267) 
+(‒2.344) 
+(2.770) 
+(2.760) 
+(3.388) 
+(‒1.939) 
+(‒1.937) 
+(‒2.058) 
+Oil return × Post‒war 
+ 
+ 
+‒0.038*** 
+ 
+ 
+‒
+0.055*** 
+ 
+ 
+0.012 
+ 
+ 
+ 
+(‒3.154) 
+ 
+ 
+(‒2.846) 
+ 
+ 
+(0.912) 
+Ex rate change 
+‒0.000 
+‒0.000 
+‒0.000 
+0.007 
+0.008 
+0.008 
+0.005 
+0.005 
+0.004 
+ 
+(‒0.878) 
+(‒0.879) 
+(‒0.883) 
+(0.162) 
+(0.179) 
+(0.188) 
+(1.578) 
+(1.581) 
+(1.150) 
+Ex rate change × Post‒
+war 
+ 
+ 
+0.190** 
+ 
+ 
+0.045 
+ 
+ 
+0.544*** 
+ 
+ 
+ 
+(2.151) 
+ 
+ 
+(0.194) 
+ 
+ 
+(8.147) 
+Time FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Market FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Covid‒19 sensitivity 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+R‒squared 
+0.180 
+0.180 
+0.181 
+0.339 
+0.339 
+0.340 
+0.036 
+0.035 
+0.038 
+ 
+"

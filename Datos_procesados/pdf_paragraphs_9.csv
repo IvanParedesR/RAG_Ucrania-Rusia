@@ -1,0 +1,543 @@
+Paragraph
+"Peer-reviewed research 
+The Impact of the Russia-Ukraine War on the Cryptocurrency 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Market 
+ 
+Isaac Appiah-Otoo 
+1   
+a 
+1 Business Administration, College of Management Science, Chengdu University of Technology, Chengdu, China 
+Keywords: Cryptocurrency, Bitcoin, Russia-Ukraine war, JEL: C01 G12 H56 
+https://doi.org/10.46557/001c.53110 
+Asian Economics Letters 
+Vol. 4, Issue 1, 2023 
+This research provides the very first empirical investigation of the impact of the 
+Russia-Ukraine war on the cryptocurrency market (Bitcoin trading volume, and returns)."
+"The findings indicate that the Russia-Ukraine war impedes Bitcoin trading volume. A 1% 
+increase in the Russia-Ukraine war leads to a 0.2% reduction in Bitcoin trading volume."
+"The findings also indicate that the impact is more pronounced during the post-invasion 
+period, especially after one week of the invasion. Finally, the Russia-Ukraine war predicts 
+Bitcoin returns in both the short and long run."
+"I. Introduction 
+ 
+ 
+Russia invaded Ukraine on 24 February 2022, following 
+a prolonged period of military deployment along Ukraine’s 
+borders (Boungou & Yatié, 2022). According to Statista, the 
+war has resulted in the deaths of 4, 677 civilians and the 
+displacement of over 8 million people as of 23 June 2022."
+"1 
+The conflict has impacted the global economy, food secu­
+rity, and geopolitics (Pereira et al., 2022). In the financial 
+market, the recent conflict has impacted stock market re­
+turns (Boubaker et al., 2022; Boungou & Yatié, 2022), com­
+modity market (Appiah-Otoo, 2022), and corporate deci­
+sions (Tosun & Eshraghi, 2022). However, it is unknown 
+whether the war has had any influence on the cryptocur­
+rency market, especially Bitcoin trading volume and re­
+turns."
+"Cryptocurrencies are appealing to investors since they 
+are frequently seen as a “safe haven” investment (Cheng 
+& Yen, 2020). Bitcoin, the most popular cryptocurrency, 
+has piqued the curiosity of investors, the public, and schol­
+ars (Kalyvas et al., 2020). Several researchers have recently 
+demonstrated how Bitcoin possesses hedging capabilities 
+towards economic instability (Mokni et al., 2020), and may 
+be used as a hedge and safe haven across currencies (Ka­
+lyvas et al., 2020). It could also be used as a hedge amid 
+certain market circumstances (Cheng & Yen, 2020). Fur­
+thermore, using Bitcoin in investment portfolios has been 
+demonstrated to provide significant gains as well as boost 
+risk-adjusted outcomes (Brière et al., 2015). To this end, the 
+objective of this study is to explore the impact of the ongo­
+ing Russia-Ukraine war on Bitcoin trading volume and re­
+turns. Understanding this link will aid investors and asset 
+managers in determining an optimal asset allocation strat­
+egy and hedging choices."
+"Following Boungou and Yatié (2022), this study first ex­
+amines the effect of the Russia-Ukraine war on Bitcoin 
+trading volume and finds that the Russia-Ukraine war im­
+pedes Bitcoin trading volume. It then examines how Bitcoin 
+trading volume responded to the period before the invasion 
+(pre-invasion i.e., 23 January to 23 February 2022) and the 
+period after the invasion (post-invasion i.e., 24 February to 
+16 April 2022), and finds that the impact of the conflict on 
+Bitcoin trading volume is more pronounced in the post-in­
+vasion period. Furthermore, the study explores whether the 
+impact differed during the first week of the invasion (24 
+February 2022 to 3 March 2022) and after the first week 
+of the invasion (4 March 2022 to 16 April 2022) and finds 
+that the impact of the conflict on Bitcoin trading volume 
+is greater after the first week of the invasion. Finally, the 
+study demonstrates that the Russia-Ukraine war predicts 
+Bitcoin returns in both the short and long run."
+"The study adds to the growing body of knowledge about 
+the impact of the Russia-Ukraine war on the financial mar­
+ket by presenting the very first empirical investigation of 
+the impact of the Russia-Ukraine war on the cryptocurrency 
+market. This study also adds to the voluminous literature 
+on the determinants of Bitcoin trading volume and returns 
+(Mokni et al., 2020; Panagiotidis et al., 2018; Wang et al., 
+2022; Wu et al., 2022) by also presenting the impact of the 
+Russia-Ukraine war on Bitcoin trading volume and returns."
+"Corresponding author email: appiahotooi@yahoo.com 
+https://www.statista.com/topics/9087/russia-ukraine-war-2022/#dossierKeyfigures retrieved 29 June 2022 
+a 
+1 
+Appiah-Otoo, I. (2023). The Impact of the Russia-Ukraine War on the Cryptocurrency
+Market. Asian Economics Letters, 4(1). https://doi.org/10.46557/001c.53110
+"
+"II. Data and Methodology 
+ 
+ 
+ 
+ 
+A. Data 
+ 
+ 
+This study examines the impact of the Russia-Ukraine 
+war on Bitcoin trading volume and returns. Regarding the 
+impact of the Russia-Ukraine war on Bitcoin trading vol­
+ume, the study uses panel data of twenty countries
+2 with 
+dates ranging from 23 January 2022 to 16 April 2022. Al­
+though the war began on 24 February 2022, many global 
+leaders had long planned for it and felt it was only a matter 
+of time until it began (Boungou & Yatié, 2022), therefore 
+justifying the study’s start from 23 January 2022. The coun­
+tries are also chosen based on the availability of data. Coin 
+dance (https://coin.dance/volume/localbitcoins) serves as 
+the source of the Bitcoin trading volume data, while Google 
+Trends serves as the source for the Russia-Ukraine war data 
+(https://trends.google.com/trends). This study conducts a 
+90-day search using the terms “Russia and Ukraine and 
+war”. The first differences of the natural logarithm of Bit­
+coin prices are used to generate the time-series data on 
+Bitcoin returns. Except for Bitcoin returns, we log-trans­
+form all the variables to show the results as elasticities and 
+to provide efficient outcomes (Appiah-Otoo, Song, et al., 
+2022)."
+"B. Methodology 
+ 
+ 
+To examine the impact of the Russia-Ukraine war on 
+Bitcoin trading volume, the study estimates the following 
+model: 
+where 
+ denotes Bitcoin trading volume; 
+ de­
+notes the Russia-Ukraine war; and  represents the error 
+term. Country and time are represented by  and  We ex­
+pect  to be positive and statistically significant. This is 
+because Bitcoin possesses hedging capabilities toward eco­
+nomic instability (Mokni et al., 2020)."
+We estimate Equation (1) using the IV-GMM method.
+"This method is suitable for the estimation of Equation (1) 
+given the small period, a large number of countries, omit­
+ted variables, and the issues of endogeneity (Appiah-Otoo, 
+Acheampong, et al., 2022; Appiah-Otoo & Song, 2021). We 
+also use the fixed effects (FE) method for robustness test­
+ing. This method also addresses country-specific fixed ef­
+fects issues."
+"To also scrutinise the influence of the Russia-Ukraine 
+war on Bitcoin returns, we use a quantile regression. Quan­
+tile regression has the advantage of estimating conditional 
+average performance models using numerous additional 
+conditional quantile functions (Zeinedini et al., 2022)."
+"Quantile regression can also produce an additional all-in­
+clusive numerical examination of the randomized connec­
+tions amid regressors (Koenker & Hallock, 2001)."
+"The model is stated as follows: 
+where 
+ signifies Bitcoin returns 
+ 
+ is the natural log­
+arithm of the Russia-Ukraine war 
+ and  indicates 
+the error term. Time is denoted by t;  is the constant term, 
+while  is the quantile 
+ of the conditional distri­
+bution."
+"III. Results and discussion 
+ 
+ 
+ 
+ 
+This section presents the results. Table 1 shows the re­
+sults on the effect of the Russia-Ukraine war on Bitcoin 
+trading volume. The full sample period results based on the 
+IV-GMM and FE techniques show that the war impedes Bit­
+coin trading volume. A 1% rise in the Russia-Ukraine war 
+leads to a 0.247% reduction in Bitcoin trading volume ac­
+cording to the IV-GMM estimates, while a 1% rise in the 
+Russia-Ukraine war leads to a 0.784% reduction in Bit­
+coin trading volume according to the FE estimates. Thus, 
+Bitcoin trading volume remains sensitive to the Russia-
+Ukraine war. This conflicts with our expectations but aligns 
+with previous studies that document uncertainties to im­
+pede Bitcoin growth (Mokni et al., 2020). Thus, Bitcoin re­
+mains a speculative asset."
+"Turning to the pre- and post-invasion periods, the IV-
+GMM estimates indicate that the war has a negative effect 
+on Bitcoin trading volume in both periods; however, the 
+negative effect is only significant in the post-invasion pe­
+riod. The pre-invasion findings are collaborated by the FE 
+estimates, albeit statistically significant, while the post-in­
+vasion findings remained contradictory. These differences 
+could be attributed to the fact that the IV-GMM technique 
+resolves endogeneity issues, while the FE does not."
+"Moving to the weeks of the invasion results in Table 2, 
+we observe that the Russia-Ukraine war has a negative and 
+statistically significant impact on Bitcoin trading volume 
+only after the first week of the invasion, based on the IV-
+GMM technique."
+"Table 3 shows the Bitcoin returns results. The Russia-
+Ukraine war has a positive and statistically significant effect 
+on Bitcoin returns in the 20th quantile, while it has a neg­
+ative and statistically significant effect on Bitcoin returns 
+in the 70th quantile. Thus, the Russia-Ukraine war predicts 
+Bitcoin returns in both the short and long run. Thus, in­
+vestors should take into consideration the Russia-Ukraine 
+war when allocating assets and designing hedging strate­
+gies in the Bitcoin market. Also, policymakers should devise 
+strategies to help combat the adverse impact of the Russia-
+Ukraine war on the Bitcoin market."
+"Figure 1 displays a plot of the quantile regression results 
+for the impact of the Russia-Ukraine war on Bitcoin returns."
+"The figure shows that the Russia-Ukraine war has a neg­
+ative effect on Bitcoin returns on average across all the 
+quantiles."
+"Australia, Brazil, Canada, China, Denmark, India, Japan, Kenya, Nigeria, Pakistan, Poland, Romania, Russia, South Africa, Tanzania, 
+Thailand, Turkey, United Kingdom, United States of America, and Vietnam."
+"2 
+The Impact of the Russia-Ukraine War on the Cryptocurrency Market
+Asian Economics Letters
+2
+"
+Table 1.
+"Russia-Ukraine war and Bitcoin trading volume 
+ 
+ 
+ 
+ 
+ 
+ 
+Variables 
+Model 1 
+Model 2 
+Model 3 
+Model 4 
+Model 5 
+Model 6 
+FE results 
+IV-GMM results 
+Full 
+period 
+Pre-
+invasion 
+Post-
+invasion 
+Full 
+period 
+Pre-
+invasion 
+Post-
+invasion 
+lnwar 
+-0.784*** 
+-0.794*** 
+0.056** 
+-0.247** 
+-0.028 
+-0.375** 
+(0.061) 
+(0.082) 
+(0.028) 
+(0.115) 
+(0.120) 
+(0.166) 
+Time dummies 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Constant 
+13.216*** 
+13.226*** 
+0.000 
+13.443*** 
+13.274*** 
+14.784*** 
+(0.708) 
+(0.642) 
+(.) 
+(0.447) 
+(0.429) 
+(0.755) 
+Observations 
+882 
+241 
+641 
+620 
+147 
+473 
+R2 
+0.166 
+0.068 
+0.150 
+RMSE 
+1.577 
+1.425 
+0.356 
+1.174 
+0.700 
+1.284 
+F-statistics 
+1.134 
+0.295 
+1.425 
+Hansen test 
+0.048 
+0.489 
+0.218 
+Hansen test p-
+value 
+0.826 
+0.484 
+0.641 
+Notes: Full period covers 24 January 2022 to 16 April 2022; pre-invasion period covers 24 January 2022 to 23 February 2022; post-invasion period covers 24 February 2022 to 16 April 
+2022; standard errors are in parentheses; * 
+, ** 
+, *** 
+Table 2."
+"Weeks of invasion 
+ 
+ 
+ 
+Variables 
+Model 1 
+Model 2 
+Model 3 
+Model 4 
+FE results 
+IV-GMM results 
+First week 
+After the first week 
+First week 
+After the first week 
+lnwar 
+0.008 
+0.025 
+0.260 
+-0.389** 
+(0.035) 
+(0.035) 
+(1.331) 
+(0.153) 
+Time dummies 
+Yes 
+Yes 
+Yes 
+Yes 
+Constant 
+11.499*** 
+0.000 
+11.971** 
+13.571*** 
+(0.436) 
+(.) 
+(5.907) 
+(0.642) 
+Observations 
+119 
+522 
+86 
+387 
+R2 
+0.080 
+0.093 
+RMSE 
+0.128 
+0.360 
+1.729 
+1.167 
+F-statistics 
+3.048 
+0.899 
+Hansen test 
+0.328 
+0.613 
+Hansen test p-value 
+0.567 
+0.434 
+Notes: First week covers 24 February 2022 to 3 March 2022; after first week covers 4 March 2022 to 16 April 2022; standard errors are in parentheses; * p < 0.1, ** p < 0.05, *** p < 0.01 
+Table 3."
+"Russia-Ukraine war and Bitcoin returns 
+ 
+ 
+ 
+ 
+ 
+Variables 
+Model 1 
+Model 2 
+Model 3 
+Model 4 
+0.20 
+0.50 
+0.70 
+0.90 
+lnwar 
+0.004*** 
+0.000 
+-0.001* 
+-0.001 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+Constant 
+-0.015*** 
+-0.000 
+0.008*** 
+0.009*** 
+(0.003) 
+(0.003) 
+(0.003) 
+(0.002) 
+Observations 
+83 
+83 
+83 
+83 
+Notes: This table shows the quantile regression results for the impact of the Russia-Ukraine war on Bitcoin returns. The standard errors are in parentheses. * 
+, ** 
+, 
+*** 
+The Impact of the Russia-Ukraine War on the Cryptocurrency Market
+Asian Economics Letters
+3
+"
+Figure 1.
+Plot of the quantile regression results.
+Notes: The point estimates of the quantile regression coefficients for every quantile are shown in blue lines. The 95% confidence intervals are shown in red.
+"IV. Conclusion 
+ 
+ 
+This study examines the impact of the Russia-Ukraine 
+war on the cryptocurrency market (Bitcoin trading volume 
+and returns). The findings indicate that the Russia-Ukraine 
+war impedes Bitcoin trading volume. The findings also in­
+dicate that the impact is more pronounced during the post-
+invasion period, especially after one week of the invasion."
+"Finally, the Russia-Ukraine war impedes Bitcoin returns in 
+the long-run 
+This study focuses only on Bitcoin given its popularity 
+and dominance. Future studies should use alternative cryp­
+tocurrencies to re-estimate these associations. Future stud­
+ies should also explore the causal association between the 
+Russia-Ukraine war and Bitcoin trading volume and re­
+turns. Finally, a more recent dataset can be employed to 
+validate these findings."
+"Submitted: May 01, 2022 AEDT, Accepted: August 29, 2022 
+AEDT 
+This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(CCBY-SA-4.0). View this license’s legal deed at https://creativecommons.org/licenses/by-sa/4.0 and legal code at https://cre­
+ativecommons.org/licenses/by-sa/4.0/legalcode for more information."
+"The Impact of the Russia-Ukraine War on the Cryptocurrency Market
+Asian Economics Letters
+4
+"
+"References 
+ 
+Appiah-Otoo, I. (2022). Russia-Ukraine war and US oil 
+prices. Energy RESEARCH LETTERS, 3(Early View). htt
+ps://doi.org/10.46557/001c.37691 
+Appiah-Otoo, I., Acheampong, A. O., Song, N., Obeng, 
+C. K., & Appiah, I. K. (2022). Foreign aid—Economic 
+Growth Nexus in Africa: Does Financial Development 
+Matter? International Economic Journal, 36(3), 
+418–444. https://doi.org/10.1080/10168737.2022.208
+3653 
+Appiah-Otoo, I., & Song, N. (2021). The impact of ICT 
+on economic growth-Comparing rich and poor 
+countries. Telecommunications Policy, 45(2), 102082. h
+ttps://doi.org/10.1016/j.telpol.2020.102082 
+Appiah-Otoo, I., Song, N., Acheampong, A. O., & Yao, 
+X. (2022). Crowdfunding and renewable energy 
+development: What does the data say? International 
+Journal of Energy Research, 46(2), 1837–1852. http
+s://doi.org/10.1002/er.7301 
+Boubaker, S., Goodell, J. W., Pandey, D. K., & Kumari, V."
+"(2022). Heterogeneous impacts of wars on global 
+equity markets: Evidence from the invasion of 
+Ukraine. Finance Research Letters, 48, 102934. http
+s://doi.org/10.1016/j.frl.2022.102934 
+Boungou, W., & Yatié, A. (2022). The impact of the 
+Ukraine–Russia war on world stock market returns."
+"Economics Letters, 215, 110516. https://doi.org/10.101
+6/j.econlet.2022.110516 
+Brière, M., Oosterlinck, K., & Szafarz, A. (2015). Virtual 
+currency, tangible return: Portfolio diversification 
+with bitcoin. Journal of Asset Management, 16(6), 
+365–373. https://doi.org/10.1057/jam.2015.5 
+Cheng, H.-P., & Yen, K.-C. (2020). The relationship 
+between the economic policy uncertainty and the 
+cryptocurrency market. Finance Research Letters, 35, 
+101308. https://doi.org/10.1016/j.frl.2019.101308 
+Kalyvas, A., Papakyriakou, P., Sakkas, A., & Urquhart, 
+A. (2020). What drives Bitcoin’s price crash risk? 
+Economics Letters, 191, 108777. https://doi.org/10.101
+6/j.econlet.2019.108777 
+Koenker, R., & Hallock, K. F. (2001). Quantile 
+Regression. Journal of Economic Perspectives, 15(4), 
+143–156. https://doi.org/10.1257/jep.15.4.143 
+Mokni, K., Ajmi, A. N., Bouri, E., & Vo, X. V. (2020)."
+"Economic policy uncertainty and the Bitcoin-US 
+stock nexus. Journal of Multinational Financial 
+Management, 57–58, 100656. https://doi.org/10.1016/
+j.mulfin.2020.100656 
+Panagiotidis, T., Stengos, T., & Vravosinos, O. (2018)."
+"On the determinants of bitcoin returns: A LASSO 
+approach. Finance Research Letters, 27, 235–240. http
+s://doi.org/10.1016/j.frl.2018.03.016 
+Pereira, P., Bašić, F., Bogunovic, I., & Barcelo, D. (2022)."
+"Russian-Ukrainian war impacts the total 
+environment. Science of The Total Environment, 837, 
+155865. https://doi.org/10.1016/j.scitotenv.2022.1558
+65 
+Tosun, O. K., & Eshraghi, A. (2022). Corporate decisions 
+in times of war: Evidence from the Russia-Ukraine 
+conflict. Finance Research Letters, 48, 102920. http
+s://doi.org/10.1016/j.frl.2022.102920 
+Wang, J.-N., Lee, Y.-H., Liu, H.-C., & Lee, M.-C. (2022)."
+"The determinants of positive feedback trading 
+behaviors in Bitcoin markets. Finance Research 
+Letters, 45, 102120. https://doi.org/10.1016/j.frl.202
+1.102120 
+Wu, C.-C., Ho, S.-L., & Wu, C.-C. (2022). The 
+determinants of Bitcoin returns and volatility: 
+Perspectives on global and national economic policy 
+uncertainty. Finance Research Letters, 45, 102175. htt
+ps://doi.org/10.1016/j.frl.2021.102175 
+Zeinedini, S., Karimi, M. S., & Khanzadi, A. (2022)."
+"Impact of global oil and gold prices on the Iran stock 
+market returns during the Covid-19 pandemic using 
+the quantile regression approach. Resources Policy, 
+76, 102602. https://doi.org/10.1016/j.resourpol.202
+2.102602 
+The Impact of the Russia-Ukraine War on the Cryptocurrency Market
+Asian Economics Letters
+5
+"

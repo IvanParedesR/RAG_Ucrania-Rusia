@@ -1,0 +1,1035 @@
+Paragraph
+"Resources, Conservation & Recycling 188 (2023) 106657
+Available online 21 September 2022
+0921-3449/© 2022 Elsevier B.V. All rights reserved."
+"Influence of Russia-Ukraine War on the Global Energy and Food Security 
+Xi-Yin Zhou a,*, Gang Lu b, Zhicheng Xu b, Xiaoqing Yan b, Soon-Thiam Khu c, Junfeng Yang d, 
+Jian Zhao e,** 
+a School of Systems Science, Beijing Normal University, Beijing 100875, PR China 
+b State Grid Energy Research Institute CO., Ltd., Beijing, 102209, PR China 
+c School of Environmental Science and Engineering, Tianjin University, Tianjin 300350, PR China 
+d China Center for Information Industry Development, 100048, China 
+e State Key Laboratory of Environmental Criteria and Risk Assessment, Chinese Research Academy of Environmental Sciences, No.8 Anwain Dayangfang Road, Beijing 
+100012, China   
+A R T I C L E  I N F O   
+Keywords: 
+Russian and Ukraine War 
+Cascading Failure 
+Robustness 
+Resilience 
+A B S T R A C T   
+The Russian- Ukraine War has and further influence the global energy and food security. However, the detailed 
+influence degree, key weak points and influence process is still unclear in the current. Therefore, this study 
+established a newly improved under-load cascading failure model with consideration of overload limitation, and 
+used it to evaluate influence of Russian- Ukraine War on the global energy and food security. This study also 
+proposed a method to assess the network structure characteristic including robustness and resilience through 
+model simulation under different scenarios. The main results include: The upper limitation of node load has the 
+dominant function on the global energy and food security, while the influence of lower limitation parameter of 
+node load has limited function. All of the networks have relative consistent recover and anti-damage ability 
+against Russian and Ukraine War and the global panic except barley network. A key phenomenon we should 
+concern is that the largest trade flow amounts are not occurred in the failure nodes. The failure nodes are always 
+the countries with low economic scale and political status. The results tell us that we should further strengthen 
+the importance of enhance production ability and energy types to resist the risk of Russian and Ukraine War. The 
+global international organizations are also required to strengthen the function of balance the global security 
+demand of energy and food between big countries and small countries. We should pay more attention to the little 
+countries in the Africa and Asia to handle the risk."
+"1. Introduction 
+The world is in a fragile state under the long-term pressure from the 
+COVID-19 pandemic in each field such as energy and food (Kruczkie­
+wicz et al., 2021). The Russian invasion of Ukraine, occurred between 
+two main exporters of food and energy in the world would even worsen 
+the global energy and food security (Mbah and Wasum, 2022). The 
+Russia-Ukraine War (RUW) has actually induced roaring cereal and oil 
+prices, and global inflation (Deng et al., 2022). Tollefson (2022) 
+believed that although RUW has caused a short-term prices increase, it 
+would be a chance to prompt a long-term shift towards energy 
+sustainability."
+"Many academics, government officials and journalists have discussed 
+the influence of RUW on energy and food security (Benton et al., 2022)."
+"However, they are mainly discussed based on expert judgment, without 
+a suitable model analysis tool. The influence of RUW on energy and food 
+are mostly explored in the regional level such as European Union 
+(Blanchard and Pisani-Ferry., 2022), Morocc (Mengoub et al., 2022), 
+Indian (Meena, 2022), Azerbaijan (Mammadov, 2022), China (Oxford 
+Analytica, 2022a), Japan (Oxford Analytica, 2022b)."
+"In the context of economic globalization, the supply and demand of 
+food and energy between each country are closed linked (D’Odorico 
+et al., 2018; Ruhl., 2019 Gaupp, 2020). The regional element corruption 
+would cause global disaster in the complex network, which is called 
+cascading failures (Lee and Goh., 2016). The cascading failures process 
+has been revealed in the networks such as physical infrastructure net­
+works (Guo et al., 2017; Liu et al., 2021), economic and finance network 
+(Havlin and Kenett., 2015; Smolyak et al., 2018), and internet network 
+* Corresponding author."
+** Corresponding author.
+"E-mail addresses: zhouxiyin@bnu.edu.cn (X.-Y. Zhou), zhaojianzhaoj@163.com (J. Zhao)."
+"Contents lists available at ScienceDirect 
+Resources, Conservation & Recycling 
+journal homepage: www.elsevier.com/locate/resconrec 
+https://doi.org/10.1016/j.resconrec.2022.106657 
+Received 14 June 2022; Received in revised form 30 August 2022; Accepted 8 September 2022   
+"
+"Resources, Conservation & Recycling 188 (2023) 106657
+2
+(Xing, 2020; Ren et al., 2018). Take the economic trade network as an 
+example, the cascading failures process can be described as below: Once 
+a country has a supply or demand problem of a product, then a global 
+cascading failure is triggered in the trade network due to the global 
+economic trade relationship. The cascading failures types including 
+edge-based-attack cascading failures and node-based-attack cascading 
+failures (Li et al., 2012; Zhu et al., 2014). The simple occurrence 
+mechanism is that under the initial attack, the load of the attacked node 
+or edge would be distributed to its neighbors, and once the load of 
+neighbors is larger compared with their load capacity, the neighbors are 
+destroyed, and finally caused network cascading failure (Zhao et al., 
+2016). In some cases such as supply chain networks, the underload 
+cascading failures process would be considered, which indicates that 
+under the initial attack, due to lack of the load supply of the targeted 
+node or edge, the load of the neighbors is reduced and once lower with 
+the underload capacity, the neighbors are destroyed, and finally caused 
+network cascading failure (Yang et al., 2021)."
+"However, the cascading failures method is still few used in the 
+research of global food or energy trade system, let alone the coupled 
+food-energy system. The current cascading failures analysis barely 
+consider the overload status and underload status at the same time. In 
+the single food trade system, the lack of a main food exporter country 
+would not cause food security risk of targeted importer countries, the 
+food security risk of targeted importer countries would induce second­
+ary food risk of other countries. So as the single energy trade system."
+"What’s more, due to the economic globalization, the basic primary 
+industry-food system, and the basic secondary industry-energy system 
+also have closed linkages, and have key influence on the whole eco­
+nomic system of a certain country. One system breakdown would cause 
+the disruption of the other system. The cascading failures method is also 
+a suitable tool to assess the influence of war on the global energy and 
+food trade systems, which is still few can be found in the current 
+research."
+"Academics have agreed that RUW would cause global food and en­
+ergy crisis (Benton et al., 2022; Osendarp et al., 2022; ˙
+Zuk and ˙
+Zuk, 
+2022). However, there is still limited understanding of how RUW would 
+influence the global energy and food security and ways to design an 
+alternative means to mitigate the influence. To help address this gap, we 
+construct a global energy and food network that includes approximately 
+238 countries, three main types of energy and three main types of ce­
+reals, so as the coupled energy and food networks. We create and 
+improve an underload cascading failure with consideration of overload 
+limitation to assess the influence of RUW on the global energy and food 
+security. To fill the existing gap between knowledge and practice on this 
+topic, a scenario analysis is also used to reveal the global energy and 
+food security risks due to RUW through comparing different capacity 
+and load change and coupling modes to answer some important ques­
+tions: What would RUW bring to the global energy and food security? 
+What is the cascading failure process caused by RUW? Which are the key 
+and vulnerable countries that would be hurt by RUW? What are the best 
+means to mitigate the influence of RUW? Our findings offer significant 
+new insights that can reveal the impact degree of RUW and enable 
+policymakers to identify potential solutions to this global crisis."
+"2. Materials and methods 
+2.1. Global Network Data 
+According to the UN Comtrade Database, complex trade networks of 
+energy and food covering all import and export flows occurring between 
+238 countries in 2020 have been developed. We downloaded data on 
+“cereals” and “fossil fuels” on May 1st, 2020. To avoid double counting 
+between exporter and importer, which named reporter and partner in 
+the UN Comtrade Database, the information on the importers is 
+extracted as import data are usually more accurate (Shi et al., 2021)."
+"Furthermore, in the energy trade network, the more specific energy 
+types of coal, oil and gas are chosen to reveal their cascading failure 
+process. In the food trade network, only the cereals are considered, 
+especially barley, maize and wheat. The energy trade network and food 
+trade network are integrated according to the energy equivalent 
+(Tiewsoh et al., 2017) 
+2.2. Improved Cascading Failure Model 
+There are two basic cascading failure modes, one is overload 
+cascading failure, which is often used in infrastructure networks, and the 
+other one is under-load cascading failure, which is used in supply net­
+works. A complex network usually considers one kind of cascading 
+failure mode at the same time. The initial load, the capacity, the dis­
+tribution rule, and the failure rule are the four basic components of a 
+cascading failure model of a complex network (Wang et al., 2018). This 
+study establishes a newly improved under-load cascading failure model 
+with consideration of overload limitation (OLUCF). The main 
+improvement is that the model considers the under-load limitation and 
+overload limitation at the same time. However, different from the 
+existed cascading failure model, the overload limitation would not 
+induce nodes failure, the main function of overload limitation is that the 
+surplus load compared with the overload capacity would be canceled."
+"Only the actual load is lower than the under-load limitation, then the 
+cascading failure process will be stimulated. The reason is that in the real 
+energy and food systems, each country has its upper-limitation of pro­
+duction and consumption, once the actual load exceeds the 
+upper-limitation, they have trade amount self-adjustment ability when 
+the load is too high rather than destroy themselves. However, under the 
+background of economic globalization, once the actual load is lower 
+than the lower-limitation requirement, as the basic supply sector in the 
+economy system, the lack of the adequate energy and food will destroy 
+the country economy, and cause the cascading failure process."
+"In the OLUCF, only the loads of nodes are considered in the initial 
+load and capacity determination firstly. Then, to simulate the influence 
+of RUW, the nodes of Russian and Ukraine will be disrupted. During the 
+load distribution process, both the loads of nodes and edges will be 
+considered. During the distribution process, the export amount from 
+Russian or Ukraine will be distributed to other edges from other exporter 
+countries which has trade relationship with the targeted importer 
+country according to their initial loads proportionally. Furthermore, the 
+upper-limitation of node load capacity will be assigned to each edge 
+according to their initial loads proportionally. Once an edge’s load ex­
+ceeds its upper-limitation, the surplus amount will be distributed to 
+other edges from other countries which has trade relationship with the 
+targeted importer country. Then, subsequent overloads may occur."
+"Finally, after all the surplus capacity of other available nodes are 
+distributed, the undistributable trade amount will be deleted directly."
+"Then the failure rule may be triggered by the failed nodes, while the 
+export amount of export country or import amount of import country is 
+less than the minimum capacities, are forbidden from importing or 
+exporting food or energy. The dynamic progression of the OLUCF is 
+illustrated in Fig. 1."
+"In the step1, we use the export amounts of countries to measure the 
+initial load. The capacity of each country has upper and lower limits."
+"L0i = Exporti
+(1)  
+NCi(max) = αL0i, α ≥1
+(2)  
+NCi(min) =
+{
+βL0i, 0 < β < 1, Exporti > Importi
+βImporti, 0 < β < 1, Exporti < Importi
+(3) 
+In which, NCi(max) indicates the upper limit of node i, NCi(min) in­
+dicates the lower limit of node i, L0i indicates the initial load of node i, 
+Exporti indicates the export amount of food or energy of node i, Importi 
+indicates the import amount of food or energy of node i, α indicates the 
+fixed upper limit parameter, β indicates the fixed lower limit parameter."
+X.-Y. Zhou et al.
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+3
+In the step 2 and step 3, once Russian and Ukraine are disrupted, the 
+export amount from them will be distributed to other edges from other 
+exporter countries which has trade relationship with the targeted 
+importer country according to their initial loads proportionally."
+"EWkt = EWkt0 + EWnt ×
+EWkt0
+∑b
+j=1EWjt0
+(4) 
+In which, n indicates node Russian or Ukraine, t indicates countries 
+that import food or energy from Russian or Ukraine, k indicates coun­
+tries that export food or energy to t except Russian or Ukraine, b in­
+dicates the amount of nodes from node k to t, EWkt0indicates the initial 
+edge load from node k to t, EWnt indicates the initial edge load from node 
+n to t, ∑b
+j=1EWkt0 indicates the summation of the initial edge load from 
+all nodes j to t, EWkt indicates the edge nodes from k to t after load 
+redistribution."
+"In the step 4, the secondary load distribution happened, the upper- 
+limitation of node load capacity will be assigned to each edge accord­
+ing to their initial loads proportionally."
+"ECkt = NCk(max) ×
+EWkt0
+∑b
+j=1EWkt0
+(5)  
+ECmt = NCm(max) ×
+EWmt0
+∑b
+j=1EWmt0
+, m ∕
+= k
+(6)  
+EWkt =
+{
+EWkt, EWkt < ECkt
+ECkt, EWkt > ECkt
+(7)   
+EWmt =
+⎧
+⎪
+⎨
+⎪
+⎩
+EWmt +(EWkt −ECkt)×
+EWmt0
+∑b
+j=1EWmt0
+, EWkt > ECkt, EWmt < ECmt
+ECmt, EWkt > ECkt
+(8) 
+In which, ECkt indicates upper-limitation of edge load from k to t, 
+ECmt indicates upper-limitation of edge load from m to t, EWmt indicates 
+edge load from m to t."
+"Finally, after all the surplus capacity of other available nodes are 
+distributed, the undistributable trade amount will be deleted directly."
+"Then if the export amount of export country or import amount of import 
+country m in the energy or food network is lower than the lower limi­
+tation of node m, the failure rule will be triggered by the failed nodes m, 
+which are forbidden from importing or exporting food or energy."
+"To further reveal the possible coupling relationship between energy 
+and cereals network, and its influence on global energy and cereals 
+network. The coupling parameter between energy and food networks is 
+proposed, and simulated in OLUCF. It indicates that for the same 
+country, if its node load in the energy or food network is lower than the 
+limitation of the coupling value, then, the node in the other network 
+would be destroyed, no matter what the current node load is. It can be 
+recognized a new way to simulate cascading failure in the interdepen­
+dent networks with consideration of the simple relationship of symbiotic 
+relationship, which is different from the previous method that focus on 
+the edges establishment and weight calculation."
+"In addition, this study proposed a method to assess the network 
+structure characteristic including robustness and resilience, through 
+OLUCF simulation under different scenarios. The network robustness 
+strength means the ability to maintain its structure against RUW, which 
+is assessed through the following formula: 
+NRO = NENα=1
+TN
+, α = 1
+(9) 
+In which, NENα=1 indicates the effective nodes number in the 
+network after cascading failure simulation which α is set as 1, TN in­
+dicates the total nodes number in the network, NRO indicates the 
+network robustness strength."
+"The network resilience assessment including the resilience with only 
+consideration of the upper limitation increase of node load induced by 
+direct influence of RUW (NREd)and the resilience with consideration of 
+the upper limitation decrease of node load and node load increase 
+induced by the indirect influence from global panic of RUW (NREin)."
+"NREd indicates the recover ability of the network against RUW, and 
+NREind indicates the anti-damage ability against RUW and global panic."
+"NREd = NENα=a
+TN
+−NRO (a > 1)
+(10)  
+NREind = NENα=b
+TN
+−NRO (0 < b < 1)
+(11) 
+Fig. 1. Cascading failure process of the OLUCF  
+X.-Y. Zhou et al."
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+4
+In which, NENα=a indicates the effective nodes number in the 
+network after cascading failure simulation which α is set as a, NENα=b 
+indicates the effective nodes number in the network after cascading 
+failure simulation which α is set as b. The higher value of NREd and 
+NREind indicates the better resilience against RUW and the global panic."
+"The α value is obtained from the node load change ratio in the real 
+network. In this study, in order to exclude the impact of COVID-19, the 
+actual historical trade change trend from the most recent years of 2018- 
+2019 is adopted, we can find that most of the change ratio compared 
+with the current node load are in the range of 0.5-1.5, which is 
+accounted for 71.90% at least (table 1). Therefore, the value of α is set as 
+1.5 to calculate NREd and is set as 0.5 to calculate NREind. Researchers 
+can adopt their suitable α value according to their research requirement."
+"2.3. Scenarios design 
+To observe the possible risk of RUW on the global food and energy 
+security, four types of cascading failure modes are simulated with 
+different node load and capacity change rules, and network coupling 
+rules (table 2). The scenarios are set according to the parameters chosen 
+and value assignment. Furthermore, in the energy trade network, the 
+more specific energy types of coal, oil and gas are chosen to reveal their 
+cascading failure process. In the food trade network, only the cereals are 
+considered, especially barley, maize and wheat."
+"The node load indicates the total energy or food exports amount of a 
+country. The upper limitation of node load is assumed to be related with 
+the node load, it will increase 0 %-50% compared with current node load 
+in the upper limitation increase scenario and decrease 0 %-50% 
+compared with current node load in Load increase-Upper limitation 
+decrease scenario. Coupling parameter between food and energy 
+network. To identify the influence of coupling effect between energy and 
+food network on the global energy and food security, we assumed that 
+for the same country, if its node load in the energy or food network is 
+lower than the limitation of the coupling value, then, the node in the 
+other network would be destroyed, no matter what the current node 
+load is. Therefore, it should be a low value which indicates that the 
+coupling cascading failure process is not easy happened in the interde­
+pendent network. Therefore, the change range of the coupling param­
+eter is set between 0-0.4. Lower limitation of node load is a key 
+parameter that induced the cascading failure process in this process. It is 
+also the main improvement of OLUCF compared with the existed 
+cascading failure mode. Only the actual node load is lower than the 
+under-load limitation, then the cascading failure process will be stimu­
+lated which is more in line with reality. Once the actual load is lower 
+than the lower-limitation requirement, as the basic supply sector in the 
+economy system, the lack of the adequate energy and food will destroy 
+the country economy, and cause the cascading failure process. The 
+change range of the lower limitation of node load is set between 0.1-0.6."
+"To observe the critical threshold of the influence of each parameter on 
+the global energy and food network, the parameters value is set as a 
+series of number in a certain range. Then, the cascading failure results 
+with each parameters value combination can be obtained. The critical 
+threshold value can provide suggestions for risk identification and pre­
+vention of global energy and food security."
+"The first two scenarios are simulated in all of energy network 
+including coal, oil, gas, and the integrated energy network, and food 
+network including barley, maize, wheat and the integrated cereals 
+network. In the first scenario of upper limitation increase of node load, 
+we will observe the influence change of RUW on the global food and 
+energy security along with the countries’ production ability increase and 
+the ability to resist risk of import and export ratio decrease. The pro­
+duction ability increase can be presented by the parameter value in­
+crease of upper limitation of node load, and the ability to resist risk of 
+import and export ratio decrease can be indicated by the parameter 
+value increase of the lower limitation of node load. The second scenario 
+of load increase and upper limitation decrease is established based on 
+the assumption that to prevent the hurt of global panic induced by the 
+RUW on the local food and energy security, the import country would 
+increase their import demand, and the export country would decrease 
+their exporter demand. The difference compared with the first scenario 
+is that the parameter of node load increases 
+The last two scenarios are only simulated in the integrated energy 
+and cereals network, which assumed that the node failure in the inte­
+grated energy or cereals network would induce the node failure in the 
+other network, which can be recognized as cascading failure in inter­
+dependent networks (Duan et al., 2019). In this study the cascading 
+failure process in interdependent networks happened through the 
+coupling parameters of food and energy networks. The third scenario is 
+based on the first scenario with consideration of the coupling process 
+between food and energy networks. The fourth scenario is based on the 
+second scenario with consideration of the coupling process between 
+food and energy networks. The coupling effect is presented by the value 
+of coupling parameter between food and energy network. The higher of 
+the value, the easier happen of the coupling cascading failure process in 
+the interdependent networks."
+"3. Results and Discussion 
+3.1. Global energy and cereals contribution of Russian and Ukraine 
+It can be found that Russian and Ukraine contributes 12.09% to the 
+global energy trade, while Russian accounted for 12.01%. Fig. 2 shown 
+that the countries with highest imports percentage from Russian were 
+mostly located in the Europe and Asia. It also indicates that they may 
+more easily been influenced by RUW. Focusing on specific energy types, 
+it can be found that Russian and Ukraine contributes 15.60% to the 
+global coal trade, 11.34% to the global oil trade and 10.00% to the 
+global gas trade, while Russian accounted most of the export amount."
+"In the global cereals trade network, the pattern is quite different from 
+the energy network. It can be found that Russian and Ukraine contrib­
+utes 18.83 % to the global cereals trade, while Russian and Ukraine 
+nearly accounted for the same ratio. Fig. 2 shown that the countries with 
+highest imports percentage from Russian and Ukraine were mostly 
+located in the Africa, Europe and Asia. It also indicates that they may 
+more easily been influenced by RUW. Focusing on specific cereals types, 
+it can be found that Russian and Ukraine contributes 19.55% to the 
+global barley trade, 14.44% to the global maize trade and 10.00% to the 
+global wheat trade, while Russian accounted most of the export amount."
+"While for barley, the nearly accounted for the same ratio, for maize, 
+Ukraine accounted most of the contribution, and for wheat, Russian 
+accounted for the 66.66% among the contribution of them."
+"From the view of exports countries of cereals and energy from 
+Russian and Ukraine, it can be found that they are mostly of the coun­
+tries with relative lower economy scale. The export amounts of energy 
+only accounted for 6.30% of the total imports amount of the United 
+States, and 12.68 in China, which are mainly come from Russian. While 
+for cereals, they only accounted for 0.17% in the United States and 23.11 
+% in China, which are mainly come from Ukraine."
+"3.2. Influence of RUW on global energy security 
+Influence of RUW on global energy trade network can be found 
+through OLUCF simulation under different scenarios. While LLNL is 
+Table 1 
+Frequency distribution of α value in the energy and food network  
+Range 
+Energy 
+Food 
+Coal 
+Gas 
+Oil 
+Barley 
+Maize 
+Wheat 
+<0.5 
+6.25% 
+8.65% 
+9.39% 
+14.77% 
+8.96% 
+10.46% 
+<1.5&>0.5 
+78.13% 
+75.00% 
+80.11% 
+73.86% 
+72.39% 
+71.90% 
+>1.5 
+15.63% 
+16.35% 
+10.50% 
+11.36% 
+18.66% 
+17.65%  
+X.-Y. Zhou et al."
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+5
+determined, it can be found that along with the increase of upper- lim­
+itation of node load, the number of retained countries become more."
+"Once the upper-limitation increase to 120% of the current node load, all 
+of the four types of energy network would maintain 80% of the coun­
+tries. The integrated energy network and oil trade network have the 
+strongest robustness against RUW, they can maintain more than 80% of 
+the countries, even though other countries have no extra production 
+ability. while coal trade network is more easily influenced by RUW, once 
+other countries have no extra coal production ability, only 42.92% of the 
+countries are left in the network. Furthermore, the existed countries 
+number of integrated energy network, oil trade network and gas 
+network would recover to 94.12%, 93.67% and 80.70% while ULNL 
+increase to 105%, and it requires ULNL increase to 115% to maintain the 
+existed countries number of coal network at a high level. Therefore, 
+RUW have more influence on coal and gas trade network than oil 
+network. Through the separate simulation of node failure of Russian and 
+Ukraine, it can be found that it is Russian that mainly influence the 
+global energy trade network. Through observation of the influence 
+change along with LLNL increase while ULNL is equal to 0.3, it can be 
+found that due to the adequate upper limitation of node load, the LLNL 
+change has little influence on global energy network. There is still more 
+than 92.52% existed in the network under attacks. Among them, the gas 
+and coal trade networks are more easily influenced by LLNL change, it 
+indicates that the average exports amount percentages of gas and coal 
+contributes from Russian are higher than oil and the integrated energy."
+"Under the LIULDS, it can be found that RUW would produce much 
+larger influence than their actual energy export amount due to ampli­
+fication effect of energy demand and storage from fears of energy 
+shortages. The integrated energy trade network and oil trade network 
+presented their strong robustness against RUW that they can still 
+maintain more than 40. 75% of the countries while the node load in­
+crease to 50 %, the upper limitation of node load decrease to 50 %, and 
+LLNL is equal to 0.4. The coal and gas network can only maintain 9.13 % 
+and 3.95 % of the countries in the final. While ULNL is equal to 0.3, it 
+can be found that the coal and gas trade network would be nearly 
+destroyed dramatically, the effective countries of the integrated energy 
+and oil trade network would be also reduced significantly, which only 
+57.14 % and 61.18 % of the countries are maintained."
+"Through comparison of Fig. 3a, 3b and 3c,3d, it can be concluded 
+that the vulnerability of the gas trade network is the highest, once the 
+network upper limitation is reduced and the node load increase, it will 
+be easily influenced by RUW. However, it also has relative strong 
+resilience, once the upper limitation of node load increase 5%, then the 
+effective nodes ratio will increase from 55.70 % to 80.70 %. The 
+parameter of upper limitation of node load has the dominant function on 
+the global energy security, while the influence of lower limitation 
+parameter of node load has limited function. Under ULIS, which is the 
+optimistic and simple scenario, if all of the energy exporter countries 
+own more than 15% surplus production ability, all of the four types of 
+energy network can maintain at least 87.72% of the country nodes."
+"However, under LIULDS, which can be recognized as the extreme situ­
+ation caused by the global energy security, the global energy trade 
+network can be hurt obviously, especially the coal and gas trade 
+network. During RUW, the energy exports change of Russian plays the 
+key role on the global energy trade network compared with Ukraine, 
+which is consistent the results of the 3.1 section."
+"3.3. Influence of RUW on global cereals security 
+The Influence of RUW on global cereals trade network can be 
+assessed through OLUCF simulation under different scenarios. While 
+LLNL is set 0.4, the increase of upper-limitation of node load would 
+recover the effective country nodes of the cereals network. Among the 
+four types of cereals network, the integrated cereals network can recover 
+most quickly following by maize trade network, while there are 20% 
+surplus capacity of other countries, they can reserve 97. 47 % and 
+92.00% of the total country nodes separately. The wheat trade network 
+is influenced most significantly by RUW. Until there are 35% surplus 
+capacity of other countries, it can reserve 91.73% effective country 
+nodes. Specially, the influence of RUW on the barley trade network is 
+limited, and have little recovery along with the increase of upper limi­
+tation of node load, it indicates that in the barley trade network, the 
+export destination countries from Russian and Ukraine is limited, so as 
+the import sources diversity of the countries which import barley from 
+Russian and Ukraine. Therefore, RUS can only destroy restricted country 
+numbers, and these countries are not easy obtain barley from other 
+countries. Russian has greater influence on wheat trade network, while 
+Ukraine has greater influence on maize trade network. Through obser­
+vation of the influence change along with LLNL increase while ULNL is 
+equal to 0.3, it can be found that RUW has more obvious influence on the 
+cereals network, especially the wheat trade network compared with the 
+energy trade network. The cereals trade network requires more upper 
+limitation of node loads in order to protect the network integrity 
+compared with the energy trade network. What is more, RUW would 
+induce the wheat supply of 20 % of the total countries less than 40 %."
+"Fig. 4c presents some different results compared with the energy 
+network. In the energy network, gas network is most significantly 
+influenced by RUW under ULIS and LIULDS. In the cereals network, the 
+wheat network shows its vulnerability and the barley network shows its 
+robustness facing RUW under ULIS. However, under LIULDS, along with 
+the upper limitation of node load decrease and node load increase, the 
+barley network present opposite characteristic. The reason is that, the 
+barley trade network is little relied on Russian and Ukraine and is 
+strongly relied on other countries. The global scare of food shortage 
+induced by RUW would change the upper limitation of food export 
+amount, although RUW could not directly influence the global barley 
+trade network. The indirect influence of RUS would significantly hurt 
+the export amount from other countries, and finally lead to the collapse 
+of barley network. The maize trade network has nearly the same char­
+acteristic with the barley network, while the wheat network shows 
+opposite characteristic that has relative vulnerability under ULIS and 
+robustness under LIULDS. The integrated cereals networks maintain 
+strong robustness under the two scenarios. The parameter of upper 
+limitation of node load has the dominant function on the global cereals 
+Table 2 
+Scenarios design  
+Parameters Scenarios 
+Network 
+Upper limitation of 
+node load (ULNL) 
+Node load 
+(NL) 
+Coupling parameter 
+between food and energy 
+network 
+Lower limitation of 
+node load (LLNL) 
+Upper limitation increase 
+scenario (ULIS) 
+Coal, oil, gas and the integrated energy network, 
+barley, maize, wheat and the integrated cereals 
+network 
+Increase (0-0.5) 
+Constant 
+- 
+Increase(0.1-0.6) 
+Load increase-Upper limitation 
+decrease scenario (LIULDS) 
+Decrease(0-0.5) 
+Increase(0- 
+0.5) 
+- 
+Increase(0.1-0.6) 
+ULIS with consideration of 
+Coupling 
+The integrated energy and cereals network 
+Increase (0-0.5) 
+Constant 
+Increase (0-0.4) 
+Increase 
+LIULDS with consideration of 
+Coupling 
+Decrease (0-0.5) 
+Increase(0- 
+0.5) 
+Increase (0-0.4) 
+Increase(0.1-0.6)  
+X.-Y. Zhou et al."
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+6
+security, while the influence of lower limitation parameter of node load 
+has more obvious function compared with the energy trade network."
+"3.4. Influence of RUW on global coupled energy and cereals security 
+In the current coupling effect research of energy and food systems, 
+they are mainly carried out from the area of water–energy–food nexus 
+research based on the methods of integrated index, computable general 
+equilibrium model, ecological network analysis, life-cycle analysis, 
+input-output analysis, system dynamics model, agent-based modeling, 
+etc (Endo et al., 2020). They can reveal overall status of coupled energy 
+and food systems, and the linkage strength between energy and food 
+systems. The coupling effect are revealed based on the indicators cor­
+relation and flow amount. However, the cascading failure mode have 
+Fig. 2. The imports percentage of top 15 countries with highest contribution of food and energy, United States and China from Russian and Ukraine  
+X.-Y. Zhou et al."
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+7
+not been used in the coupled effect research of energy and food systems."
+"OLUCF can reveal the robustness, resilience, and the ability to resist risk 
+of the energy and food network, and can also identify the influence of a 
+certain disaster on the energy and food network through simulated 
+strike. The results can provide direct support for global energy and food 
+security management. The coupling parameter is firstly proposed to 
+observe the influence of coupling effect of energy and food systems on 
+the global energy and food security. We assumed the possible coupling 
+strength between energy and food networks, then, we observed that 
+under the specific coupling parameter value, what would happen to the 
+coupled energy and food networks, and the influence on the global en­
+ergy and food security. The results can tell us what is the influence 
+Fig. 3. Influence of RUW on global energy trade network under ULIS and LIULDS  
+X.-Y. Zhou et al."
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+8
+extent that the coupling effect would bring to the global food and energy 
+systems, the possible risky nodes and risk transfer path, and the critical 
+risky threshold."
+"To further reveal the possible coupling relationship between energy 
+and cereals network, and its influence on global energy and cereals 
+network. The coupling parameter between energy and cereals networks 
+is proposed, and simulated in OLUCF. It can be found that under ULIS, 
+while ULNL and LLNL is set as 0.3 and as 0.4 separately, the global 
+energy and cereals networks has adequate potential to face the crisis of 
+RUW, and the coupling parameter has nearly no influence on them."
+"Fig. 4. Influence of RUW on global cereals trade network under ULIS and LIULDS  
+X.-Y. Zhou et al."
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+9
+Under LIULDS, the integrated energy and cereals network would have 
+relative more reduction of the effective country nodes with consider­
+ation of the coupling process compared with the scenarios without 
+consideration of the coupling process. The effective country nodes in the 
+integrated energy network would reduce from 69.75 % to 56. 30% while 
+the coupling parameter value is set as 0.40, and the effective country 
+nodes in the integrated cereals network would reduce from 54.43 % to 
+51. 05% while the coupling parameter value is set as 0.40. The result 
+indicates that although RUW has more significant influence on the ce­
+reals network than energy network, the coupling parameter would 
+enhance more influence RUW on energy network than cereals network."
+"The more important point is that, under LIULDS, along with the stronger 
+coupling strength between the energy and food network, the easier to be 
+destroyed by the specific disaster. The critical threshold is 0.05, it in­
+dicates that for the same country, if its node load in the energy or food 
+network is lower than 0.05, then, the node in the other network would 
+not be easily destroyed."
+"3.5. Network Robustness and Resilience 
+This study proposed a method to assess the network robustness and 
+resilience characteristic against RUW under ULIS and LIULDS. Through 
+observation of the bubble size of network in Fig. 5, it can be found that in 
+the energy network, the integrated energy and oil network have the 
+strong robustness against RUW, and in the food network, the cereals and 
+barley network have the strong robustness against RUW. Through 
+observation of NREd and NREind value, it can be found that the coal, 
+cereals and wheat networks have the strong ability of recover and anti- 
+damage against RUW and global panic, while gas and maize network 
+have relative strong recover ability and low anti-damage ability. Totally, 
+all of the networks have relative consistent recover and anti-damage 
+ability against RUW and the global panic except barley network. The 
+barley network has low recover ability and anti-damage ability."
+"It can be also found that the there is no positive correlation between 
+robustness and resilience. The strong robustness of barley network does 
+not bring its strong resilience against RUW. It indicates that in the barley 
+network, Russian and Ukraine have limited contribution to the global 
+exports, and other main countries own the large ratio of global exports."
+"The low robustness of coal network does not mean its low resilience 
+ability. It indicates that Russian and Ukraine have dominant role in the 
+global coal exports, however, the role can be easily replacement by other 
+coal exports countries. For the network of the integrated energy and oil 
+network, they have strong robustness, it indicates Russian and Ukraine 
+have normal contribution to the global exports, at the same time, there 
+are other countries with similar oil export scale that although they can 
+not completely share the oil exports amount of Russian and Ukraine, 
+they have the ability of anti-damage by RUW and the global panic. Fig. 6 
+3.6. Typical influence process of RUW 
+The typical influence process of RUW on the global energy and ce­
+reals network are assessed while the upper limitation of node load is set 
+as 0.3 and the lower limitation of node load is set as 0.4 under ULIS and 
+LIULDS. Under ULIS, there’s no failure node in both of the energy and 
+cereals network except Russian and Ukraine. The trade flow amounts 
+have been changed a little, the total trade flow amount is reduced by 
+1.05%, in the energy network, while in the cereals network, the total 
+trade flow amount is reduced by 0.71%. However, the influenced 
+countries nodes in the energy network are more concentrated, while it is 
+more disperse in the cereals network. The trade relationship edges have 
+been reduced from 10260 to 9832 in the energy network, while in the 
+cereals network, it has been reduced from 8528 to 8113. Through 
+observation of the trade flow pattern, it can be found that there is some 
+difference between energy network and cereals network. Without 
+consideration the political relationship, it can be found that RUW would 
+cause the significant reduction of energy trade flow from Russian to 
+China, so as the flow to Korea Republic, Netherlands, Germany, Italy and 
+Japan, while these influenced countries would search for replacement, 
+such as the flow increment from Indonesia, Australia and Saudi Arabia 
+to China, Norway to Germany, Canada to United States, Nigeria to 
+Turkey, etc. RUW would cause the obvious cereals trade reduction from 
+Russian and Ukraine to Egypt, Russian to Turkey and Saudi Arabia, and 
+Ukraine to Spain, Netherlands, Indonesia, Turkey and Korea Republic."
+"Then, these influenced countries would search for replacement such as 
+France, Romania, United States and Australia to Egypt, United States 
+and Canada to China, etc."
+"Considering the information of international relations order and 
+geographical relationship, some more specific results we can obtain. The 
+energy imports status of China may still maintain a normal level. The 
+energy imports of Germany, Italy, Netherlands, Japan and Korea Re­
+public would be vastly reduced. Especially, the long-term low-carbon 
+energy transformation has decreased their dependency on the coal en­
+ergy. At the same time, the clean energy ratio can not be increased in a 
+short period, the limited land area in these countries has also restricted 
+the potential of photovoltaic energy (Dupont et al., 2020). Therefore, 
+there are three suggestions: Firstly, they should not only enhance the 
+imports amount from the existed energy exports countries, the other 
+newly energy trade relationship should be also established with other 
+energy exports countries. Although, it would indicate higher trans­
+portation cost. For the countries themselves, they should further develop 
+suitable new energy resources such as nuclear energy, wind energy, etc."
+"They may even re-enable coal-based thermal power plant to deal with 
+the urgent energy security crisis, even though it would induce 
+short-term carbon emission increment. Secondly, the obvious suggestion 
+is that other energy exports countries should enhance the ability of en­
+ergy exports to deal with the global energy crisis. Lastly, the RUW does 
+not indicate the absolute reduction of energy exports from Russian and 
+Ukraine. The countries which have good relationship with Russian can 
+Fig. 5. Influence of RUW on coupled energy and cereals networks under ULIS and LIULDS  
+X.-Y. Zhou et al."
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+10
+support as transfer station for energy trade, such as China."
+"For the food security, the food imports of Egypt, Turkey, Saudi 
+Arabia, Spain, Netherlands, Indonesia, and Korea Republic would be 
+vastly reduced. Similarly, they should not only enhance the imports 
+amount from the existed food exports countries, the other newly food 
+trade relationship should be also established with other food exports 
+countries. Although, it would indicate higher transportation cost. The 
+other food exports countries should enhance the ability of food exports 
+to deal with the global crisis."
+"Under the LIULDS with consideration the global panic, it can be 
+found that, large ratio of countries nodes is destroyed or hurt, including 
+72 countries nodes in the energy network and 108 countries nodes in the 
+cereals network. Most of the failure nodes are the little countries without 
+adequate concentration in the current media such as Afghanistan, 
+Pakistan, Algeria, Libya, Oman, Tunisia in the Africa and Central Asian."
+"There are also 1644 edges in the energy network and 3211 edges in the 
+cereals network are destroyed. The energy trade flow edges with large 
+reduction include edges from Canada to United States, from Russian, 
+Indonesia, and Saudi Arabia to China, from Australia to Japan, etc. The 
+edges with large increment include edges from Canada to Japan, Nigeria 
+to United States, Canada and Nigeria to China, and United States to 
+Turkey. In the cereals network, the trade flow amount of the main edges 
+including from Russian to Egypt and Turkey, United States to Mexico 
+and Japan, Ukraine and Canada to China are reduced. The partial results 
+are consistent with the influence judgement of RUW on the Egypt and 
+Turkey from Lang et al (2022) Fig. 7."
+"A key phenomenon we should concern is that the largest trade flow 
+amounts are not occurred in the failure nodes. The reason is that always 
+the countries with large economic scale have more energy and food 
+requirement, at the same time, they have more diversity of energy and 
+cereals types and supply sources, and are more able to resist the risk of 
+war. However, the failure nodes are always the countries with low 
+economic scale and political status, they are unable to handle the risky 
+caused by war, under the global panic, they do not have much more 
+approaches to search for supply replacement of energy and cereals, and 
+are more easily trapped in the crisis of energy and food shortages."
+"4. Conclusions 
+This study established an improved under-load cascading failure 
+model, and can support for assessment of risky and influence process in 
+the energy cereals network due to Russian and Ukraine War."
+"4.1. Policy implication 
+Based on the model simulation, we firstly can find that the impor­
+tance of Russian and Ukraine on the global energy and cereals network."
+"In the energy networks, the gas and coal trade networks are more 
+significantly influenced by RUW than the oil network. In the cereals 
+networks, RUW has more influence on wheat trade network. Totally, the 
+cereals networks are more easily influenced by RUW than the energy 
+networks."
+"Through scenario simulation, it can be found that the parameter of 
+upper limitation of node load has the dominant function on the global 
+energy and food security, while the influence of lower limitation 
+parameter of node load has limited function. It reminds us that we 
+should keep reserved capacity of energy and cereals as more as possible 
+to resist the risk such as war, global warm and epidemic. We can also 
+find that the integrated energy and cereals network has more robustness 
+and resilience compared with the single type of network. The results tell 
+us the energy substitution is an effective way to handle the risk of RUW."
+"The more diversity of energy types was developed, the more able to 
+survival in the risky world."
+"The lower limitation parameter of node load has limited influence on 
+Fig. 6. Network Robustness and Resilience under ULIS and LIULDS. Note: the bubble size indicates the robustness strength of each network. The higher value of 
+NREd and NREind indicates the better resilience against RUW and the global panic. The black lines with arrow indicate the average value of NREd and NREind of the 
+eight networks."
+X.-Y. Zhou et al.
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+11
+the global energy and cereals network with only consideration of the 
+direct influence of RUW. However, if the global panic of energy and food 
+shortages caused by RUW are assessed in the simulation, it would induce 
+the global disasters. Even the integrated energy and cereals trade 
+network can only maintain nearly 40. 75% and 54.43 of the effective 
+countries’ nodes. The results further strengthen the importance of 
+enhance production ability and energy types to realize to resist the risk 
+of RUW. The critical threshold of upper limitation and lower limitation 
+of node load to protect global energy and food security is also obtained, 
+totally we should try to maintain the export capability of the main 
+exporting countries higher than 20 % to resist risky of RUW. With 
+consideration of the global panic, we should try to maintain the export 
+capability no less than 5%. The possible coupling relationship between 
+energy and cereals network has limited influence on the global energy 
+and cereals network with only consideration of the direct influence of 
+RUW. Under LIULDS, the influence of the coupling effect on the energy 
+and cereals network are amplified. What’s more, the result indicates that 
+although RUW has more significant influence on the cereals network 
+than energy network, the coupling parameter would enhance more in­
+fluence RUW on energy network than cereals network."
+"Through network characteristic comparison of robustness and resil­
+ience, it can be found that the coal, cereals and wheat networks have the 
+strong ability of recover and anti-damage against RUW and global panic, 
+while gas and maize network have relative strong recover ability and 
+low anti-damage ability. Totally, all of the networks have relative 
+consistent recover and anti-damage ability against RUW and the global 
+panic except barley network. The barley network has low recover ability 
+and anti-damage ability. There is no positive correlation between 
+robustness and resilience. The strong robustness of barley network does 
+not bring its strong resilience against RUW. It indicates that in the barley 
+network, Russian and Ukraine have limited contribution to the global 
+exports, and other main countries own the large ratio of global exports."
+"The low robustness of coal network does not mean its low resilience 
+ability. It indicates that Russian and Ukraine have dominant role in the 
+global coal exports, however, the role can be easily replacement by other 
+coal exports countries."
+"The detailed influence process of RUW on the global energy and 
+cereal network can be also revealed through the OLUCF established in 
+this study. The results tell us that RUW would induce global energy and 
+food security crisis for all of the countries, the big countries with large 
+economic scale would face relative obvious reduction crisis of energy 
+and food supply, and the little and poor countries with small economic 
+scale would be more easily collapsed. Therefore, the existed interna­
+tional energy and food security organizations should try to balance the 
+global security demand between big countries and small countries to 
+avoid the big countries to import and store too much energy and food 
+that the other small countries are unable to maintain their energy and 
+food security. Some new global powerful organizations can also be 
+established to perform this function. We should pay more attention to 
+the little and poor countries with small economic scale and low political 
+status, which are the failure nodes in our mode simulation under 
+LIULDS, especially the countries in the Africa and Asia to handle the risk."
+We should provide more energy and food supply for them.
+"4.2. Model applicability and limitation 
+The model established in this study can tell us the influence of RUW 
+on the global energy and cereals networks quantificationally. The net­
+works robustness and resilience against RUW can be also revealed based 
+on the method of this study. The key weak points in the complex 
+network and influence process can be also obtained under the specific 
+circumstance. The model can also support for other events influence 
+assessment, especially for the evaluation of material flow network such 
+as energy, food, information, metals and other important materials."
+"Fig. 7. Typical influence process of RUW under ULIS and LIULDS. Note: the trade flow change with the top 15 change amounts is presented including the increase 
+amount and decrease amount respectively."
+X.-Y. Zhou et al.
+""
+"Resources, Conservation & Recycling 188 (2023) 106657
+12
+There’s still some deficiencies require improvement in the future 
+research. First of all, in this study, the international relationships are not 
+considered in the current research, the energy and food flow are 
+determined based on the existed flow load, however, the political ten­
+dency would greatly change their decision. The influence factors of 
+geography, politic and international relations order should be quantified 
+and concerned in the future research (Theocharis and Jungherr., 2021)."
+"The related knowledge of computational communication studies and 
+political communication sciences can be further introduced to observe 
+the influence of theses factors on the energy and food networks. Then 
+the robustness and resilience of the evolved network can be obtained 
+based on the OLUCF. Secondly, in the influence assessment of RUW, we 
+assumed that Russian and Ukraine are completely destroyed as the 
+initial failure nodes, although the current results can provide us guid­
+ance to identify the global energy and cereals network weakness and 
+risky. It possibly won’t happen in fact, so it requires us to further assess 
+the influence of RUW on exports ability of Russian and Ukraine. Only the 
+direct relationship between imports and exports countries are consid­
+ered in the current research. The intermediate nodes can be further 
+considered that import energy and food from the initial destroyed 
+countries and exports to other nodes. Lastly, to achieve more available 
+results, the more scenarios can be set and simulated based on the key 
+parameter combination of upper-limitation node, lower-limitation node, 
+coupling effect with or without consideration the global panic of RUW."
+"Data Availability 
+The data that support the findings of this study are available from the 
+corresponding author upon reasonable request."
+"CRediT authorship contribution statement 
+Xi-Yin Zhou: Conceptualization, Methodology, Software, Valida­
+tion, Formal analysis, Investigation, Data curation, Writing – original 
+draft, Writing – review & editing, Visualization, Project administration."
+"Gang Lu: Writing – review & editing. Zhicheng Xu: Writing – review & 
+editing. Xiaoqing Yan: Writing – review & editing. Soon-Thiam Khu: 
+Conceptualization, Formal analysis. Junfeng Yang: Conceptualization, 
+Formal analysis. Jian Zhao: Writing – review & editing, Project 
+administration."
+"Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper 
+Data Availability 
+Data will be made available on request."
+"Acknowledgments 
+This research was supported by the National Key Research and 
+Development Program of China (2021YFC3201505) and the Major Sci­
+ence and Technology Program for Water Pollution Control and Treat­
+ment (2017ZX07301-003)."
+"References 
+Blanchard, O., Pisani-Ferry, J., 2022. Fiscal support and monetary vigilance: Economic 
+policy implications of the Russia-Ukraine war for the European Union (No. PB22-5)."
+"Benton, T., Froggatt, A., Wellesley, L., et al., 2022. The Ukraine war and threats to food 
+and energy security."
+"Deng, M., Leippold, M., Wagner, A.F., Wang, Q., 2022. Stock Prices and the Russia- 
+Ukraine War: Sanctions, Energy and ESG. Swiss Finance Institute Research Paper 
+22–29."
+"D’Odorico, P., Davis, K.F., Rosa, L., et al., 2018. The global food-energy-water nexus."
+"Reviews of geophysics 56 (3), 456–531."
+"Duan, D., Lv, C., Si, S., Wang, Z., Boccaletti, S., 2019. Universal behavior of cascading 
+failures in interdependent networks. Proceedings of the National Academy of 
+Sciences 116 (45), 201904421."
+"Dupont, E., Koppelaar, R., Jeanmart, H., 2020. Global available solar energy under 
+physical and energy return on investment constraints. Applied Energy 257, 113968."
+"Endo, A., Yamada, M., Miyashita, Y., et al., 2020. Dynamics of water–energy–food nexus 
+methodology, methods, and tools. Current Opinion in Environmental Science & 
+Health 13, 46–60."
+"Gaupp, F., 2020. Extreme events in a globalized food system. One Earth 2 (6), 518–521."
+"Guo, H., Zheng, C., Iu, H.H.C., Fernando, T., 2017. A critical review of cascading failure 
+analysis and modeling of power system. Renewable and Sustainable Energy Reviews 
+80, 9–22."
+"Havlin, S., Kenett, D. Y., 2015. Cascading failures in interdependent economic networks."
+"In Proceedings of the International Conference on Social Modeling and Simulation, 
+plus Econophysics Colloquium 2014 (pp. 87-97). Springer, Cham."
+"Kruczkiewicz, A., Klopp, J., Fisher, J., Mason, S., Braneon, C., 2021. Compound risks and 
+complex emergencies require new approaches to preparedness. Proceedings of the 
+National Academy of Sciences 118 (19)."
+"Lee, K.M., Goh, K.I., 2016. Strength of weak layers in cascading failures on multiplex 
+networks: case of the international trade network. Scientific reports 6 (1), 1–9."
+"Liu, S., Yin, C., Chen, D., Lv, H., Zhang, Q., 2021. Cascading failure in multiple critical 
+infrastructure interdependent networks of syncretic railway system. IEEE 
+Transactions on Intelligent Transportation Systems."
+"Li, S., Li, L., Yang, Y., Luo, Q., 2012. Revealing the process of edge-based-attack 
+cascading failures. Nonlinear Dynamics 69 (3), 837–845."
+"Lang, T., McKee, M., 2022. The reinvasion of Ukraine threatens global food supplies. bmj 
+376."
+"Mbah, R.E., Wasum, D.F., 2022. Russian-Ukraine 2022 War: A review of the economic 
+impact of Russian-Ukraine crisis on the USA, UK, Canada, and Europe. Adv. Soc. Sci."
+"Res. J 9, 144–153."
+"Mengoub, F. E., Dadush, U., Ali, A. A., Tsakok, I., 2022. The Russia-Ukraine War and 
+Food Security in Morocco."
+"Meena, K.L., 2022. Impact of Russia Ukraine War on Indian Economy. Academic Journal 
+of Digital Economics and Stability 16, 54–62."
+"Mammadov, E., 2022. The Economic Consequences of Russia-Ukraine War for 
+Azerbaijan. Available at SSRN 4058963."
+"Oxford Analytica, 2022a. Russia-Ukraine war will impede China’s economy. Emerald 
+Expert Briefings (oxan-db)."
+"Oxford Analytica, 2022b. Ukraine-Russia war will dent Japan’s economy. Emerald 
+Expert Briefings (oxan-db)."
+"Osendarp, S., Verburg, G., Bhutta, Z., et al., 2022. Act now before Ukraine war plunges 
+millions into malnutrition."
+"Ruhl, J.B., 2019. Governing Cascade Failures in Complex Social-Ecological- 
+Technological Systems: Framing Context, Strategies, and Challenges. Vand. J. Ent. & 
+Tech. L., 22, 407."
+"Ren, W., Wu, J., Zhang, X., Lai, R., Chen, L., 2018. A stochastic model of cascading 
+failure dynamics in communication networks. IEEE Transactions on Circuits and 
+Systems II: Express Briefs 65 (5), 632–636."
+"Tollefson, J., 2022. What the war in Ukraine means for energy, climate and food. Nature 
+604 (7905), 232–233."
+"Tiewsoh, L.S., Sivek, M., Jir´
+asek, Jakub., 2017. Traditional energy resources in india 
+(coal, crude oil, natural gas): a review. Energy Sources Part B Economics Planning & 
+Policy 12 (2), 110–118."
+"Theocharis, Y., Jungherr, A., 2021. Computational social science and the study of 
+political communication. Political Communication 38 (1), 1–22. -2."
+"Smolyak, A., Levy, O., Shekhtman, L., Havlin, S., 2018. Interdependent networks in 
+Economics and Finance—A Physics approach. Physica A: Statistical Mechanics and 
+its Applications 512, 612–619."
+"Shi, J., Zhang, C., Chen, W.Q., 2021. The expansion and shrinkage of the international 
+trade network of plastic wastes affected by China’s waste management policies."
+"Sustain. Prod. Consum 25, 187–197."
+"Wang, X., Li, H., Yao, H., Zhu, D., Liu, N., 2018. Simulation analysis of the spread of a 
+supply crisis based on the global natural graphite trade network. Resour. Pol. 59, 
+200–209."
+"Xing, L., 2020. Cascading failures in internet of things: review and perspectives on 
+reliability and resilience. IEEE Internet of Things Journal 8 (1), 44–64."
+"Yang, Q., Scoglio, C.M., Gruenbacher, D.M., 2021. Robustness of supply chain networks 
+against underload cascading failures. Physica A: Statistical Mechanics and its 
+Applications 563, 125466."
+"Zhu, Y., Yan, J., Sun, Y., He, H., 2014. Revealing cascading failure vulnerability in power 
+grids using risk-graph. IEEE Transactions on Parallel and Distributed Systems 25 
+(12), 3274–3284."
+"Zhao, J., Li, D., Sanhedrai, H., Cohen, R., Havlin, S., 2016. Spatio-temporal propagation 
+of cascading overload failures in spatially embedded networks. Nature 
+communications 7 (1), 1–6."
+"˙
+Zuk, P., ˙
+Zuk, P., 2022. National energy security or acceleration of transition, Energy 
+policy after the war in Ukraine. Joule 6 (4), 709–712."
+X.-Y. Zhou et al.
+""

@@ -1,0 +1,2693 @@
+Paragraph
+"International Review of Financial Analysis 87 (2023) 102598
+Available online 17 February 2023
+1057-5219/© 2023 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+"The impact of the Russian-Ukrainian war on global financial markets☆ 
+Marwan Izzeldin a, Yaz Gülnur Murado˘
+glu b, Vasileios Pappas c,*, Athina Petropoulou d, 
+Sheeja Sivaprasad e 
+a Lancaster University, Lancaster LA1 4YW, UK 
+b Queen Mary University of London, E1 4NS UK 
+c University of Kent, Kent ME4 4TE, UK 
+d SOAS University of London, WC1H 0XG, UK 
+e University of Westminster, London NW1 5LS, UK   
+A R T I C L E  I N F O   
+JEL classification: 
+G15 
+C24 
+Keywords: 
+Ukraine war 
+Financial markets 
+HAR 
+Markov switching 
+Commodities 
+A B S T R A C T   
+On February 24, 2022, Russia invaded the Ukraine. In this paper, we analyze the response of European and global 
+stock markets alongside a representative sample of commodities. We compare the war response against the 
+recent Covid-19 pandemic and the not-too-distant 2008 global financial crisis. Applying a Markov-switching 
+HAR model on volatility proxies, estimates are made of synchronization, duration and intensity measures for 
+each event. In broad terms, stock markets and commodities respond most rapidly to the Russian invasion; and 
+post-invasion crisis intensity is noticeably smaller compared to both the Covid-19 and the GFC. Wheat and nickel 
+are the most affected commodities due to the prominent exporter status of the two countries."
+"1. Introduction 
+On February 24, 2022 Russia invaded the Ukraine. Moscow's MOEX 
+index dropped almost 9% in the week following the invasion (Financial 
+Times, 2022d). Stock market indices also registered significant losses, as 
+Fig. 1 shows. Far-reaching effects in Europe, and possibly the world, are 
+only beginning to unfold. Supply chain disruptions amplify the upsurge 
+in commodity prices, while a massive refugee influx unfolds with almost 
+7 million Ukrainians escaping their country.1 
+The economic sanctions imposed in the US, Europe and elsewhere 
+suggest that Russia's economy will contract significantly (Pestova, 
+Mamonov, & Ongena, 2022). Rising energy revenues are unlikely to 
+counteract the economic repercussions of the global pull out from 
+Russia. This may prove the greatest hit to the global economy since the 
+Global Financial Crisis (GFC) of 2008; and it may exceed the impact of 
+Covid-19 given the prominent exporter status of the two countries."
+"Countries in Europe, Central Asia, the Middle East and Africa import 
+75% of their wheat from Russia and Ukraine (World Bank, 2022b)."
+"Ukraine's exports of seed oil account for 40% of global exports. Over 
+13% of corn exports and 5% of wheat exports come from Ukraine. Russia 
+accounts for 25% of global natural gas exports, 18% of coal exports, 11% 
+of crude oil exports, 18% of wheat exports and 14% of fertilizers (World 
+Bank, 2022b). With countries still in a recovery phase from Covid-19, 
+the after-effects of the Russian invasion are likely to have a com­
+pounding effect financially. In the aftermath of Covid, forecasts indi­
+cated GDP growth of 3.9%; this has been revised to −3.6% (Financial 
+Times, 2022b). Inflation was expected to rise by 7.5% in 2022 (European 
+Commission, 2021). However, the impact on inflation will depend on 
+monetary policy response and is yet to be realised."
+"Following the invasion, several studies examined the impact of 
+sanctions (Berner, Cecchetti, & Schoenholtz, 2022) on global financial 
+markets (Deng, Leippold, Wagner, & Wang, 2022; Huang & Lu, 2022); 
+☆We would like to thank the editor (Brian Lucey) and an anonymous reviewer for their insightful suggestions. We thank Hong Bo, Ayse Demir, Abbi Kedir, Victor 
+Murinde, Subin Sen, Gerry Steele for useful comments and suggestions. Vasileios Pappas acknowledges research support from the GulfOne Lab for Computational and 
+Economic Research (GOLCER), Lancaster University. We thank participants at the Centre for Global Finance, SOAS University of London research seminar for helpful 
+comments and suggestions."
+* Corresponding author.
+"E-mail addresses: m.izzeldin@lancaster.ac.uk (M. Izzeldin), y.g.muradoglu@qmul.ac.uk (Y.G. Murado˘
+glu), v.pappas@kent.ac.uk (V. Pappas), ap102@soas.ac.uk 
+(A. Petropoulou), s.sivaprasad@westminster.ac.uk (S. Sivaprasad)."
+"1 Source: https://data.unhcr.org/en/situations/ukraine 
+Contents lists available at ScienceDirect 
+International Review of Financial Analysis 
+journal homepage: www.elsevier.com/locate/irfa 
+https://doi.org/10.1016/j.irfa.2023.102598 
+Received 10 June 2022; Received in revised form 10 February 2023; Accepted 14 February 2023   
+"
+"International Review of Financial Analysis 87 (2023) 102598
+2
+on macroeconomic risks within the Euro area (Ferrara, Mogliani, & 
+Sahuc, 2022); and on the international monetary system (Brunnermeier 
+et al., 2022). However, sanctions are variable across countries, business 
+sectors and corporations.2 Thus in this paper, we strategically steer away 
+from the sanctions-based literature and examine the impact of the 
+Russian-Ukrainian war on financial market volatility. We obtain and 
+analyse estimates of synchronization, duration and intensity of stock 
+markets and representative commodities for various segments (i.e., en­
+ergy, precious metals, agricultural and base materials). We also draw 
+comparisons with the impact of the 2008 GFC and the Covid-19 
+pandemic. These three events constitute the main shocks to the global 
+economy over the past fifteen years. For our research design we employ 
+a Markov-switching HAR model on daily volatility proxies around each 
+crisis. This allows for endogenously identified regime shifts upon which 
+basis we compute metrics for the synchronization, duration, and in­
+tensity of each crisis."
+"The paper contributes to the fast-emerging literature on the impact of 
+the Russian-Ukrainian war upon economic and financial outcomes. Our 
+results show an instantaneous reaction of world stock markets to the 
+Russian-Ukrainian war. This suggests that the invasion was interpreted 
+as “real news” by investors. The timeliness of the response is unlike that 
+of either the GFC or the Covid-19 crises, where a lag of up to seven days 
+is evidenced. The crisis duration metrics, however, suggest that the 
+severity of the Russian-Ukrainian war has been muted compared to 
+either the GFC or the Covid-19. We attribute this to an expectation that 
+the war would not be prolonged. Moreover, it is possible that investors 
+mis-interpret this event. Past war-like experiences have been markedly 
+different; they have primarily involved one-off terrorist attacks, have 
+been beyond the European continent, and were not met by widespread 
+sanctions. Thereby investors may have been falsely drawing insights 
+from such prior experiences. Commodity insights concur with the stock 
+markets in all but one aspect: intensity. Despite average intensity values 
+being comparable to both the GFC and the Covid-19, specific com­
+modities (e.g., wheat, nickel, lead) reveal strong ongoing pressure in this 
+asset class following the Russian-Ukrainian war crisis. Given the stra­
+tegic importance to the economy of the affected commodities implica­
+tions on inflation and supply chain are yet to unfold."
+"The rest of the paper is organised as follows. Section 2 reviews the 
+relevant literature. Section 3 presents a synopsis of the data and the 
+methodology. Section 4 presents and discusses the empirical findings."
+Robustness analysis is presented in section 5. A final section concludes.
+"2. Background information 
+2.1. Volatility and global financial markets 
+Volatility is important for analysing risk in financial markets; how­
+ever, it is not directly observable. The increased availability of intraday 
+data has shifted attention to realised measures for volatility modelling."
+"Realised volatility (RV) has been shown to dominate several parametric 
+approximations, including GARCH-type and stochastic volatility (SV) 
+models (Andersen, Bollerslev, Diebold, & Labys, 2003). Volatility is 
+highly persistent, and the flexible and easy-to-estimate heterogeneous 
+autoregressive (HAR) (Corsi, 2009) has emerged as a modelling work­
+horse (Bollerslev, 2022; Bollerslev, Li, Patton, & Quaedvlieg, 2020; 
+Bollerslev, Patton, & Quaedvlieg, 2018). That volatility is affected by 
+Fig. 1. Major stock market indices response following the Russian-Ukrainian invasion."
+Notes: The figure shows daily percentage return of major stock market indices following the invasion. Source: Financial Times; Bloomberg.
+"2 An extensive list of the sanctions imposed is available by Reuters here: 
+https://graphics.reuters.com/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/ 
+M. Izzeldin et al."
+""
+"International Review of Financial Analysis 87 (2023) 102598
+3
+economic shocks is well-known. To capture structural breaks a variety of 
+transition models may be embedded within the HAR framework.3 For 
+example, Izzeldin, Murado˘
+glu, Pappas, and Sivaprasad (2021) utilize a 
+smooth-transition HAR (ST-HAR) to identify intensity, timeliness, and 
+homogeneity of the Covid-19 crisis upon G7 stock markets. Parametric 
+models of volatility estimation can also allow for similar dynamics, see 
+for example Pappas, Ingham, Izzeldin, and Steele (2016) who use a 
+Markov-switching multivariate DCC-GARCH model to examine the 
+synchronicity of the GFC crisis upon European stock markets. Yip, 
+Brooks, Do, and Nguyen (2020) examine the volatility spill-over effects 
+between oil and agricultural products using a Markov-switching setup."
+"2.2. Global financial markets and geopolitical events 
+In Fig. 2 we compare the volatility reaction of financial markets to 
+major geopolitical and key historical events over the last century. Using 
+the S&P 500 index due to its long data availability, we calculate two 
+volatility proxies, namely the realised volatility as the sum of squared 
+returns over the past 22 trading days, and the conditional volatility 
+estimated from a GARCH(1,1) model. In addition, we plot Economic 
+Policy Uncertainty (EPU), which is a news-based indicator, and the 
+historical Geopolitical Risk Index (GPRH), which gauges adverse 
+geopolitical events and related risks obtained from a variety of news- 
+based outlets.4 
+Financial markets respond to a wide array of geopolitical events. The 
+sample under consideration contains wars, invasions, terrorist attacks 
+and periods of tension. A cursory inspection finds the response of global 
+financial markets to the Russian-Ukrainian war to be relatively muted 
+compared to other financial crises (e.g., the 2008 Lehman collapse, the 
+1987 Black Monday, and the Covid-19). However, it is more pronounced 
+than that of several terrorist attacks (but not the 9/11) and other in­
+stances of war or invasions."
+"Though wars generally have a strong impact on financial markets, 
+the relevant literature is limited. Not surprisingly, Wisniewski (2016) 
+finds that wars result in widespread destruction of human and physical 
+capital and stock markets fall. Berkman, Jacobsen, and Lee (2011) 
+investigate 447 international political crises – but not all are wars. They 
+find that the global stock market returns would have been higher by 
+3.6% per annum but for these events. Hudson and Urquhart (2015) 
+study the effect of the second world war (WWII, thereafter) on the 
+British stock market and find that only one of the wartime events clas­
+sified as important resulted in a structural break. Frey and Kucher 
+(2000) examine the prices of the government bonds of five European 
+countries during WWII. They find that the loss and gain of national 
+sovereignty affected the bond prices of the countries. Frey and Kucher 
+(2001) analyse government bond prices of Germany and Austria traded 
+on the Swiss bourse during WWII. They show that war episodes are 
+clearly reflected in government bond prices. Brown Jr and Burdekin 
+(2002) study German bonds traded on the London stock exchange 
+Great Crash
+Great Depression
+Poland invasion
+France invasion
+Pearl Harbor
+Iron Curtain
+SKorea invastion
+Suez crisis
+Cuban crisis
+JFK assassination
+Gulf of Tonkin
+Six-day war
+Penn Central bankruptcy
+Munich Olympics
+Yom Kippur War
+Nixon resigns
+Reagan shooting
+Cont'l bailout
+Black Monday
+Kuwait invasion
+Soros
+FWTC bombing
+Asian crisis
+Yemen bombing
+9/11
+Iraq war
+Madrid bomb
+London bomb
+Bear Stearn
+Lehman collapse
+Boston bomb
+Crimea
+Paris bomb
+Brexit
+Syria war
+Covid-19
+Ukraine invasion
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+100
+200
+300
+400
+500
+600
+1928
+1934
+1941
+1948
+1954
+1961
+1968
+1974
+1981
+1988
+1994
+2001
+2008
+2014
+2021
+Volatility
+H
+R
+P
+G
+,
+U
+P
+E
+EPU
+GPRH
+Realised Volatility
+Conditional Volatility
+Fig. 2. Financial market's reaction in main geopolitical and historic events."
+"Notes: We use the S&P 500 returns to calculate: i) realised volatility, as the sum of squared returns over the past 22 trading days; ii) conditional volatility, based on a 
+GARCH(1,1) model. The Economic Policy Uncertainty (EPU) is a news-based indicator of economic uncertainty and is available from 1985 onwards. GPRH is the 
+historical geopolitical risk index."
+"3 A variety of transition models have been used that typically can be classified 
+according to the nature dynamics they introduce (i.e., discrete, or smooth), the 
+break identification (i.e., exogenous or endogenous) and the number of breaks 
+and regimes allowed. We direct you to Hamilton (1989) and Tsay (2005) for an 
+in-depth discussion."
+"4 Due to data limitations EPU data are available from 1985 onwards, see 
+Baker, Bloom, and Davis (2016) for details. Caldara and Iacoviello (2022) 
+construct the geopolitical risk index, which is available here. We use the “his­
+torical version” for its extended coverage. The index is available here: 
+https://www.matteoiacoviello.com/gpr.htm 
+M. Izzeldin et al."
+""
+"International Review of Financial Analysis 87 (2023) 102598
+4
+during WWII and document a negative impact on only two events during 
+the entire conflict course. Waldenstr¨
+om and Frey (2008) observe sudden 
+shifts in sovereign debt yields and spreads in the Nordic bond markets 
+during WWII. Frey and Waldenstr¨
+om (2004) compare sovereign debt 
+prices on the Zurich and Stockholm stock exchanges and conclude that 
+market efficiency has not been affected by WWII."
+"Some studies examine the impact of US military engagements upon 
+financial markets. Leigh, Wolfers, and Zitzewitz (2003) analyse financial 
+market data to assess the economic consequences of the war with Iraq."
+"They find that net oil importers are most likely to experience adverse 
+effects from the war. Also in respect of Iraq, Rigobon and Sack (2005) 
+find that war risk is associated with declines in Treasury bond yields and 
+equity prices. Amihud and Wohl (2004) find that the Iraqi war is asso­
+ciated with rising stock prices. Perhaps an increasing probability that 
+Saddam Hussein would be deposed was interpreted as good news by 
+stock market investors. Choudhry (2010) apply a structural break test to 
+investigate the structural shifts in returns and volatility and determine 
+whether such shifts are associated with the events of WWII. Omar, 
+Wisniewski, and Nolte (2017) analyse the impact of 64 instances of se­
+vere international crisis and classify 43 events as the “war sample”."
+"Their event window starts 50 trading days before the outbreak of war 
+and ends 50 trading days thereafter. They find that returns were −
+3.47% for the World stock market index and −4.67% for S&P 500."
+"Wisniewski (2009) examine the impact of WWII, the Korean war and 
+other US military engagements and provide evidence of how these 
+events are negatively related to the market value of stocks. Based on the 
+discussion above, we conclude that the impact of wars on stock markets 
+and other asset classes is detrimental."
+"2.3. Covid-19 and global financial markets 
+The novel corona virus (COVID-19) was first detected in China in 
+December 2019, and the World Health Organization (WHO) declared a 
+pandemic in the following mid-March. The response across financial 
+markets was dire. In a month, the Dow Jones and the S&P 500 fell by 
+35% and the volatility of the financial markets was comparable to the 
+2008 GFC (Baker et al., 2020). To curtail the spread rate, governments 
+introduced widespread lockdown measures that impeded global eco­
+nomic activity. Business sectors and countries were affected; relatedly 
+Izzeldin et al. (2021) find adverse effects on all sectors but for the 
+Technology firms, which weathered the pandemic better. Sergi, Harjoto, 
+Rossi, and Lee (2021) show that economic outcomes, as tracked by the 
+Barro Misery Index (BMI), are driven by the Covid-19 related cases and 
+deaths, and are reflected on stock market return volatility. Benkraiem, 
+Garfatta, Lakhal, and Zorgati (2022) conclude that financial contagion is 
+more intense in America than in Asia."
+"3. Data and methodology 
+3.1. Data 
+We examine global financial market reactions in three crises events, 
+namely the 2008 Global Financial Crisis, the Covid-19 pandemic, and 
+the 2022 Russian invasion of Ukraine. For each event, we use the [−3,3] 
+months estimation window using daily data.5 Our choice of the bench­
+mark date (t = 0) on each occasion is: i) the Lehman Brothers collapse on 
+15/9/2008; ii) the announcement of Italy's lockdown on 9/3/2020; iii) 
+the invasion day on 24/2/2022, respectively.6 
+Volatility data for the stock markets comprise the realised variance 
+for a selection of global stock markets obtained from the OxfordMan 
+institute realised library.7 Realised variance (RV) is calculated as the sum 
+of squared intraday returns (Andersen et al., 2003; Andersen, Bollerslev, 
+Table 1 
+Descriptive statistics – stock markets."
+"GFC 
+COVID-19 
+WAR 
+Mean 
+Range 
+SD 
+Mean 
+Range 
+SD 
+Mean 
+Range 
+SD 
+Australia 
+1.435 
+3.122 
+0.651 
+1.295 
+6.673 
+1.247 
+0.741 
+0.309 
+1.652 
+Belgium 
+1.739 
+5.131 
+0.825 
+1.349 
+5.873 
+1.093 
+0.999 
+0.591 
+4.635 
+Brazil 
+2.512 
+7.106 
+1.564 
+1.515 
+6.066 
+1.330 
+0.865 
+0.268 
+1.405 
+Canada 
+2.478 
+16.517 
+2.192 
+0.998 
+5.948 
+1.048 
+0.706 
+0.295 
+1.830 
+China 
+2.178 
+4.109 
+0.680 
+0.795 
+2.156 
+0.421 
+0.861 
+0.428 
+2.213 
+Denmark 
+2.330 
+8.127 
+1.476 
+1.124 
+4.635 
+0.762 
+1.357 
+0.737 
+5.728 
+Finland 
+2.317 
+7.821 
+1.433 
+1.055 
+3.591 
+0.753 
+0.993 
+0.742 
+7.345 
+France 
+2.062 
+6.339 
+1.187 
+1.388 
+6.393 
+1.217 
+1.170 
+0.610 
+3.686 
+Germany 
+2.135 
+6.877 
+1.344 
+1.270 
+5.342 
+1.056 
+1.060 
+0.512 
+2.680 
+Great Britain 
+2.223 
+9.516 
+1.367 
+1.534 
+7.930 
+1.325 
+0.921 
+0.472 
+2.665 
+Hong Kong 
+1.951 
+5.976 
+1.121 
+0.840 
+4.573 
+0.526 
+1.102 
+0.502 
+2.878 
+India 
+2.245 
+6.600 
+1.019 
+1.306 
+8.974 
+1.286 
+0.848 
+0.309 
+1.745 
+Italy 
+– 
+– 
+– 
+1.215 
+4.951 
+0.982 
+0.922 
+0.457 
+2.725 
+Japan 
+1.833 
+5.054 
+1.164 
+1.029 
+6.060 
+0.916 
+0.849 
+0.263 
+1.481 
+Korea 
+1.971 
+7.124 
+1.274 
+1.092 
+4.647 
+0.785 
+0.716 
+0.233 
+1.297 
+Mexico 
+1.670 
+6.230 
+1.102 
+0.967 
+3.128 
+0.518 
+0.885 
+0.293 
+1.964 
+Netherlands 
+1.998 
+5.352 
+1.048 
+1.306 
+6.275 
+1.224 
+1.112 
+0.492 
+2.810 
+Norway 
+2.443 
+7.735 
+1.489 
+1.562 
+13.760 
+1.668 
+1.152 
+0.526 
+3.497 
+Pakistan 
+1.255 
+3.481 
+0.774 
+1.261 
+5.640 
+0.866 
+0.673 
+0.357 
+2.396 
+Portugal 
+– 
+– 
+– 
+0.971 
+3.671 
+0.776 
+0.926 
+0.411 
+2.233 
+Singapore 
+0.906 
+0.017 
+0.005 
+0.807 
+3.219 
+0.577 
+0.563 
+0.175 
+1.290 
+Spain 
+1.855 
+5.283 
+0.894 
+1.342 
+6.314 
+1.107 
+1.030 
+0.509 
+2.875 
+Sweden 
+2.142 
+6.985 
+1.284 
+1.053 
+4.207 
+0.799 
+1.132 
+0.790 
+8.239 
+Switzerland 
+1.744 
+5.043 
+0.876 
+1.305 
+7.153 
+1.371 
+0.759 
+0.292 
+1.608 
+USA 
+2.315 
+8.099 
+1.513 
+1.287 
+6.304 
+1.356 
+1.079 
+0.444 
+2.178 
+Notes: The table reports key descriptive statistics for the realised volatility in each period of investigation. Mean volatility is expressed in annualized percentage terms."
+Range is defined as the difference between maximum and minimum values. GFC refers to the 2008 global financial crisis; WAR to the 2022 Russian-Ukrainian war.
+Realised measures are not available for Italy and Portugal during the GFC period.
+"5 Our window length choice is consistent with Omar et al. (2017). As 
+robustness we also use a larger window [−6,6] months for the 2008 GFC and 
+the Covid-19 crisis and the results remain qualitatively similar. Thus, we retain 
+our [−3,3] specification for consistency purposes across the three events."
+"6 For the Covid-19 event benchmark date we concur with the Nozawa and 
+Qiu (2021) study."
+"7 The realised measures are obtained from the Oxford Man Institute of 
+Quantitative Finance database here: https://www.oxford-man.ox.ac.uk/o 
+ur-research/realized-library/ 
+M. Izzeldin et al."
+""
+"International Review of Financial Analysis 87 (2023) 102598
+5
+Diebold, & Ebens, 2001; Barndorff-Nielsen & Shephard, 2002) as: 
+RVt =
+∑
+K
+j=1
+r2
+t,j
+(1)  
+where j subscripts each of the K equally spaced 5-min subintervals in 
+each day. We compute the realised volatility and express it in percentage 
+annualized format for the rest of the analysis."
+"Volatility data for the commodities are not available via the realised 
+library. Hence, we resort to conditional parametric volatility estimators 
+of the GARCH family. Specifically, consider a T × 1 vector of demeaned 
+asset returns rt, the conditional variance is estimated as a GARCH(1,1) 
+process: 
+rt∣F t−1 ∼N
+(
+0, h2
+t
+)
+(2)  
+h2
+t = ω + au2
+t−1 + br2
+t−1
+(3) 
+Subsequently we compute the conditional volatility and express it in 
+percentage annualized format for the rest of the analysis."
+"Table 1 presents key descriptive statistics for the realised volatility 
+across the sampled countries for the three crisis periods under exami­
+nation. Brazil, Norway and Denmark emerge as the countries with the 
+highest average realised volatility for the GFC, Covid-19 and Russian- 
+Ukrainian war crises respectively. By contrast, Singapore exhibits the 
+lowest average realised volatility during the GFC and war periods, and 
+the second lowest during the Covid-19."
+"Table 2 presents key descriptive statistics for the conditional vola­
+tility of commodities over the three periods of crisis under examination."
+"Lead, oil and natural gas are the commodities with the highest average 
+conditional volatility for the GFC, Covid-19 and Russian-Ukrainian war 
+periods respectively. By contrast, gold exhibits the lowest average con­
+ditional volatility during the GFC and Russian-Ukrainian war periods."
+Soyabean shows the lowest conditional volatility during the Covid-19.
+"3.2. Methodology 
+Modelling realised measures has relied extensively on the hetero­
+geneous autoregressive model (HAR) (Corsi, 2009). The superior per­
+formance of the HAR in modelling and forecasting realised volatility is 
+well-established (Bollerslev, 2022; Bollerslev et al., 2020; Bollerslev, 
+Patton, & Quaedvlieg, 2016). Compared to ARFIMA, estimation and 
+forecasting are more easily obtained from HAR models. Following Corsi 
+(2009) the HAR model is defined as: 
+ht = c + β(d)ht−1 + β(w)h(w)
+t
++ β(m)h(m)
+t
++ et
+(4)  
+where et~iid(0,σ2) with ht
+(w) and ht
+(m) defined as follows: 
+h(w)
+t
+= 1
+5 (ht−1 + ht−2 + ht−3 + ht−4 + ht−5)
+(5)  
+h(m)
+t
+= 1
+22 (ht−1 + ht−2 + … + ht−21 + ht−22)
+(6) 
+To allow for non-linear dynamics in the volatility process we allow 
+for a Markov-switching structure. Markov-switching models have been 
+used in conjunction with the GARCH family of models for similar pur­
+poses in Pappas et al. (2016). By contrast, Izzeldin et al. (2021) use a 
+smooth transition variant of the HAR to accommodate crisis periods."
+"Contrary to smooth-transition models, Markov-switching allows for a 
+discrete shift in the regime, which is more appropriate for our setup 
+where we compare financial market volatility during the three crises.8 
+Markov-switching models utilize a latent state variable (st = m) to 
+denote the state m of the economy in period t, with m = 1, …, M. By 
+construction, a Markov-switching model estimates the transition prob­
+ability from the data. To allow for more realistic dynamics during each 
+of the turmoil periods, we assume that the HAR parameters related to 
+the weekly and monthly volatility are regime invariant. The following 
+Markov-switching HAR model is estimated using maximum likelihood 
+and robust standard error: 
+ht = cst + β(d)
+st ht−1 + β(w)h(w)
+t
++ β(m)h(m)
+t
++ et
+(7)  
+where the regime probabilities are given as: 
+Pr
+(
+st = mi|st−1 = mj
+)
+∀i, j = 0, 1
+(8) 
+For each of the three financial crises under consideration, we 
+compute synchronization, duration and intensity measures following 
+Pappas et al. (2016). To assess the synchronization of each financial 
+crisis, we compare the estimated crisis transition date for each index (Ti) 
+Table 2 
+Descriptive statistics - commodities."
+"GFC 
+COVID-19 
+WAR 
+Mean 
+Range 
+SD 
+Mean 
+Range 
+SD 
+Mean 
+Range 
+SD 
+Oil (WTI) 
+4.395 
+5.610 
+1.550 
+6.438 
+21.042 
+5.668 
+3.784 
+5.064 
+1.393 
+Oil (Brent) 
+3.899 
+5.777 
+1.430 
+4.580 
+11.589 
+3.140 
+3.545 
+5.598 
+1.430 
+Natural gas 
+3.819 
+3.606 
+0.816 
+4.057 
+4.076 
+1.113 
+6.190 
+11.271 
+2.491 
+Gold 
+2.481 
+2.670 
+0.828 
+1.289 
+1.969 
+0.527 
+1.142 
+1.130 
+0.228 
+Silver 
+4.535 
+7.363 
+1.968 
+2.220 
+3.958 
+1.039 
+1.766 
+1.313 
+0.290 
+Platinum 
+3.507 
+5.102 
+1.280 
+2.389 
+4.210 
+1.151 
+2.080 
+2.780 
+0.539 
+Palladium 
+3.893 
+6.011 
+1.655 
+3.607 
+7.843 
+1.872 
+3.723 
+5.330 
+1.169 
+Corn 
+3.173 
+2.683 
+0.610 
+1.567 
+0.983 
+0.242 
+1.910 
+2.012 
+0.546 
+Lumber 
+3.173 
+2.683 
+0.610 
+1.567 
+0.983 
+0.242 
+1.910 
+2.012 
+0.546 
+Soybean 
+2.882 
+2.634 
+0.637 
+1.074 
+0.653 
+0.164 
+1.695 
+1.527 
+0.335 
+Wheat 
+4.399 
+3.975 
+0.780 
+3.652 
+0.878 
+0.161 
+3.486 
+7.607 
+1.857 
+Sugar 
+3.190 
+2.053 
+0.488 
+2.102 
+1.982 
+0.448 
+1.790 
+0.667 
+0.142 
+Coffee 
+2.227 
+1.277 
+0.295 
+2.497 
+2.514 
+0.495 
+2.346 
+1.529 
+0.328 
+Cotton 
+2.778 
+4.412 
+1.150 
+1.949 
+2.077 
+0.571 
+2.002 
+1.352 
+0.310 
+Aluminum 
+2.635 
+6.437 
+1.224 
+1.248 
+2.246 
+0.473 
+2.195 
+4.563 
+0.925 
+Nickel 
+6.591 
+16.229 
+3.496 
+1.930 
+3.527 
+0.741 
+2.513 
+3.729 
+0.866 
+Copper 
+3.059 
+5.551 
+1.598 
+1.561 
+2.058 
+0.469 
+4.333 
+15.580 
+4.143 
+Tin 
+6.717 
+13.922 
+3.275 
+1.976 
+4.181 
+0.995 
+1.852 
+1.083 
+0.304 
+Lead 
+7.134 
+8.909 
+1.916 
+1.863 
+2.185 
+0.456 
+2.176 
+6.005 
+1.319 
+Zinc 
+5.898 
+9.810 
+2.159 
+1.361 
+1.512 
+0.408 
+1.656 
+3.170 
+0.663 
+Notes: The table reports key descriptive statistics for the conditional volatility in each period of study. Mean volatility is expressed in annualized percentage terms."
+Range is defined as the difference between maximum and minimum values. GFC refers to the 2008 global financial crisis; WAR to the 2022 Russian-Ukrainian war.
+"8 For robustness we estimate a smooth-transition HAR model. The results of 
+this analysis are in the robustness section."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+6
+with the respective benchmark date (T*). In particular, 
+Sync (days)i = Ti −T*
+(9)  
+where i indexes the index. Positive (negative) values indicate a lag (lead) 
+in the transition, relative to the benchmark date for the particular index."
+"The duration of each crisis is measured as the time spent within the 
+crisis regime, as identified by the MS-HAR model. It is expressed in days 
+and as percentage, formally as: 
+Duration (days)i =
+∑
+T
+ti=Ti
+ti∣sti = 1
+(10)  
+and 
+Duration (%)i =
+∑
+T
+ti=Ti
+ti
+⃒
+⃒
+⃒
+⃒
+⃒sti = 1
+∑
+T
+ti=Ti
+ti
+⃒
+⃒
+⃒
+⃒
+⃒sti = 1 + ∑
+T
+ti=Ti
+ti
+⃒
+⃒
+⃒
+⃒
+⃒sti = 0
+(11) 
+Panel A. GFC 
+Panel B. Covid- 19
+Panel C. Russian-Ukrainian war 
+N
+Th
+h
+li
+d
+l
+ili
+(
+b
+d
+1) f
+h G7
+i
+( i h h
+i
+f I
+l ) Th
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Volatility
+Threshold
+France
+UK
+Germany
+Canada
+Japan
+USA
+0
+5
+10
+15
+20
+25
+30
+35
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Volatility
+Threshold
+France
+UK
+Germany
+Canada
+Japan
+USA
+0
+1
+2
+3
+4
+5
+6
+7
+8
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Volatility
+Threshold
+France
+UK
+Germany
+Canada
+Japan
+USA
+Fig. 3. Stock market volatility response 
+of G7 economies in GFC, Covid-19 and 
+Russian-Ukrainian war."
+"Notes: The graphs present realised vola­
+tility (rebased at 1) for the G7 countries 
+(with the exception of Italy). The zero on 
+the horizontal axis corresponds to the day 
+of the respective crisis, namely top graph: 
+15/08/2008 (the Lehman collapse for the 
+GFC crisis); middle graph: 24/02/2020 
+(Italy lockdown for the COVID-19 crisis); 
+bottom graph: 24/02/2022 (Invasion in 
+Ukraine)."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+7
+where sti = (0)1 denotes the crisis (calm) regime for each i (index) 
+The intensity of the crisis is defined as the percentage logarithmic 
+change in the volatility level between the two regimes, following the 
+transition to the crisis event. Higher values of the intensity denote a 
+stronger crisis experience. Crisis intensity is defined as: 
+Intensity (%)i = ln
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+∑
+T
+ti=Ti
+hti,i
+⃒
+⃒
+⃒
+⃒
+⃒sti = 1
+/(
+∑
+T
+ti=Ti
+ti|sti = 1
+)
+∑
+T
+ti=Ti
+hti,i
+⃒
+⃒
+⃒
+⃒
+⃒sti = 0
+/(
+∑
+T
+ti=Ti
+ti|sti = 0
+)
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+(12) 
+To be classified within a regime, we require a minimum probability 
+threshold equal to 0.80.9 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+y
+t
+i
+l
+i
+t
+a
+l
+o
+V
+Threshold
+UK (GFC)
+UK (COVID)
+UK (WAR)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+y
+t
+i
+l
+i
+t
+a
+l
+o
+V
+Threshold
+France (GFC)
+France (COVID)
+France (WAR)
+Fig. 4. Realised volatility response specific countries."
+"Notes: The graphs present realised volatility (rebased at 1) for representative G7 countries. The zero on the horizontal axis corresponds to the day of the respec­
+tive crisis."
+"9 We conduct robustness analysis to this value, in the range of [0.70-0.90] 
+and our results are qualitatively similar."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+8
+4. Results 
+4.1. Global stock markets 
+Figs. 3 and 4 present the realised volatility (rebased at 1) for each 
+crisis event and for a representative sample of countries. The threshold 
+line is centred at each crisis date, with the graph showing the pre- and 
+post-three-month evolution window. A cursory inspection finds the 
+response during the Covid-19 to be more pronounced than the GFC and 
+the Russian-Ukrainian war events."
+"Table 3 presents the synchronization, duration and intensity mea­
+sures for each of the GFC, Covid-19 and Russian-Ukrainian war crises. In 
+each table, we report the median for each country and the median values 
+for key country groupings namely the G7 economies, the European 
+countries, and the rest of the world (RoW). Next, we discuss these results 
+by measure focusing on Europe. Crisis synchronization median values 
+suggest an instantaneous reaction of stock markets to the invasion news."
+"This is observed for the Europe group, but also for the G7 and the RoW 
+groups. The timeliness of the response is unlike those pertaining to the 
+GFC or Covid-19 events. In the GFC crisis, synchronization show Europe 
+to respond with a 4-day lag, and the G7 taking the longest at seven days."
+"During the Covid-19, Europe responds at a 1-day lag; yet G7 and RoW 
+take longer."
+"Coming now to discuss percentage duration, we find Europe values at 
+7.25%, suggesting that stock markets spent a significantly shorter period 
+in the crisis regime compared to the GFC, and the Covid-19. A similar 
+result is observed for the RoW countries. We discuss intensity values 
+next. Our results show that crisis intensity for Europe following the 
+Russian-Ukrainian war stands at 89.89%, significantly higher than 
+either the GFC (at 73.76%) or the Covid-19 (at 82.16%). The G7 and 
+RoW values during the Russian-Ukrainian war are 69.08% and 71.31% 
+respectively. Interestingly, these values are lower for the G7 group 
+compared to both the GFC and the Covid-19 (77.67% and 86.70% 
+respectively), however they are comparable across all crises for the RoW 
+group."
+"In summary our analysis of the stock markets here suggests that their 
+volatility response to the Russian-Ukrainian war crisis has been instan­
+taneous. This is unlike the GFC or Covid-19 where a certain lag was 
+observed. We believe that the instantaneous reaction of stock markets 
+shows that the invasion was interpreted as “real news” by investors."
+"Despite the prolonged summoning of Russian forces at the Ukrainian 
+borders, an actual invasion had not been discounted by the markets and 
+was considered unlikely, until it materialized. The crisis intensity, 
+however, suggests that the severity of the Russian-Ukrainian war has 
+been, on a global scale, muted compared to either the GFC or the Covid- 
+19. We find this puzzling given the severity of such an incident. It is 
+plausible that investors mis-interpret this event. Past warlike experi­
+ences have been markedly different in the sense that they involve mainly 
+one-off terrorist attacks and/or have been away from the European 
+continent. Thereby investors may be falsely drawing insights from such 
+prior experiences and underestimating the real implications of the 
+Russian-Ukrainian war (Financial Times, 2022e; The Guardian, 2022b)."
+"However, as Russia's aggression in Ukraine remains unabated, the world 
+seems to embrace that the transition into a long-term conflict appears a 
+likely scenario (BBC, 2022; Financial Times, 2022a). Besides, the pro­
+longed conflict has even led banks to downgrade their growth forecasts 
+(JP Morgan, 2022)."
+"4.2. Commodities 
+Figs. 5 and 6 present the conditional volatility of commodities 
+(rebased at 1) for each crisis event and for a representative sample of 
+commodities. The threshold line is centered at each crisis date, with the 
+graph showing the pre- and post-three-month evolution window. A 
+cursory inspection of the graphs shows that commodities are affected in 
+a comparable way across the three crisis events. Furthermore, the nature 
+of each crisis appears to be particularly relevant for specific commod­
+ities. Base materials such as copper and nickel are more affected 
+following the GFC, whereas oil is more affected following the Covid-19 
+crisis. The Russian-Ukrainian war crisis appears to have had a more 
+Table 3 
+Synchronization, duration, and intensity measures – stock markets."
+"Country 
+Sync 
+(Days) 
+Duration 
+(Days) 
+Duration 
+(%) 
+Intensity 
+(%) 
+Sync 
+(Days) 
+Duration 
+(Days) 
+Duration 
+(%) 
+Intensity 
+(%) 
+Sync 
+(Days) 
+Duration 
+(Days) 
+Duration 
+(%) 
+Intensity 
+(%)  
+Panel A. GFC 
+Panel B. Covid-19 
+Panel C. War 
+Australia 
+11 
+10 
+13.89 
+64.58 
+1 
+8 
+11.43 
+97.30 
+0 
+6 
+8.70 
+78.95 
+Belgium 
+2 
+8 
+12.70 
+77.18 
+1 
+15 
+21.43 
+68.78 
+0 
+5 
+7.35 
+94.08 
+Brazil 
+1 
+23 
+42.59 
+43.64 
+0 
+12 
+16.00 
+87.56 
+-9 
+13 
+20.31 
+53.02 
+Canada 
+3 
+13 
+22.03 
+98.31 
+10 
+2 
+2.67 
+126.53 
+0 
+2 
+2.90 
+54.59 
+China 
+3 
+7 
+9.46 
+68.55 
+1 
+6 
+8.00 
+90.58 
+0 
+12 
+17.39 
+76.36 
+Denmark 
+4 
+13 
+19.40 
+64.42 
+0 
+9 
+17.31 
+74.21 
+47 
+1 
+1.45 
+150.19 
+Finland 
+-6 
+9 
+12.16 
+81.67 
+2 
+12 
+16.44 
+77.20 
+47 
+1 
+1.45 
+189.92 
+France 
+17 
+3 
+4.11 
+98.56 
+0 
+20 
+39.22 
+51.42 
+−8 
+5 
+7.25 
+73.57 
+Germany 
+4 
+8 
+11.11 
+73.76 
+0 
+14 
+18.92 
+67.06 
+−8 
+5 
+8.33 
+82.96 
+Great 
+Britain 
+4 
+8 
+11.11 
+81.57 
+10 
+2 
+2.67 
+97.96 
+−8 
+8 
+11.94 
+89.89 
+Hong Kong 
+3 
+7 
+9.33 
+63.67 
+14 
+2 
+2.67 
+123.42 
+11 
+5 
+7.35 
+84.69 
+India 
+0 
+15 
+21.43 
+42.01 
+14 
+1 
+1.33 
+165.51 
+−9 
+42 
+50.00 
+66.26 
+Japan 
+11 
+9 
+13.04 
+57.72 
+2 
+11 
+17.19 
+66.47 
+0 
+7 
+43.75 
+78.21 
+Korea 
+18 
+11 
+18.97 
+67.11 
+10 
+2 
+2.70 
+110.39 
+6 
+4 
+6.45 
+45.14 
+Mexico 
+−5 
+8 
+10.96 
+86.40 
+13 
+5 
+6.76 
+99.45 
+−5 
+1 
+1.45 
+83.65 
+Netherlands 
+1 
+19 
+32.76 
+43.48 
+4 
+2 
+2.70 
+89.69 
+−1 
+2 
+3.03 
+56.10 
+Norway 
+1 
+10 
+14.71 
+58.77 
+1 
+13 
+17.81 
+91.93 
+7 
+4 
+5.80 
+82.44 
+Pakistan 
+−5 
+1 
+1.33 
+34.96 
+10 
+1 
+1.33 
+188.87 
+14 
+2 
+2.90 
+78.30 
+Spain 
+4 
+6 
+8.00 
+80.93 
+10 
+6 
+8.11 
+109.40 
+27 
+2 
+2.90 
+137.45 
+Sweden 
+−5 
+13 
+19.70 
+63.96 
+4 
+7 
+11.67 
+72.05 
+0 
+45 
+65.22 
+60.47 
+Switzerland 
+4 
+6 
+8.70 
+69.46 
+10 
+4 
+5.33 
+97.02 
+0 
+5 
+7.25 
+90.13 
+USA 
+10 
+4 
+5.56 
+65.26 
+0 
+13 
+17.81 
+82.16 
+47 
+2 
+2.90 
+133.76 
+G7 
+7.00 
+8.00 
+11.11 
+77.67 
+6.50 
+5.00 
+9.20 
+86.70 
+¡4.00 
+4.50 
+6.85 
+69.08 
+Europe 
+4.00 
+8.00 
+12.16 
+73.76 
+1.00 
+12.00 
+17.31 
+82.16 
+0.00 
+5.00 
+7.25 
+89.89 
+RoW 
+3.00 
+9.00 
+12.43 
+64.92 
+7.00 
+5.50 
+7.38 
+98.38 
+0.00 
+3.50 
+5.19 
+71.31 
+Notes: The table presents estimates of Sync (days), Duration (days), Duration (%) and Intensity (%) measures for the 2008 global financial crisis (panel A), the Covid-19 
+crisis (panel B) and the Russian-Ukrainian war (panel C). For a definition of the measures, we refer you to section 3.2."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+9
+profound impact on the agricultural commodities and nickel."
+"Table 4 presents the synchronization, duration and intensity mea­
+sures for all commodities in our sample. In addition, we report median 
+values for all commodities and for each commodity segment (i.e., en­
+ergy, precious metals, agricultural and base materials). We discuss 
+synchronization, duration and intensity measures in turn, starting by the 
+overall commodity measures and then focusing on the specific com­
+modity segments. Crisis synchronization median values suggest that 
+commodities respond with a 2-day lag after the invasion materialized; 
+this is earlier than either the GFC or the Covid-19 crises. The early 
+response of commodities is largely driven by the precious metals and 
+base materials that have reacted faster. Agricultural commodities 
+responded with a 2-day lag, which is comparable to the GFC crisis re­
+sults. By contrast, the agricultural commodities reacted latest in the 
+Covid-19 crisis, with a 17-day lag."
+"We now proceed to discuss percentage duration values. During the 
+Russian-Ukrainian war, the median duration has been at 6.42%, 
+significantly lower than either the GFC (at 6.81%) or Covid-19 (at 
+7.38%) crises. High duration values are evidenced for precious and base 
+metals. Agricultural commodities show approximately two times higher 
+median duration value during the Russian-Ukrainian war compared to 
+the Covid-19."
+"Panel A. GFC
+Panel B. Covid- 19
+Panel C. Russian-Ukrainian war
+0
+1
+2
+3
+4
+5
+6
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Volatility
+Threshold
+Oil
+Gas
+Gold
+Corn
+Wheat
+Copper
+Lead
+Nickel
+0
+1
+2
+3
+4
+5
+6
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Volatility
+Threshold
+Oil
+Gas
+Gold
+Corn
+Wheat
+Copper
+Lead
+Nickel
+0
+2
+4
+6
+8
+10
+12
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Volatility
+Threshold
+Oil
+Gas
+Gold
+Corn
+Wheat
+Copper
+Lead
+Nickel
+Fig. 5. Conditional volatility response of 
+commodities."
+"Notes: The graphs present conditional 
+volatility (rebased at 1) for selected 
+commodities. The zero on the horizontal 
+axis corresponds to the day of the 
+respective crisis, namely top graph: 15/ 
+08/2008 (the Lehman collapse for the 
+GFC crisis); middle graph: 24/02/2020 
+(Italy lockdown for the COVID-19 crisis); 
+bottom graph: 24/02/2022 (Invasion in 
+Ukraine)."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+10
+Commodity intensity during the Russian-Ukrainian war has been at 
+23.65%, which is similar to the other two crises. However, this aggre­
+gate result masks the heterogeneity across commodity segments. Spe­
+cifically, crisis intensity during the Russian-Ukrainian war has been the 
+highest for the base materials (at 38.26%) and lowest for the precious 
+metals (at 18.36%). Within the agricultural commodities, with an in­
+tensity value of 48.87%, wheat is the most severely affected. The high 
+crisis intensity value for wheat may be partially explained by the un­
+certainty over Ukraine and Russia, both within the largest exporters 
+worldwide, being able to meet world demand (FAO, 2022). Nickel has 
+been the most severely affected commodity with an intensity value at 
+116.65%. This is largely explained by the sanctions over Russia, a top-3 
+nickel exporter, in conjunction with rising demand that is associated 
+with its use in electric vehicles (Daniel, 2022)."
+"In sum our analysis for the commodities reveals that they have 
+responded faster in the Russian-Ukrainian war compared to either of the 
+GFC or Covid-19 crises. By contrast, the crisis duration and intensity 
+values suggest that commodities have been affected during the Russian- 
+0
+1
+2
+3
+4
+5
+6
+-60
+-30
+0
+30
+60
+Volatility
+Threshold
+Oil (GFC)
+Oil (COVID)
+Oil (WAR)
+0
+1
+2
+3
+4
+5
+6
+-60
+-30
+0
+30
+60
+Volatility
+Threshold
+Copper (GFC)
+Copper (COVID)
+Copper (WAR)
+0
+1
+2
+3
+4
+5
+6
+-60
+-30
+0
+30
+60
+Volatility
+Threshold
+Wheat (GFC)
+Wheat (COVID)
+Wheat (WAR)
+0
+1
+2
+3
+4
+5
+6
+-60
+-30
+0
+30
+60
+Volatility
+Threshold
+Gold (GFC)
+Gold (COVID)
+Gold (WAR)
+0
+1
+2
+3
+4
+5
+6
+-60
+-30
+0
+30
+60
+Volatility
+Threshold
+Corn (GFC)
+Corn (COVID)
+Corn (WAR)
+0
+1
+2
+3
+4
+5
+6
+-60
+-30
+0
+30
+60
+Volatility
+Threshold
+Gas (GFC)
+Gas (COVID)
+Gas (WAR)
+Fig. 6. Conditional volatility response of commodities."
+"Notes: The graphs present conditional volatility (rebased at 1) for selected commodities. The zero on the horizontal axis corresponds to the day of the respective 
+crisis, namely top graph: 15/08/2008 (the Lehman collapse for the GFC crisis); middle graph: 24/02/2020 (Italy lockdown for the COVID-19 crisis); bottom graph: 
+24/02/2022 (Invasion in Ukraine)."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+11
+Ukrainian war in a comparable way to the other two crises. Still, the 
+particularly high duration and intensity values for specific commodities 
+reflect the strong ongoing pressure on commodities and have been 
+highlighted as a cause for concern. In particular, a stressed commodity 
+market could have several ramifications, such as triggering food crises to 
+putting pressure on the derivative trading platforms (Financial Times, 
+2022e)."
+"5. Robustness 
+In the main analysis the transition between volatility regimes has 
+been discrete and modelled via a Markov-switching HAR model. We 
+perform a robustness check using a smooth transition specification, 
+which allows for an analogue-like transition between regimes.10 Com­
+mon in both specifications is the endogenous identification of the 
+transition between the regimes. In the smooth transition HAR (ST-HAR) 
+model the transition between two regimes is governed by the expo­
+nential function, see Izzeldin et al. (2021) for more details. Of the HAR 
+parameters, we assume the constant and the daily component to be 
+regime dependent, while weekly and monthly volatility components are 
+regime invariant. The following equation is estimated via nonlinear least 
+square techniques and Newey-West robust standard errors: 
+ht = β0 + β(d)ht−1 + β(w)h(w)
+t
++ β(m)h(m)
+t
++
+(
+δ0 + δ(d)ht−1
+)
+×
+(
+1 −exp
+(
+−γ
+/
+σ2
+st(st −ψ)2 ) )
++ et
+(13)  
+where st is a threshold variable with unknown threshold (ψ) and slope 
+(γ) values; β0, δ0 and β(d), δ(d) are the threshold coefficients for the 
+constant and the daily component respectively; εt is the stochastic error 
+term. The threshold coefficient (ψ) gauges the synchronicity of the 
+transition, with high (low) values indicating a lag (lead) in the transi­
+tion. The slope coefficient may be interpreted as the transition speed 
+between regimes, with high (low) values giving evidence towards an 
+abrupt (gradual) shift."
+"Table 5 presents the median estimated slope and threshold param­
+eters of the ST-HAR model for the stock markets (Panel A) and com­
+modities (Panel B). Based on their estimated values we compare the 
+transition patterns across regimes for each crisis.11 
+As compared to either the GFC or the Covid-19 crisis, the lower 
+threshold coefficient value during the Russian-Ukrainian war indicates 
+the earlier response of the global stock markets (see Panel A) and 
+commodities (see Panel B) to the event. Thus, it corroborates the main 
+findings of the paper."
+"The slope coefficient is the highest for the G7 stock markets during 
+the Russian-Ukrainian war (7.78) suggesting an abrupt regime change, 
+more pronounced than either the Covid-19 (6.14) or the GFC (2.23). The 
+fact that European stock markets respond in a smoother fashion to the 
+Russian-Ukrainian war compared to the Covid-19 (1.55 vs 9.26) sub­
+stantiates further our main finding that investors may be falsely 
+assessing the severity and the duration of the event."
+"Similar to global stock markets, commodities record the largest slope 
+coefficient during the Russian-Ukrainian war compared to either of the 
+GFC or Covid-19 crisis. The abrupt transition is mainly driven by agri­
+cultural commodities (e.g., wheat) and base materials (e.g., nickel), a 
+result that is consistent with the main analysis. Interestingly, precious 
+materials show a more muted response compared to past crises."
+"6. Discussion and conclusions 
+The Russian-Ukrainian war has led to great volatility across global 
+Table 4 
+Synchronization, duration, and intensity measures – commodities."
+"Commodity 
+Sync 
+(Days) 
+Duration 
+(Days) 
+Duration 
+(%) 
+Intensity 
+(%) 
+Sync 
+(Days) 
+Duration 
+(Days) 
+Duration 
+(%) 
+Intensity 
+(%) 
+Sync 
+(Days) 
+Duration 
+(Days) 
+Duration 
+(%) 
+Intensity 
+(%)   
+Panel A. GFC 
+Panel B. Covid-19 
+Panel C. War 
+Energy 
+Oil (WTI) 
+3 
+10 
+13.7 
+22.86 
+6 
+11 
+14.67 
+49.65 
+10 
+4 
+5.63 
+43.71 
+Oil (Brent) 
+3 
+11 
+14.67 
+23.62 
+6 
+4 
+5.33 
+11.08 
+4 
+4 
+5.63 
+19.52 
+Natural 
+gas 
+−10 
+13 
+17.57 
+14.32 
+−3 
+11 
+14.67 
+14.02 
+38 
+2 
+2.82 
+1.01 
+Median 
+3.00 
+11.00 
+14.67 
+22.86 
+6.00 
+11.00 
+14.67 
+14.02 
+10.00 
+4.00 
+5.63 
+19.52 
+Precious 
+Metals 
+Gold 
+3 
+16 
+23.88 
+29.31 
+2 
+6 
+8.00 
+25.69 
+−5 
+4 
+5.80 
+13.08 
+Silver 
+2 
+4 
+5.33 
+10.29 
+5 
+5 
+6.76 
+23.36 
+−5 
+11 
+15.49 
+17.07 
+Platinum 
+−3 
+10 
+13.33 
+17.74 
+−1 
+3 
+4.00 
+10.79 
+−4 
+5 
+7.04 
+25.25 
+Palladium 
+3 
+4 
+5.41 
+32.36 
+5 
+8 
+10.67 
+53.32 
+−5 
+13 
+18.57 
+19.64 
+Median 
+2.50 
+7.00 
+9.37 
+23.53 
+3.50 
+5.50 
+7.38 
+24.53 
+¡5.00 
+8.00 
+11.27 
+18.36 
+Agriculture 
+Corn 
+2 
+5 
+6.76 
+8.79 
+19 
+2 
+2.67 
+25.75 
+2 
+2 
+2.82 
+29.20 
+Lumber 
+2 
+5 
+6.76 
+8.79 
+19 
+2 
+2.67 
+25.75 
+2 
+2 
+2.82 
+29.20 
+Soybean 
+6 
+10 
+13.7 
+16.41 
+17 
+2 
+2.67 
+18.59 
+−4 
+5 
+7.04 
+18.96 
+Wheat 
+3 
+9 
+12.33 
+23.78 
+19 
+10 
+13.70 
+9.84 
+2 
+4 
+5.63 
+48.87 
+Sugar 
+4 
+10 
+13.51 
+18.7 
+−5 
+2 
+2.67 
+24.30 
+4 
+3 
+4.23 
+12.16 
+Coffee 
+−5 
+5 
+6.76 
+19.28 
+−3 
+6 
+8.11 
+41.86 
+−8 
+12 
+17.14 
+22.05 
+Cotton 
+21 
+5 
+6.85 
+29.75 
+4 
+6 
+8.22 
+19.78 
+4 
+15 
+22.39 
+16.73 
+Median 
+3.00 
+5.00 
+6.85 
+18.70 
+17.00 
+2.00 
+2.67 
+24.30 
+2.00 
+4.00 
+5.63 
+22.05 
+Base 
+Metals 
+Aluminum 
+32 
+2 
+2.67 
+56.95 
+11 
+4 
+5.33 
+37.15 
+−6 
+9 
+12.86 
+35.45 
+Nickel 
+21 
+1 
+1.33 
+85.92 
+12 
+4 
+5.56 
+49.50 
+8 
+5 
+7.14 
+116.65 
+Copper 
+5 
+10 
+13.51 
+6.72 
+17 
+2 
+2.70 
+32.93 
+−7 
+2 
+2.94 
+28.22 
+Tin 
+27 
+3 
+4 
+40.24 
+−9 
+8 
+10.96 
+43.71 
+−8 
+18 
+25.71 
+21.49 
+Lead 
+−2 
+3 
+4.11 
+20.46 
+5 
+6 
+8.11 
+21.85 
+21 
+2 
+2.82 
+72.14 
+Zinc 
+21 
+2 
+2.7 
+44.29 
+−9 
+6 
+14.67 
+49.65 
+21 
+5 
+7.25 
+41.07 
+Median 
+21.00 
+2.50 
+3.35 
+42.27 
+8.00 
+5.00 
+6.84 
+40.43 
+1.00 
+5.00 
+7.20 
+38.26 
+All 
+Median 
+3.00 
+5.00 
+6.81 
+21.66 
+5.00 
+5.50 
+7.38 
+25.72 
+2.00 
+4.50 
+6.42 
+23.65 
+Notes: The table presents estimates of Sync (days), Duration (days), Duration (%) and Intensity measures for the 2008 global financial crisis (panel A), the Covid-19 
+crisis (panel B) and the Russian-Ukrainian war (panel C). For a definition of the measures, we refer you to section 3.2."
+"10 See Ter¨
+asvirta (1994) for more details. Smooth transition models have been 
+used in financial and economic context (Bradley & Jansen, 2004; Caggiano, 
+Castelnuovo, & Figueres, 2017; Ghoshray, 2010; A. Huang & Hu, 2012; Tse, 
+2001; Zhang, 2013)."
+"11 For brevity we only report slope and threshold coefficients from the ST-HAR 
+model; full results are available upon request from the authors."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+12
+markets. We analyse the volatility response of European and global stock 
+markets and a representative sample of commodities to the war crisis 
+and compare it against the recent Covid-19 pandemic and the 2008 
+global financial crisis."
+"This study employs a Markov-switching HAR model on volatility 
+proxies and obtains estimates of synchronization, duration and intensity 
+for each crisis event. The Markov-switching HAR model allows for an 
+endogenously identified regime shift."
+"Our results show an instantaneous reaction of global stock markets to 
+the Russian-Ukrainian war, which suggests that the invasion was 
+interpreted by investors as real news. This is markedly different to the 
+GFC or the Covid-19 crises, where there was a lagged response. The 
+crisis duration metrics suggest that the severity of the Russian-Ukrainian 
+war has been muted compared to either the GFC or the Covid-19. We 
+attribute this to the market expectations that the war would not be 
+prolonged. The findings for commodity markets concur with that of 
+stock markets except for one aspect: intensity. Commodities generally 
+appear to have weathered the Russian-Ukrainian war crisis in a similar 
+way to the Covid-19 and GFC crises. However, crisis intensity values for 
+specific commodities reveal strong ongoing pressure in this asset class, 
+and to the economy given the strategic importance of some of these 
+commodities."
+"In the short-term the Russian-Ukrainian war is expected lead to lower 
+economic growth and rising inflation. Annual GDP growth in 2023 is 
+projected to slow to 2.25% worldwide, to 0.5% in the US and to 0.25% in 
+the Euro area; well below pre-war forecasts (OECD, 2022). Following 
+the gradual global economic recovery from the Covid-19 pandemic, 
+inflationary pressure had already been building up. However, the 
+Russian-Ukrainian war, with its impact on energy and food prices, has 
+accelerated the inflationary pressure worldwide.12 On the energy front, 
+the heavy reliance of the EU on Russia leaves the former vulnerable to 
+gas supply reductions through the Nord Stream 1 pipeline (Eurostat, 
+2022; Financial Times, 2022c; World Bank, 2022c). Besides, the within- 
+EU heterogeneity on gas reliance leaves the union vulnerable to political 
+tension, for example over the proposed 15% voluntary reduction in gas 
+usage (The Guardian, 2022a)."
+"The long-term consequences of the war in Ukraine will depend on 
+current policy responses and priorities. Most recently, policy makers 
+have been promoting energy efficiency and low-carbon sources of en­
+ergy production, which is in line with the “green” goals of a transition 
+away from fossil fuels to arrest climate change. However, such goals may 
+become more elusive if policy makers rank energy security and 
+affordability higher in their agenda. On the food market front, produc­
+tion shortfalls, trade disruptions and increased input costs raise com­
+modity prices, most notably wheat. Ukrainian wheat exports, that 
+account for nearly 10% of global exports, ceased after the closure of 
+Ukrainian Black Sea ports. Exporting wheat overland is more expensive 
+than by sea (World Bank, 2022a). Rising food prices and disruptions to 
+trade pose risks to the coherence of the society. Besides, food security 
+ranks high on the policy makers' agendas; thus necessitating interna­
+tional cooperation on these issues. With regard to metal markets, our 
+results show that nickel has been heavily affected. Russia accounts for 
+20% of high-grade nickel used in batteries. Sanctions have disrupted 
+supply from Russia's mining giant “Nornickel”. The production of 
+stainless steel, which accounts for 70% of nickel consumption is slowing, 
+mainly in China (World Bank, 2022a). Developments in these com­
+modities may affect the affordability of clean forms of transportation, 
+and ultimately jeopardise the transition to a low-carbon economy."
+"The macroeconomic impact via commodity markets and rising in­
+flationary pressure may plunge global economies into recession. Stake­
+holders are concerned about commodity-driven contagion effects that 
+could have significant implications on financial markets and the real 
+economy (Financial Times, 2022e). It remains to be seen what remedial 
+steps will be taken to tackle a global recession. Future studies can further 
+examine the impact of the Russian-Ukrainian war and its far-reaching 
+effects on global economies as the war unfolds."
+"Declaration of Competing Interest 
+None."
+"References 
+Amihud, Y., & Wohl, A. (2004). Political news and stock prices: The case of Saddam 
+Hussein contracts. Journal of Banking & Finance, 28(5), 1185–1200."
+"Andersen, T. G., Bollerslev, T., Diebold, F. X., & Ebens, H. (2001). The distribution of 
+realized stock return volatility. Journal of Financial Economics, 61(1), 43–76."
+"Andersen, T. G., Bollerslev, T., Diebold, F. X., & Labys, P. (2003). Modeling and 
+forecasting realized volatility. Econometrica, 71(2), 579–625."
+"Baker, S. R., Bloom, N., & Davis, S. J. (2016). Measuring economic policy uncertainty."
+"The Quarterly Journal of Economics, 131(4), 1593–1636."
+"Baker, S. R., Bloom, N., Davis, S. J., Kost, K., Sammon, M., & Viratyosin, T. (2020). The 
+unprecedented stock market reaction to COVID-19. The Review of Asset Pricing 
+Studies, 10(4), 742–758."
+"Barndorff-Nielsen, O. E., & Shephard, N. (2002). Estimating quadratic variation using 
+realized variance. Journal of Applied Econometrics, 17(5), 457–477."
+"BBC. (2022). Ukraine war could last for years, warns NATO chief. https://www.bbc.co."
+uk/news/world-europe-61856144.
+"Benkraiem, R., Garfatta, R., Lakhal, F., & Zorgati, I. (2022). Financial contagion intensity 
+during the COVID-19 outbreak: A copula approach. International Review of Financial 
+Analysis, 102136."
+"Berkman, H., Jacobsen, B., & Lee, J. B. (2011). Time-varying rare disaster risk and stock 
+returns. Journal of Financial Economics, 101(2), 313–332."
+"Berner, R., Cecchetti, S., & Schoenholtz, K. (2022). Russian sanctions: Some questions and 
+answers. VoxEU.Org."
+"Bollerslev, T. (2022). Realized semi (co) variation: Signs that all volatilities are not 
+created equal. Journal of Financial Econometrics, 20(2), 219–252."
+"Bollerslev, T., Li, J., Patton, A. J., & Quaedvlieg, R. (2020). Realized semicovariances."
+"Econometrica, 88(4), 1515–1551."
+"Bollerslev, T., Patton, A. J., & Quaedvlieg, R. (2016). Exploiting the errors: A simple 
+approach for improved volatility forecasting. Journal of Econometrics, 192(1), 1–18."
+"Bollerslev, T., Patton, A. J., & Quaedvlieg, R. (2018). Modeling and forecasting (un) 
+reliable realized covariances for more reliable financial decisions. Journal of 
+Econometrics, 207(1), 71–91."
+"Bradley, M. D., & Jansen, D. W. (2004). Forecasting with a nonlinear dynamic model of 
+stock returns and industrial production. International Journal of Forecasting, 20(2), 
+321–342."
+"Brown, W. O., Jr., & Burdekin, R. C. K. (2002). German debt traded in London during the 
+second world war: A British perspective on Hitler. Economica, 69(276), 655–669."
+"Brunnermeier, M., James, H., & J-P, L. (2022). Sanctions and the international monetary 
+system. VoxEU.Org."
+"Caggiano, G., Castelnuovo, E., & Figueres, J. M. (2017). Economic policy uncertainty and 
+unemployment in the United States: A nonlinear approach. Economics Letters, 151, 
+31–34."
+"Caldara, D., & Iacoviello, M. (2022). Measuring geopolitical risk. American Economic 
+Review, 112(4), 1194–1225."
+"Choudhry, T. (2010). World war II events and the Dow Jones industrial index. Journal of 
+Banking & Finance, 34(5), 1022–1031."
+"Table 5 
+Robustness analysis."
+"Slope coefficient (γ) 
+Threshold coefficient (ψ) 
+GFC 
+Covid-19 
+War 
+GFC 
+Covid-19 
+War 
+Panel A. Stock markets 
+G7 
+2.23 
+6.14 
+7.78 
+2.68 
+2.01 
+1.95 
+Europe 
+0.61 
+9.26 
+1.55 
+2.12 
+2.51 
+1.67 
+RoW 
+0.99 
+5.28 
+1.62 
+3.16 
+2.54 
+1.95  
+Panel B. Commodities 
+Energy 
+3.29 
+22.90 
+13.81 
+3.33 
+2.84 
+0.24 
+Precious Metals 
+8.18 
+7.29 
+2.59 
+2.33 
+2.60 
+1.69 
+Agriculture 
+0.52 
+2.08 
+3.22 
+2.45 
+1.57 
+2.35 
+Base Metals 
+2.16 
+0.42 
+74.25 
+1.83 
+2.67 
+3.22 
+All 
+1.17 
+2.10 
+3.37 
+2.53 
+2.63 
+1.95 
+Notes: The table presents estimated coefficients for the ST-HAR model param­
+eters, see section 5 for more details. We refer you to section 3.1 of the paper for 
+classifications of stock markets and commodities."
+"12 Global inflation had risen to over 6% in February 2022, its highest level 
+since 2008 and it is running well above targets in almost all advanced econo­
+mies (World Bank, 2022c)."
+M. Izzeldin et al.
+""
+"International Review of Financial Analysis 87 (2023) 102598
+13
+Corsi, F. (2009). A simple approximate long-memory model of realized volatility. Journal 
+of Financial Econometrics, 7(2), 174–196."
+"Daniel, W. (2022, March 9). Demand for EV-powering nickel is so high that one exchange had 
+to halt trading. Fortune. Retrieved from https://fortune.com/2022/03/08/oil-nicke 
+l-commodities-markets-russia/."
+"Deng, M., Leippold, M., Wagner, A. F., & Wang, Q. (2022). Stock prices and the Russia- 
+Ukraine war: Sanctions, energy and ESG. In , 22–29. Swiss Finance Institute Research 
+Paper."
+European Commission. (2021). European economic forecast. Retrieved from https://ec.
+europa.eu/info/publications/economic-and-financial-affairs-publications_en.
+Eurostat. (2022). From where do we import energy?. Retrieved from https://ec.europa.
+eu/eurostat/cache/infographs/energy/bloc-2c.html.
+"FAO. (2022). Food and Agriculture Organization of the United States. Retrieved from 
+https://www.fao.org."
+"Ferrara, L., Mogliani, M., & Sahuc, J.-G. (2022). In VoxEU.Org (Ed.), High-frequency 
+macroeconomic risk measures in the wake of the war in Ukraine."
+"Financial Times. (2022a). At war with the whole world: Why Putin might be planning for 
+a long conflict in Ukraine. Retrieved from https://www.ft.com/content/63411b8 
+9-bf29-4865-b128-89c11870aeca."
+"Financial Times. (2022b). IMF cuts global growth forecast to 3.6% as Ukraine war hits 
+neighbours hard. Retrieved from https://www.ft.com/content/0a006298-6c41-461 
+d-98db-34e6d291dc87."
+Financial Times. (2022c). Russia cuts gas deliveries to Europe via Nord Stream 1.
+"Retrieved from https://www.ft.com/content/b193dc11-5069-41f5-ba86-2a83ea78f 
+911."
+"Financial Times. (2022d). Ukraine conflict: The risks looming for investors. Retrieved 
+from https://www.ft.com/content/b64c7e32-5947-4bc0-bf42-cb83f19ce070."
+"Financial Times. (2022e). War in Ukraine: What explains the calm in global stock 
+markets?. Retrieved from https://www.ft.com/content/4c4c4c04-151c-467c-b0 
+11-136d56546da9."
+"Frey, B. S., & Kucher, M. (2000). World war II as reflected on capital markets. Economics 
+Letters, 69(2), 187–191."
+"Frey, B. S., & Kucher, M. (2001). Wars and markets: How bond values reflect the second 
+world war. Economica, 68(271), 317–333."
+"Frey, B. S., & Waldenstr¨
+om, D. (2004). Markets work in war: World war II reflected in the 
+Zurich and Stockholm bond markets. Financial History Review, 11(1), 51–67."
+"Ghoshray, A. (2010). Smooth transition effects in price transmission: The case of 
+international wheat export prices. Economics Letters, 106(3), 169–171."
+"Hamilton, J. D. (1989). A new approach to the economic analysis of nonstationary time 
+series and the business cycle. Econometrica, 357–384."
+"Huang, A., & Hu, W.-C. (2012). Regime switching dynamics in credit default swaps: 
+Evidence from smooth transition autoregressive model. Physica A: Statistical 
+Mechanics and its Applications, 391(4), 1497–1508."
+"Huang, L., & Lu, F. (2022). The cost of Russian sanctions on the global equity markets."
+"SSRN, 4060927."
+"Hudson, R., & Urquhart, A. (2015). War and stock markets: The effect of world war two 
+on the British stock market. International Review of Financial Analysis, 40, 166–177."
+"Izzeldin, M., Murado˘
+glu, Y. G., Pappas, V., & Sivaprasad, S. (2021). The impact of Covid- 
+19 on G7 stock markets volatility: Evidence from a ST-HAR model. International 
+Review of Financial Analysis, 74, Article 101671."
+"JP Morgan. (2022). The Russia-Ukraine crisis: What does it mean for markets?. Retrieved 
+from https://www.jpmorgan.com/insights/research/russia-ukraine-crisis-market-i 
+mpact."
+"Leigh, A., Wolfers, J., & Zitzewitz, E. (2003). What do financial markets think of war in 
+Iraq?. In NBER working paper W9587."
+"Nozawa, Y., & Qiu, Y. (2021). Corporate bond market reactions to quantitative easing 
+during the COVID-19 pandemic. Journal of Banking & Finance, 133, Article 106153."
+"OECD. (2022). Economic outlook, interim report September 2022: Paying the price of war."
+"OECD Publishing Press. https://doi.org/10.1787/ae8c39ec-en 
+Omar, A. M. A., Wisniewski, T. P., & Nolte, S. (2017). Diversifying away the risk of war 
+and cross-border political crisis. Energy Economics, 64, 494–510."
+"Pappas, V., Ingham, H., Izzeldin, M., & Steele, G. (2016). Will the crisis “tear us apart”? 
+Evidence from the EU. International Review of Financial Analysis, 46, 346–360."
+"Pestova, A., Mamonov, M., & Ongena, S. (2022). The price of war: Macroeconomic effects of 
+the 2022 sanctions on Russia. VoxEU.Org."
+"Rigobon, R., & Sack, B. (2005). The effects of war risk on US financial markets. Journal of 
+Banking & Finance, 29(7), 1769–1789."
+"Sergi, B. S., Harjoto, M. A., Rossi, F., & Lee, R. (2021). Do stock markets love misery? 
+Evidence from the COVID-19. Finance Research Letters, 42, Article 101923."
+"Ter¨
+asvirta, T. (1994). Specification, estimation, and evaluation of smooth transition 
+autoregressive models. Journal of the American Statistical Association, 89(425), 
+208–218. https://doi.org/10.1080/01621459.1994.10476462 
+The Guardian. (2022a). EU agrees plan to ration gas use over Russia supply fears."
+"Retrieved from https://www.theguardian.com/business/2022/jul/26/eu-agrees-p 
+lan-to-reduce-gas-use-over-russia-supply-fears."
+"The Guardian. (2022b). Ukraine crisis has financial markets spooked, but not yet 
+despondend. Retrieved from https://www.theguardian.com/business/nils-pratley-o 
+n-finance/2022/feb/14/ukraine-crisis-has-financial-markets-spooked-but-not-yet-d 
+espondent."
+"Tsay, R. S. (2005). Analysis of financial time series. John Wiley & Sons, Ltd."
+"Tse, Y. (2001). Index arbitrage with heterogeneous investors: A smooth transition error 
+correction analysis. Journal of Banking & Finance, 25(10), 1829–1855."
+"Waldenstr¨
+om, D., & Frey, B. S. (2008). Did Nordic countries recognize the gathering 
+storm of world war II? Evidence from the bond markets. Explorations in Economic 
+History, 45(2), 107–126."
+"Wisniewski, T. P. (2009). Can political factors explain the behaviour of stock prices 
+beyond the standard present value models? Applied Financial Economics, 19(23), 
+1873–1884."
+"Wisniewski, T. P. (2016). Is there a link between politics and stock returns? A literature 
+survey. International Review of Financial Analysis, 47, 15–23."
+"World Bank. (2022a). Commodity markets outlook: The impact of the war in Ukraine on 
+commodity markets. WorldBank.Org."
+"World Bank. (2022b). Developing economies must act now to dampen the shocks from the 
+Ukraine conflict. WorldBank.Org. Retrieved from https://blogs.worldbank.org/vo 
+ices/developing-economies-must-act-now-dampen-shocks-ukraine-conflict? 
+cid=ECR_TT_worldbank_EN_EXT."
+World Bank. (2022c). Implications of the war in Ukraine for the global economy. WorldBank.
+Org.
+"Yip, P. S., Brooks, R., Do, H. X., & Nguyen, D. K. (2020). Dynamic volatility spillover 
+effects between oil and agricultural products. International Review of Financial 
+Analysis, 69, Article 101465."
+"Zhang, L. (2013). Revisiting the empirics of inflation in China: A smooth transition error 
+correction approach. Economics Letters, 119(1), 68–71."
+M. Izzeldin et al.
+""
