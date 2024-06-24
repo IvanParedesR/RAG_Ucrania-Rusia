@@ -5,7 +5,7 @@ The structure of the RAG is relatively simple:
 
 * Installation of libraries and import of installed libraries.
 * Loading OpenAI API keys. For security reasons, I am not including the OpenAI API key. To run it, you will need to generate an API key and insert it.
-* Load a database with text without embeddings; the CSV database includes: Year of the movie or TV show, name of the movie, review, and my opinion.
+* Load a database with text without embeddings; the CSV database includes: 10 papers about of the Ukranian - Russia War.
 * Generate embeddings with the text. Embeddings are numerical representations that capture the similarities and relationships between concepts.
 * Define specific functions to perform the search, define the response message, and respond.
 * Perform the search.
